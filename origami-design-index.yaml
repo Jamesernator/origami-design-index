@@ -4004,3 +4004,349 @@
       page: 24
     - name: Flapping Eagle
       page: 26
+    - name: Flapping Duck
+      page: 29
+    - name: Flapping Crane
+      page: 33
+    - name: Flapping Lovebirds
+      page: 39
+    - name: Inflatable Waterbomb
+      page: 42
+    - name: Blow-up Bunny
+      page: 44
+    - name: Sitting Bunny
+      page: 46
+    - name: Inflatable Goldfish
+      page: 49
+    - name: Folding Knife
+      page: 51
+    - name: Barking Wolf
+      page: 54
+    - name: Gobbling Clam
+      page: 57
+    - name: Talking Frogger
+      page: 61
+    - name: Pecking Woodpecker
+      page: 63
+    - name: Catapult
+      page: 66
+    - name: Cookie Catcher
+      page: 68
+    - name: Harlequin Cootie Catcher
+      page: 70
+    - name: Talking Mouse Mask
+      page: 72
+    - name: Talking Dragon
+      page: 76
+    - name: Kicking Frog
+      page: 78
+    - name: Wagging-Tail Doggie
+      page: 84
+    - name: Gliding Butterfly
+      page: 87
+    - name: Hovercraft
+      page: 89
+    - name: Boardsailor
+      page: 90
+    - name: Rocking Sailbot
+      page: 92
+    - name: Flying Fighter
+      page: 95
+    - name: Clapping Seal
+      page: 100
+    - name: Swimming Manatee
+      page: 103
+    - name: Kicking Otter
+      page: 107
+    - name: Tyrannosaurus Rex
+      page: 114
+    - name: Indian Paddling a Canoe
+      page: 121
+    - name: Strumming Guitarist
+      page: 133
+    - name: Fiddling Bassist
+      page: 140
+    - name: Flasher
+      page: 149
+    - name: Spring Into Action
+      page: 152
+- title: Origami - Paperfolding Fun in Colour
+  author: Zülal Aytüre-Scheele
+  items:
+    - name: Swan
+      page: 8
+    - name: Cygnet
+      page: 10
+    - name: Baby Monkey
+      page: 11
+    - name: Peacock
+      page: 12
+    - name: Penguin
+      page: 14
+    - name: Jungle Scene
+      page: 16
+    - name: Elephant
+      page: 18
+    - name: Puppy
+      page: 20
+    - name: Pirate Mask
+      page: 20
+    - name: Decorations
+      page: 22
+    - name: Windmill
+      page: 24
+    - name: Pomander
+      page: 24
+    - name: Angel Fish
+      page: 26
+    - name: Hat
+      page: 28
+    - name: Goldfish
+      page: 29
+    - name: Tug
+      page: 30
+    - name: Santa
+      page: 31
+    - name: Table Decorations
+      page: 32
+    - name: Picture Frame
+      page: 33
+    - name: Vase
+      page: 35
+    - name: Butterfly
+      page: 36
+    - name: Balloon
+      page: 38
+    - name: Aquarium Scene
+      page: 39
+    - name: Violets
+      page: 41
+    - name: Rose
+      page: 42
+    - name: Star-Shaped Box
+      page: 44
+    - name: Lily
+      page: 46
+    - name: Frog
+      page: 48
+    - name: Crab
+      page: 50
+    - name: Waterlily
+      page: 52
+    - name: Flying Crane
+      page: 55
+    - name: Stars
+      page: 56
+    - name: Star A
+      page: 57
+    - name: Star B
+      page: 58
+    - name: Rabbit
+      page: 60
+    - name: Devil Mask
+      page: 62
+    - name: Fox Mask
+      page: 66
+    - name: Desert Scene
+      page: 69
+    - name: Camel
+      page: 70
+    - name: Talking Fish
+      page: 74
+    - name: Monkey
+      page: 75
+- title: Origami Inspirations
+  author: Meenakshi Mukerji
+  items:
+    - name: Plain Cube
+      page: 14
+    - name: Plain Cube 2
+      page: 15
+    - name: Ray Cube
+      page: 16
+    - name: Thatch Cube
+      page: 18
+    - name: Whirl Cube
+      page: 19
+    - name: Butterfly Cube
+      page: 31
+    - name: Flower Cube
+      page: 33
+    - name: Flower Cube 2
+      page: 35
+    - name: Flower Cube 3
+      page: 36
+    - name: Flower Cube 4
+      page: 37
+    - name: Traditional and Five-Point Lillies
+      page: 45
+    - name: Flower Dodecahedron
+      page: 48
+    - name: Flower Dodecahedron 2
+      page: 51
+    - name: Flower Dodecahedron 3
+      page: 53
+    - name: Flower Dodecahedron 4
+      page: 55
+    - name: Flower Dodecahedron 5
+      page: 58
+    - name: Oleander
+      page: 60
+    - name: Windmill Base Cube
+      page: 64
+    - name: Windmill Base Cube 2
+      page: 68
+    - name: Whipped Cream Star
+      page: 69
+    - name: Star with Spirals
+      page: 73
+    - name: Whipped Cream Polyhedra
+      page: 75
+    - name: Waves
+      page: 78
+    - name: Truncated Rhombic Triacontahedron
+      page: 82
+    - name: Four Interlocked Triangular Prisms
+      page: 84
+    - name: Chrysanthemum Leroy
+      page: 88
+    - name: Chrysanthemum Lero Variation
+      page: 92
+    - name: Carnation Leroy
+      page: 94
+    - name: Camellia
+      page: 97
+    - name: Dahlia
+      page: 100
+    - name: Lily of the Nile
+      page: 103
+    - name: Crystal
+      page: 104
+    - name: Adaptable Dodecahedron
+      page: 107
+    - name: Adaptable Dodecahedron 2
+      page: 111
+- title: Origami Magic
+  author: Florence Temko
+  items:
+    - name: Magic Fortune Teller
+      page: 8
+    - name: Party Dish
+      page: 9
+    - name: Cat Puppet
+      page: 9
+    - name: Secret Friend's Knot
+      page: 10
+    - name: Ladybug
+      page: 12
+    - name: Wiggly Bug
+      page: 13
+    - name: Fish
+      page: 14
+    - name: My Pet Puppy
+      page: 16
+    - name: Fan
+      page: 18
+    - name: Bow
+      page: 20
+    - name: Tree Greeting Card
+      page: 24
+    - name: Santa Claus
+      page: 26
+    - name: Crazy Bird Mask
+      page: 28
+    - name: Pinocchio Mask
+      page: 29
+    - name: African Mask
+      page: 30
+    - name: Turkey
+      page: 32
+    - name: Dinosaur
+      page: 34
+    - name: Heart Valentine
+      page: 36
+    - name: Party Hat
+      page: 38
+    - name: Friendly Frog
+      page: 40
+    - name: Star
+      page: 43
+    - name: Flower Power
+      page: 44
+    - name: Magic Circle
+      page: 46
+    - name: Ball
+      page: 48
+    - name: Junk Box
+      page: 50
+    - name: Airplane
+      page: 52
+    - name: Puppet
+      page: 55
+    - name: Sailboat
+      page: 56
+    - name: Helicopter
+      page: 58
+    - name: International Peace Crane
+      page: 60
+    - name: Flapping Bird
+      page: 63
+- title: Origami Monsters
+  author: Isamu Asahi
+  items:
+    - name: Man From Mars
+      page: 5
+    - name: Green Gremlin
+      page: 6
+    - name: Creature from Green Lagoon
+      page: 7
+    - name: Cheese Man
+      page: 8
+    - name: Moon Pup
+      page: 9
+    - name: Galaxy Alien
+      page: 10
+    - name: Space Lizard
+      page: 11
+    - name: Body for Ninja
+      page: 12
+    - name: Spider Man
+      page: 13
+    - name: Alien Buzzfly
+      page: 14
+    - name: Cyclops
+      page: 15
+    - name: Conehead Clown
+      page: 16
+    - name: Lone Wolf
+      page: 18
+    - name: Body
+      page: 19
+    - name: Ninja
+      page: 20
+    - name: Bat Bird
+      page: 21
+    - name: Purple People Eater
+      page: 22
+    - name: Hungry Monk
+      page: 23
+    - name: Sun Fly
+      page: 24
+    - name: Martian Woodpecker
+      page: 25
+    - name: Space Fox
+      page: 26
+    - name: The Mummy
+      page: 27
+    - name: Hatted Tetra Garper
+      page: 28
+    - name: Happy Alien
+      page: 29
+    - name: Martian Lover
+      page: 30
+    - name: Body
+      page: 32
+- title: Origami Omnibus
+  author: Kunihiko Kasahara
+  items:
+    
