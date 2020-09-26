@@ -974,6 +974,8 @@
       page: 97
     - name: Earwig
       page: 103
+    - name: Butterfly
+      page: 110
 - title: Birds in Origami
   author: John Montroll
   models:
