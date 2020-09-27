@@ -4,64 +4,159 @@
   models:
     - name: Glider
       page: 6
+      paper: rectangle
+      tags:
+        - dart
     - name: Candy Bag
       page: 7
+      tags:
+        - bag
+        - container
     - name: Butterfly
       page: 8
+      tags:
+        - animal
+        - insect
+        - butterfly
     - name: Sampan
       page: 10
+      tags:
+        - vehicle
+        - boat
     - name: Duck Step
       page: 12
+      paper: napkin
+      tags:
+        - decoration
     - name: Cable Buffet
       page: 13
+      tags:
+        - practical
     - name: Bishop
       page: 14
+      paper: napkin
+      tags:
+        - hat
     - name: Fish
       page: 16
+      tags:
+        - animal
+        - fish
     - name: Sleepy Dog
       page: 18
+      tags:
+        - animal
+        - dog
     - name: Modular Decoration I
       page: 20
+      tags:
+        - modular
+        - decoration
     - name: Colour Change Bird
       page: 22
+      tags:
+        - animal
+        - bird
     - name: Modular Decoration II
       page: 24
+      tags:
+        - modular
+        - decoration
     - name: House
       page: 26
+      tags:
+        - building
+        - house
     - name: 3D House
       page: 28
+      tags:
+        - building
+        - house
     - name: G.I. Cap
       page: 29
+      paper: newspaper
+      tags:
+        - hat
     - name: Star
       page: 30
+      tags:
+        - star
+        - decoration
     - name: Waterbomb
       page: 32
+      tags:
+        - toy
+        - balloon
     - name: Traditional Box
       page: 34
+      tags:
+        - box
+        - container
     - name: Nesting Bird
       page: 36
+      tags:
+        - animal
+        - bird
     - name: Beak
       page: 38
+      tags:
+        - animal
+        - action
+        - face
+        - frog
     - name: Lighthearted
       page: 40
+      tags:
+        - action
+        - decoration
+        - heart
     - name: Star Box
       page: 42
+      tags:
+        - box
+        - container
     - name: Jumping Frog
       page: 44
+      tags:
+        - action
+        - animal
+        - frog
     - name: Bird
       page: 46
+      tags:
+        - animal
+        - bird
     - name: Building
       page: 48
+      tags:
+        - building
     - name: Pig
       page: 50
+      tags:
+        - animal
+        - mammal
+        - pig
     - name: Standing Heart
       page: 52
+      tags:
+        - decoration
+        - heart
     - name: Chinese Vase
       page: 54
+      tags:
+        - container
+        - vase
     - name: Electra
       page: 56
+      tags:
+        - modular
+        - polyhedra
     - name: Seal on a Rock
       page: 58
+      tags:
+        - animal
+        - mammal
+        - seal
 - title: Animal Origami for the Enthusiast
   author: John Montroll
   models:
