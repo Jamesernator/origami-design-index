@@ -1,4 +1,3 @@
-
 - title: 30 Origami Designs
   author: Unknown
   models:
@@ -157,14 +156,207 @@
         - animal
         - mammal
         - seal
+- title: A Plethora of Polyhedra in Origami
+  author: John Montroll
+  models:
+    - name: Tetrahedron
+      page: 12
+    - name: Cube
+      page: 14
+    - name: Octahedron
+      page: 16
+    - name: Icosahedron
+      page: 18
+    - name: Decahedron
+      page: 23
+    - name: Double Diamond Hexahedron
+      page: 25
+    - name: Triangular Dipyramid
+      page: 27
+    - name: Pentagonal Dipyramid
+      page: 31
+    - name: Hexagonal Dipyramid
+      page: 35
+    - name: Heptagonal Dipyramid
+      page: 38
+    - name: Triangular Prism
+      page: 42
+    - name: Pentagonal Prism
+      page: 45
+    - name: Hexagonal Prism
+      page: 49
+    - name: Six-Pointed Star
+      page: 54
+    - name: Octahemioctahedron
+      page: 57
+    - name: Cubehemioctahedron
+      page: 60
+    - name: Heptahedron
+      page: 63
+    - name: Dimpled Octahedron
+      page: 67
+    - name: Sunken Octahedron
+      page: 72
+    - name: Sunken Tetrahedron
+      page: 75
+    - name: Sunken Cube
+      page: 80
+    - name: Sunken Dodecahedron
+      page: 85
+    - name: Sunken Isocahedron
+      page: 90
+    - name: Triakis Tetrahedron
+      page: 96
+    - name: Rhombic Dodecahedron
+      page: 100
+    - name: Pentagonal Trapezohedron
+      page: 105
+    - name: Dodecahedron
+      page: 110
+- title: Action Origami
+  author: Rick Beech
+  models:
+    - name: Jumping Frog
+      page: 30
+    - name: Glider
+      page: 31
+    - name: Banger
+      page: 32
+    - name: Stackers
+      page: 33
+    - name: Barking Dog
+      page: 34
+    - name: Zoomerang
+      page: 35
+    - name: Tumblewing
+      page: 38
+    - name: Nodding Dog
+      page: 40
+    - name: Magic Star/Frisbee
+      page: 42
+    - name: Pecking Crow
+      page: 44
+    - name: Flapping Bird
+      page: 46
+    - name: Talking Frog
+      page: 49
+    - name: Moving Lizard
+      page: 52
+    - name: Laughter Lines
+      page: 58
+    - name: Fortune Teller
+      page: 59
+    - name: Dollar Shirt
+      page: 60
+    - name: Envelope Trick
+      page: 62
+    - name: Blinking Eyes
+      page: 64
+    - name: Strawberry
+      page: 66
+    - name: Kissing Lips
+      page: 68
+    - name: Money Pig
+      page: 71
+    - name: Spinner
+      page: 74
+    - name: Butterfly Ball
+      page: 75
+    - name: Japanese Brocade
+      page: 76
+    - name: Five Intersection Tetrahedra
+      page: 79
+    - name: Modular Star
+      page: 82
+    - name: Modular Cube
+      page: 85
+    - name: Kusudama
+      page: 88
+    - name: Fireworks
+      page: 92
+- title: Amazing Origami
+  author: Kunihiko Kasahara
+  models:
+    - name: Spiral Shape
+      page: 11
+    - name: Roulette
+      page: 14
+    - name: Grass
+      page: 15
+    - name: Crow
+      page: 15
+    - name: Star of David
+      page: 16
+    - name: Regular Hexagon
+      page: 18
+    - name: Vase
+      page: 19
+    - name: Regular 12-Sided Polygon
+      page: 20
+    - name: Twelve-Winged Spinning Top
+      page: 21
+    - name: Shooting Star
+      page: 24
+    - name: UFO
+      page: 26
+    - name: Monkiri
+      page: 29
+    - name: Regular Hexagon
+      page: 36
+    - name: Regular Octagon
+      page: 36
+    - name: Regular Heptagonal Pyramid
+      page: 37
+    - name: Regular Heptagon
+      page: 37
+    - name: Regular 16-Sided Polygon
+      page: 40
+    - name: Regular 17-Sided Polygon
+      page: 40
+    - name: Regular 18-Sided Polygon
+      page: 41
+    - name: Regular 24-Sided Polygon
+      page: 41
+    - name: Cube and Variations
+      page: 52
+    - name: Cube Made of Surface Modules
+      page: 54
+    - name: Cube Made of Corner Modules
+      page: 56
+    - name: Cube (Hexahedron)
+      page: 58
+    - name: Tetrahedron
+      page: 59
+    - name: Octahedron
+      page: 59
+    - name: Icosahedron
+      page: 59
+    - name: Dodecahedron from 54 degree Modules
+      page: 60
+    - name: 'The Octahedron: Five Variations'
+      page: 63
+- title: Animal Origami Adventure
+  author: John Montroll
+  models:
+    - name: Snake
+      page: 11
+    - name: Bear
+      page: 13
+    - name: Kangaroo
+      page: 17
+    - name: Giraffe
+      page: 22
+    - name: Fox
+      page: 27
+    - name: Elephant
+      page: 33
+    - name: Antelope
+      page: 38
+    - name: Rhinoceros
+      page: 43
 - title: Animal Origami for the Enthusiast
   author: John Montroll
   models:
-    - name: Star
-      page: 118
-      tags:
-        - decoration
-        - star
     - name: Angelfish
       page: 16
       tags:
@@ -307,194 +499,14 @@
       page: 115
       tags:
         - decoration
-- title: Classic Origami
-  author: Paul Jackson
-  models:
     - name: Star
-      page: 62
+      page: 118
       tags:
+        - decoration
         - star
-        - decoration
-    - name: Bird
-      page: 16
-      tags:
-        - animal
-        - bird
-    - name: Glider
-      page: 25
-      tags:
-        - dart
-        - action
-    - name: Banger
-      page: 14
-      tags:
-        - action
-    - name: Barking Dog
-      page: 72
-      tags:
-        - animal
-        - mammal
-        - dog
-    - name: Flapping Bird
-      page: 22
-      tags:
-        - animal
-        - bird
-        - action
-    - name: Cube
-      page: 38
-      tags:
-        - box
-        - cube
-        - container
-    - name: Crane
-      page: 24
-      tags:
-        - animal
-        - bird
-        - crane
-    - name: Fox
-      page: 46
-      tags:
-        - animal
-        - mammal
-        - fox
-    - name: Rooster
-      page: 58
-      tags:
-        - animal
-        - bird
-        - rooster
-    - name: Yacht
-      page: 36
-      tags:
-        - boat
-    - name: Crown
-      page: 15
-      tags:
-        - hat
-    - name: Cat
-      page: 40
-      tags:
-        - animal
-        - mammal
-        - cat
-    - name: Cup
-      page: 17
-      tags:
-        - container
-        - practical
-    - name: Waterlily
-      page: 18
-      tags:
-        - plant
-        - flower
-        - waterlily
-    - name: Dish
-      page: 19
-      tags:
-        - container
-    - name: Sampan
-      page: 26
-      tags:
-        - boat
-    - name: Junk
-      page: 28
-      tags:
-        - boat
-    - name: Yoshi Zawa's Butterfly
-      page: 34
-      tags:
-        - animal
-        - insect
-        - butterfly
-    - name: Mount Fuji and the Sea
-      page: 35
-      tags:
-        - landscape
-        - mountain
-        - ocean
-    - name: Eternally Opening Origami
-      page: 37
-      tags:
-        - action
-    - name: Incense Burner
-      page: 42
-      tags:
-        - decoration
-    - name: Tulip and Stem
-      page: 44
-      tags:
-        - plant
-        - flower
-        - tulip
-    - name: Stretch Wall
-      page: 48
-      tags:
-        - action
-    - name: Arrow
-      page: 52
-      tags:
-        - arrow
-    - name: Snap Hexahedron
-      page: 53
-      tags:
-        - action
-        - geometric
-    - name: The Un-Unfoldable Box
-      page: 54
-      tags:
-        - box
-        - container
-    - name: Face
-      page: 56
-      tags:
-        - face
-        - human
-    - name: Pop-Up Double Cube
-      page: 60
-      tags:
-        - box
-        - container
-    - name: Daffodil
-      page: 64
-      tags:
-        - plant
-        - flower
-        - daffodil
-    - name: Architectural Module
-      page: 68
-      tags:
-        - modular
-    - name: Rowing Boat
-      page: 73
-      tags:
-        - boat
-    - name: Rosette
-      page: 74
-      tags:
-        - flower
-        - plant
-        - rosette
-    - name: Rhino
-      page: 76
-      tags:
-        - animal
-        - mammal
-        - rhino
 - title: Art of Origami
   author: Samuel Randlett
   models:
-    - name: Waterbomb
-      page: 123
-    - name: Jumping Frog
-      page: 103
-    - name: Angelfish
-      page: 56
-    - name: Brontosaurus
-      page: 157
-    - name: Turtle
-      page: 111
     - name: Cicada
       page: 31
     - name: House
@@ -517,6 +529,8 @@
       page: 51
     - name: Duck
       page: 55
+    - name: Angelfish
+      page: 56
     - name: Talking Fish
       page: 57
     - name: Shorthorn Bull
@@ -525,9 +539,9 @@
       page: 61
     - name: Rabbit
       page: 63
-    - name: "Rabbit Variation I: Cotton Tail"
+    - name: 'Rabbit Variation I: Cotton Tail'
       page: 66
-    - name: "Rabbit Variation II: Head and Ears"
+    - name: 'Rabbit Variation II: Head and Ears'
       page: 67
     - name: Postman
       page: 73
@@ -553,16 +567,22 @@
       page: 95
     - name: Fukusuke
       page: 99
+    - name: Jumping Frog
+      page: 103
     - name: Red Pepper
       page: 105
     - name: Green Pepper
       page: 107
     - name: Persimmon
       page: 109
+    - name: Turtle
+      page: 111
     - name: Camel
       page: 115
     - name: Grasshopper
       page: 117
+    - name: Waterbomb
+      page: 123
     - name: Carrier Pigeon
       page: 125
     - name: New Flapping Bird
@@ -589,490 +609,119 @@
       page: 151
     - name: Butterfly
       page: 153
+    - name: Brontosaurus
+      page: 157
     - name: Stegosaurus
       page: 159
     - name: Christmas Ornaments
       page: 162
     - name: Japanese Flapping Bird
       page: 167
-- title: Complete Origami
-  author: Eric Kenneway
+- title: Beautiful Origami
+  author: Zülal Aytüre-Scheele
   models:
-    - name: Waterbomb
-      page: 184
-    - name: Banger
-      page: 18
-    - name: Flapping Bird
-      page: 12
-    - name: Flapping Bird
-      page: 130
-    - name: Fortune Teller
-      page: 154
-    - name: Kusudama
-      page: 95
-    - name: Star of David
-      page: 173
-    - name: Swan
-      page: 147
-    - name: Antelope
-      page: 86
-    - name: Spider
-      page: 88
-    - name: Mouse
-      page: 75
-    - name: Salt Cellar
-      page: 153
-    - name: Chrysanthemum
-      page: 165
-    - name: Talking Fox
-      page: 140
-    - name: Boat
-      page: 28
-    - name: Palm Tree
-      page: 170
-    - name: Bell
-      page: 38
-    - name: Candle
-      page: 54
-    - name: Five-Pointed Star
-      page: 162
-    - name: Christmas Tree
-      page: 38
-    - name: Cup
-      page: 48
-    - name: Dish
-      page: 47
-    - name: Coiled Spring
-      page: 12
-    - name: Magic Tipper
-      page: 13
-    - name: Aeroplane
-      page: 14
-    - name: Dart
-      page: 15
-    - name: Double-Barrelled Banger
-      page: 19
-    - name: Booklet
-      page: 30
-    - name: Jack-in-the-Box
-      page: 31
-    - name: Fluttering Butterfly
-      page: 35
-    - name: Chapeau Ring
-      page: 39
-    - name: Chinese Funerary Offering
-      page: 41
-    - name: Chinese Celebratory Offering
-      page: 42
-    - name: Corner Fastener
-      page: 46
-    - name: Simple Letter Fold
-      page: 51
-    - name: Envelope
-      page: 52
-    - name: Fan
-      page: 55
-    - name: Fan
-      page: 122
-    - name: Hexaflexagon
-      page: 58
-    - name: Iris
-      page: 63
-    - name: Foil Box
-      page: 67
-    - name: Japanese Jumping Frog
-      page: 69
-    - name: Chinese Jumping Frog
-      page: 70
-    - name: Banana
-      page: 74
-    - name: Paper Hat
-      page: 76
-    - name: Turban
-      page: 78
-    - name: Hood
-      page: 79
-    - name: Peruvian Kite
-      page: 90
-    - name: Thumb Knot
-      page: 92
-    - name: Reef Knot
-      page: 92
-    - name: Figure-of-Eight Knot
-      page: 92
-    - name: Carp
-      page: 94
-    - name: Long-Leaf Boat
-      page: 103
-    - name: Flower Doll
-      page: 103
-    - name: Loin Cloth
-      page: 104
-    - name: Map Fold
-      page: 106
-    - name: Sunburst
-      page: 110
-    - name: Dodecahedrron
-      page: 111
-    - name: Dollar Bill-Sized Paper
-      page: 113
-    - name: Potrait Ring
-      page: 114
-    - name: Borgia Ring
-      page: 115
-    - name: Bluebeard's Castle
-      page: 116
-    - name: Mitre
-      page: 122
-    - name: Buffet Server
-      page: 123
-    - name: Nappy
-      page: 123
-    - name: Pair of Slippers
-      page: 125
-    - name: Square Cushion Cover
-      page: 127
-    - name: Round Cushion Cover
-      page: 127
-    - name: Squeaker
-      page: 131
-    - name: Pajarita
-      page: 134
-    - name: Seagull and Surf
-      page: 136
-    - name: Picture Frame
-      page: 139
-    - name: Camera
-      page: 141
-    - name: Crawling Beetle
-      page: 142
-    - name: Boy Wearing a Newspaper Hat
-      page: 144
-    - name: Cluster Puzzle
-      page: 149
-    - name: Cootie Catcher
-      page: 154
-    - name: Paper Crane
-      page: 156
-    - name: Kissing Cranes
-      page: 157
-    - name: Quartet of Cranes
-      page: 157
-    - name: Mother Crane and Young
-      page: 158
-    - name: Circle of Cranes
-      page: 158
-    - name: Boat of Cranes
-      page: 158
-    - name: Scottie Dog
-      page: 158
-    - name: Tumbling Toy
-      page: 161
-    - name: Stretched Star
-      page: 163
-    - name: Tato
-      page: 167
-    - name: Rose
-      page: 171
-    - name: Right Angled Triangle
-      page: 173
-    - name: Equilateral Triangle
-      page: 173
-    - name: Troublewit
-      page: 174
-    - name: Six-Sided Box
-      page: 178
-    - name: Japanese Umbrella
-      page: 180
-    - name: Unbasic Form
-      page: 183
-    - name: Heart
-      page: 183
-    - name: Unsealed Wrapper
-      page: 188
-    - name: Seed Packet
-      page: 189
-    - name: Yakko-San
-      page: 190
-- title: Action Origami
-  author: Rick Beech
-  models:
-    - name: Jumping Frog
-      page: 30
-    - name: Glider
-      page: 31
-    - name: Banger
-      page: 32
-    - name: Stackers
-      page: 33
-    - name: Barking Dog
-      page: 34
-    - name: Zoomerang
-      page: 35
-    - name: Tumblewing
-      page: 38
-    - name: Nodding Dog
-      page: 40
-    - name: Magic Star/Frisbee
-      page: 42
-    - name: Pecking Crow
-      page: 44
-    - name: Flapping Bird
-      page: 46
-    - name: Talking Frog
-      page: 49
-    - name: Moving Lizard
-      page: 52
-    - name: Laughter Lines
-      page: 58
-    - name: Fortune Teller
-      page: 59
-    - name: Dollar Shirt
-      page: 60
-    - name: Envelope Trick
-      page: 62
-    - name: Blinking Eyes
-      page: 64
-    - name: Strawberry
-      page: 66
-    - name: Kissing Lips
-      page: 68
-    - name: Money Pig
-      page: 71
-    - name: Spinner
-      page: 74
-    - name: Butterfly Ball
-      page: 75
-    - name: Japanese Brocade
-      page: 76
-    - name: Five Intersection Tetrahedra
-      page: 79
-    - name: Modular Star
-      page: 82
-    - name: Modular Cube
-      page: 85
-    - name: Kusudama
-      page: 88
-    - name: Fireworks
-      page: 92
-- title: A Plethora of Polyhedra in Origami
-  author: John Montroll
-  models:
-    - name: Tetrahedron
-      page: 12
-    - name: Cube
-      page: 14
-    - name: Octahedron
-      page: 16
-    - name: Icosahedron
-      page: 18
-    - name: Decahedron
-      page: 23
-    - name: Double Diamond Hexahedron
-      page: 25
-    - name: Triangular Dipyramid
-      page: 27
-    - name: Pentagonal Dipyramid
-      page: 31
-    - name: Hexagonal Dipyramid
-      page: 35
-    - name: Heptagonal Dipyramid
-      page: 38
-    - name: Triangular Prism
-      page: 42
-    - name: Pentagonal Prism
-      page: 45
-    - name: Hexagonal Prism
-      page: 49
-    - name: Six-Pointed Star
-      page: 54
-    - name: Octahemioctahedron
-      page: 57
-    - name: Cubehemioctahedron
-      page: 60
-    - name: Heptahedron
-      page: 63
-    - name: Dimpled Octahedron
-      page: 67
-    - name: Sunken Octahedron
-      page: 72
-    - name: Sunken Tetrahedron
-      page: 75
-    - name: Sunken Cube
-      page: 80
-    - name: Sunken Dodecahedron
-      page: 85
-    - name: Sunken Isocahedron
-      page: 90
-    - name: Triakis Tetrahedron
-      page: 96
-    - name: Rhombic Dodecahedron
-      page: 100
-    - name: Pentagonal Trapezohedron
-      page: 105
-    - name: Dodecahedron
-      page: 110
-- title: Amazing Origami
-  author: Kunihiko Kasahara
-  models:
-    - name: Tetrahedron
-      page: 59
-    - name: Octahedron
-      page: 59
-    - name: Icosahedron
-      page: 59
-    - name: Spiral Shape
+    - name: Carrier Pigeon
+      page: 10
+    - name: Raven
       page: 11
-    - name: Roulette
+    - name: Bat
+      page: 12
+    - name: Owl
       page: 14
-    - name: Grass
-      page: 15
-    - name: Crow
-      page: 15
-    - name: Star of David
+    - name: Flying Stork
       page: 16
-    - name: Regular Hexagon
-      page: 18
-    - name: Regular Hexagon
-      page: 36
-    - name: Vase
-      page: 19
-    - name: Regular 12-Sided Polygon
-      page: 20
-    - name: Twelve-Winged Spinning Top
-      page: 21
-    - name: Shooting Star
-      page: 24
-    - name: UFO
-      page: 26
-    - name: Monkiri
-      page: 29
-    - name: Regular Octagon
-      page: 36
-    - name: Regular Heptagonal Pyramid
-      page: 37
-    - name: Regular Heptagon
-      page: 37
-    - name: Regular 16-Sided Polygon
-      page: 40
-    - name: Regular 17-Sided Polygon
-      page: 40
-    - name: Regular 18-Sided Polygon
-      page: 41
-    - name: Regular 24-Sided Polygon
-      page: 41
-    - name: Cube and Variations
-      page: 52
-    - name: Cube Made of Surface Modules
-      page: 54
-    - name: Cube Made of Corner Modules
-      page: 56
-    - name: Cube (Hexahedron)
-      page: 58
-    - name: Dodecahedron from 54 degree Modules
-      page: 60
-    - name: "The Octahedron: Five Variations"
-      page: 63
-- title: Dollar Bill Origami
-  author: John Montroll
-  models:
-    - name: Tetrahedron
-      page: 34
-    - name: Cube
-      page: 36
-    - name: Star of David
-      page: 19
-    - name: Crane
-      page: 62
-    - name: Swan
-      page: 60
-    - name: Eagle
-      page: 79
-    - name: Tyrannosaurus
-      page: 88
-    - name: Pelican
-      page: 76
-    - name: Rabbit
-      page: 91
-    - name: African Mask
-      page: 53
-    - name: Flower
-      page: 48
-    - name: Butterfly
-      page: 110
-    - name: Dragonfly
-      page: 114
-    - name: Squirrel
-      page: 95
-    - name: Goose
-      page: 67
-    - name: Flamingo
-      page: 70
-    - name: Boat
-      page: 11
-    - name: Bison
-      page: 106
-    - name: Vulture
-      page: 64
-    - name: Alligator
-      page: 85
-    - name: Three Diamonds
-      page: 13
-    - name: George Washington Slept Here
-      page: 15
-    - name: George Washington Framed
+    - name: Standing Stork
       page: 17
-    - name: Windmill
-      page: 21
-    - name: House with Chimney
+    - name: Dove
+      page: 19
+    - name: Sea Lion
+      page: 22
+    - name: Whale
+      page: 23
+    - name: Shark
       page: 24
-    - name: Sword
-      page: 27
-    - name: "'One-Way' Arrow"
+    - name: Ray
+      page: 26
+    - name: Turtle
       page: 30
-    - name: Diamond
+    - name: Butterfly
+      page: 32
+    - name: Dragonfly
+      page: 34
+    - name: Scorpion
+      page: 36
+    - name: Grasshopper
+      page: 37
+    - name: Amaryllis
+      page: 38
+    - name: Magnolia
       page: 39
-    - name: Tulip
-      page: 42
-    - name: Evergreen
-      page: 49
-    - name: Tree
+    - name: Chrysanthemum
+      page: 40
+    - name: Giraffe
+      page: 44
+    - name: Crocodile
       page: 46
-    - name: Shirt with Tie
+    - name: Snake
+      page: 49
+    - name: Stag
+      page: 50
+    - name: Lion
+      page: 53
+    - name: Lioness
       page: 56
-    - name: Peacock
-      page: 73
-    - name: Asian Dragon
-      page: 83
-    - name: Armadillo
-      page: 93
-    - name: Aardvark
-      page: 98
-    - name: LLama
-      page: 102
+    - name: Unicorn
+      page: 62
+    - name: Pegasus
+      page: 64
+    - name: Dinosaur
+      page: 66
+    - name: Witch
+      page: 69
+    - name: Squirrel
+      page: 72
+    - name: Kangaroo (and Baby)
+      page: 74
+    - name: Peacock with Tail Folded
+      page: 76
+    - name: Peacock with Tail Unfolded
+      page: 79
+- title: Birds in Origami
+  author: John Montroll
+  models:
+    - name: Duck
+      page: 9
+    - name: Swan
+      page: 11
+    - name: Goose
+      page: 13
+    - name: Flamingo
+      page: 15
+    - name: Pelican
+      page: 18
+    - name: Heron
+      page: 20
+    - name: Pheasant
+      page: 22
+    - name: Seagull
+      page: 25
+    - name: Hummingbird
+      page: 27
+    - name: Cardinal
+      page: 30
+    - name: Cormorant
+      page: 33
+    - name: Stork
+      page: 36
+    - name: Eagle
+      page: 39
+    - name: Canary
+      page: 42
+    - name: Parrot
+      page: 45
 - title: Brilliant Origami
   author: David Brill
   models:
-    - name: Cube
-      page: 74
-    - name: Icosahedron
-      page: 75
-    - name: Fox
-      page: 125
-    - name: Elephant
-      page: 140
-    - name: Mouse
-      page: 108
-    - name: Rabbit
-      page: 111
-    - name: Lion
-      page: 159
-    - name: Lioness
-      page: 150
-    - name: Squirrel
-      page: 119
-    - name: Goose
-      page: 114
     - name: Emu
       page: 24
     - name: Exhibitionist
@@ -1109,6 +758,10 @@
       page: 64
     - name: Honeymoon Box
       page: 67
+    - name: Cube
+      page: 74
+    - name: Icosahedron
+      page: 75
     - name: Sunken Silver Star
       page: 76
     - name: 30 Point Sunken Star
@@ -1117,7 +770,7 @@
       page: 79
     - name: Silver Dodecahedra
       page: 80
-    - name: "'Woven' Strip Dodecahedron"
+    - name: '''Woven'' Strip Dodecahedron'
       page: 82
     - name: True Woven Dodecahedron
       page: 83
@@ -1139,14 +792,30 @@
       page: 106
     - name: Corgi
       page: 106
+    - name: Mouse
+      page: 108
     - name: Guinea Pig
       page: 110
+    - name: Rabbit
+      page: 111
+    - name: Goose
+      page: 114
+    - name: Squirrel
+      page: 119
     - name: Foxhound
       page: 123
+    - name: Fox
+      page: 125
     - name: Horseman
       page: 128
     - name: Rhinoceros
       page: 135
+    - name: Elephant
+      page: 140
+    - name: Lioness
+      page: 150
+    - name: Lion
+      page: 159
     - name: Lion Cub
       page: 163
     - name: Horse
@@ -1211,41 +880,68 @@
       page: 232
     - name: Single Cube
       page: 234
+- title: Bringing Origami to Life
+  author: John Montroll
+  models:
+    - name: Cat
+      page: 28
+    - name: Dog
+      page: 32
+    - name: Eagle
+      page: 33
+    - name: Parrot
+      page: 36
+    - name: Rabbit
+      page: 40
+    - name: Squirrel
+      page: 49
+    - name: Horse
+      page: 54
+    - name: Bear
+      page: 58
+    - name: Bison
+      page: 62
+    - name: Anteater
+      page: 66
+    - name: Ibis
+      page: 74
+    - name: Kangaroo
+      page: 79
+    - name: Coyote
+      page: 84
+    - name: African Elephant
+      page: 90
+    - name: Lion
+      page: 95
+    - name: Hippopotamus
+      page: 101
+    - name: Crocodile
+      page: 106
+    - name: Horse with Rider
+      page: 113
 - title: Bugs and Birds in Origami
   author: John Montroll
   models:
-    - name: Crow
-      page: 15
-    - name: Crane
-      page: 59
-    - name: Spider
-      page: 85
-    - name: Pelican
-      page: 36
-    - name: Pheasant
-      page: 30
-    - name: Parrot
-      page: 63
-    - name: Butterfly
-      page: 110
     - name: Goose
       page: 10
-    - name: Flamingo
-      page: 22
-    - name: Hummingbird
-      page: 53
     - name: Cardinal
       page: 12
-    - name: Stork
-      page: 67
-    - name: Ibis
-      page: 19
+    - name: Crow
+      page: 15
     - name: Snipe
       page: 16
+    - name: Ibis
+      page: 19
+    - name: Flamingo
+      page: 22
     - name: Ostrich
       page: 26
+    - name: Pheasant
+      page: 30
     - name: Quetzal
       page: 33
+    - name: Pelican
+      page: 36
     - name: Turkey
       page: 40
     - name: Woodpecker
@@ -1254,16 +950,26 @@
       page: 47
     - name: Pigeon
       page: 50
+    - name: Hummingbird
+      page: 53
     - name: Vulture
       page: 54
     - name: Robin
       page: 57
+    - name: Crane
+      page: 59
+    - name: Parrot
+      page: 63
+    - name: Stork
+      page: 67
     - name: Scavenger Beetle
       page: 72
     - name: Ladybug
       page: 77
     - name: Fly
       page: 79
+    - name: Spider
+      page: 85
     - name: Wasp
       page: 91
     - name: Long-Horned Beetle
@@ -1272,56 +978,11 @@
       page: 103
     - name: Butterfly
       page: 110
-- title: Birds in Origami
-  author: John Montroll
-  models:
-    - name: Swan
-      page: 11
-    - name: Eagle
-      page: 39
-    - name: Pelican
-      page: 18
-    - name: Duck
-      page: 9
-    - name: Pheasant
-      page: 22
-    - name: Parrot
-      page: 45
-    - name: Goose
-      page: 13
-    - name: Flamingo
-      page: 15
-    - name: Heron
-      page: 20
-    - name: Seagull
-      page: 25
-    - name: Hummingbird
-      page: 27
-    - name: Cardinal
-      page: 30
-    - name: Cormorant
-      page: 33
-    - name: Stork
-      page: 36
-    - name: Canary
-      page: 42
+    - name: Butterfly
+      page: 110
 - title: Christmas Origami
   author: John Montroll
   models:
-    - name: Swan
-      page: 54
-    - name: House
-      page: 101
-    - name: Mouse
-      page: 102
-    - name: Goose
-      page: 52
-    - name: Reindeer
-      page: 116
-    - name: Sleigh
-      page: 113
-    - name: Dog
-      page: 29
     - name: Manger
       page: 14
     - name: Star of Bethlehem
@@ -1338,6 +999,8 @@
       page: 26
     - name: Cradle
       page: 27
+    - name: Dog
+      page: 29
     - name: Dromedary
       page: 32
     - name: Sheep
@@ -1354,6 +1017,10 @@
       page: 49
     - name: Golden Ring
       page: 51
+    - name: Goose
+      page: 52
+    - name: Swan
+      page: 54
     - name: Maids a-Milking
       page: 55
     - name: Ladies Dancing
@@ -1394,122 +1061,425 @@
       page: 96
     - name: Caboose
       page: 98
+    - name: House
+      page: 101
+    - name: Mouse
+      page: 102
     - name: Christmas Tree
       page: 106
     - name: Winter Tree
       page: 108
     - name: Snowman
       page: 110
+    - name: Sleigh
+      page: 113
+    - name: Reindeer
+      page: 116
     - name: Santa Claus
       page: 118
-- title: Bringing Origami to Life
-  author: John Montroll
+- title: Classic Origami
+  author: Paul Jackson
   models:
-    - name: Eagle
-      page: 33
-    - name: Bear
-      page: 58
-    - name: Kangaroo
-      page: 79
-    - name: Rabbit
-      page: 40
-    - name: Parrot
-      page: 36
-    - name: Crocodile
-      page: 106
-    - name: Lion
-      page: 95
-    - name: Squirrel
-      page: 49
-    - name: Horse
-      page: 54
-    - name: Cat
-      page: 28
-    - name: Dog
-      page: 32
-    - name: Bison
-      page: 62
-    - name: Anteater
-      page: 66
-    - name: Ibis
-      page: 74
-    - name: Coyote
-      page: 84
-    - name: African Elephant
-      page: 90
-    - name: Hippopotamus
-      page: 101
-    - name: Horse with Rider
-      page: 113
-- title: Beautiful Origami
-  author: Zülal Aytüre-Scheele 
-  models:
-    - name: Owl
+    - name: Banger
       page: 14
-    - name: Snake
-      page: 49
-    - name: Turtle
-      page: 30
-    - name: Giraffe
-      page: 44
-    - name: Witch
-      page: 69
-    - name: Grasshopper
-      page: 37
-    - name: Carrier Pigeon
-      page: 10
-    - name: Butterfly
-      page: 32
-    - name: Raven
-      page: 11
-    - name: Bat
-      page: 12
-    - name: Flying Stork
+      tags:
+        - action
+    - name: Crown
+      page: 15
+      tags:
+        - hat
+    - name: Bird
       page: 16
-    - name: Standing Stork
+      tags:
+        - animal
+        - bird
+    - name: Cup
       page: 17
-    - name: Dove
+      tags:
+        - container
+        - practical
+    - name: Waterlily
+      page: 18
+      tags:
+        - plant
+        - flower
+        - waterlily
+    - name: Dish
       page: 19
-    - name: Sea Lion
+      tags:
+        - container
+    - name: Flapping Bird
       page: 22
-    - name: Whale
-      page: 23
-    - name: Shark
+      tags:
+        - animal
+        - bird
+        - action
+    - name: Crane
       page: 24
-    - name: Ray
+      tags:
+        - animal
+        - bird
+        - crane
+    - name: Glider
+      page: 25
+      tags:
+        - dart
+        - action
+    - name: Sampan
       page: 26
-    - name: Dragonfly
+      tags:
+        - boat
+    - name: Junk
+      page: 28
+      tags:
+        - boat
+    - name: Yoshi Zawa's Butterfly
       page: 34
-    - name: Scorpion
+      tags:
+        - animal
+        - insect
+        - butterfly
+    - name: Mount Fuji and the Sea
+      page: 35
+      tags:
+        - landscape
+        - mountain
+        - ocean
+    - name: Yacht
       page: 36
-    - name: Amaryllis
+      tags:
+        - boat
+    - name: Eternally Opening Origami
+      page: 37
+      tags:
+        - action
+    - name: Cube
       page: 38
-    - name: Magnolia
-      page: 39
-    - name: Chrysanthemum
+      tags:
+        - box
+        - cube
+        - container
+    - name: Cat
       page: 40
-    - name: Crocodile
+      tags:
+        - animal
+        - mammal
+        - cat
+    - name: Incense Burner
+      page: 42
+      tags:
+        - decoration
+    - name: Tulip and Stem
+      page: 44
+      tags:
+        - plant
+        - flower
+        - tulip
+    - name: Fox
       page: 46
-    - name: Stag
-      page: 50
-    - name: Lion
+      tags:
+        - animal
+        - mammal
+        - fox
+    - name: Stretch Wall
+      page: 48
+      tags:
+        - action
+    - name: Arrow
+      page: 52
+      tags:
+        - arrow
+    - name: Snap Hexahedron
       page: 53
-    - name: Lioness
+      tags:
+        - action
+        - geometric
+    - name: The Un-Unfoldable Box
+      page: 54
+      tags:
+        - box
+        - container
+    - name: Face
       page: 56
-    - name: Unicorn
+      tags:
+        - face
+        - human
+    - name: Rooster
+      page: 58
+      tags:
+        - animal
+        - bird
+        - rooster
+    - name: Pop-Up Double Cube
+      page: 60
+      tags:
+        - box
+        - container
+    - name: Star
       page: 62
-    - name: Pegasus
+      tags:
+        - star
+        - decoration
+    - name: Daffodil
       page: 64
-    - name: Dinosaur
-      page: 66
-    - name: Squirrel
+      tags:
+        - plant
+        - flower
+        - daffodil
+    - name: Architectural Module
+      page: 68
+      tags:
+        - modular
+    - name: Barking Dog
       page: 72
-    - name: Kangaroo (and Baby)
+      tags:
+        - animal
+        - mammal
+        - dog
+    - name: Rowing Boat
+      page: 73
+      tags:
+        - boat
+    - name: Rosette
       page: 74
-    - name: Peacock with Tail Folded
+      tags:
+        - flower
+        - plant
+        - rosette
+    - name: Rhino
       page: 76
-    - name: Peacock with Tail Unfolded
+      tags:
+        - animal
+        - mammal
+        - rhino
+- title: Complete Origami
+  author: Eric Kenneway
+  models:
+    - name: Flapping Bird
+      page: 12
+    - name: Coiled Spring
+      page: 12
+    - name: Magic Tipper
+      page: 13
+    - name: Aeroplane
+      page: 14
+    - name: Dart
+      page: 15
+    - name: Banger
+      page: 18
+    - name: Double-Barrelled Banger
+      page: 19
+    - name: Boat
+      page: 28
+    - name: Booklet
+      page: 30
+    - name: Jack-in-the-Box
+      page: 31
+    - name: Fluttering Butterfly
+      page: 35
+    - name: Bell
+      page: 38
+    - name: Christmas Tree
+      page: 38
+    - name: Chapeau Ring
+      page: 39
+    - name: Chinese Funerary Offering
+      page: 41
+    - name: Chinese Celebratory Offering
+      page: 42
+    - name: Corner Fastener
+      page: 46
+    - name: Dish
+      page: 47
+    - name: Cup
+      page: 48
+    - name: Simple Letter Fold
+      page: 51
+    - name: Envelope
+      page: 52
+    - name: Candle
+      page: 54
+    - name: Fan
+      page: 55
+    - name: Hexaflexagon
+      page: 58
+    - name: Iris
+      page: 63
+    - name: Foil Box
+      page: 67
+    - name: Japanese Jumping Frog
+      page: 69
+    - name: Chinese Jumping Frog
+      page: 70
+    - name: Banana
+      page: 74
+    - name: Mouse
+      page: 75
+    - name: Paper Hat
+      page: 76
+    - name: Turban
+      page: 78
+    - name: Hood
       page: 79
+    - name: Antelope
+      page: 86
+    - name: Spider
+      page: 88
+    - name: Peruvian Kite
+      page: 90
+    - name: Thumb Knot
+      page: 92
+    - name: Reef Knot
+      page: 92
+    - name: Figure-of-Eight Knot
+      page: 92
+    - name: Carp
+      page: 94
+    - name: Kusudama
+      page: 95
+    - name: Long-Leaf Boat
+      page: 103
+    - name: Flower Doll
+      page: 103
+    - name: Loin Cloth
+      page: 104
+    - name: Map Fold
+      page: 106
+    - name: Sunburst
+      page: 110
+    - name: Dodecahedrron
+      page: 111
+    - name: Dollar Bill-Sized Paper
+      page: 113
+    - name: Potrait Ring
+      page: 114
+    - name: Borgia Ring
+      page: 115
+    - name: Bluebeard's Castle
+      page: 116
+    - name: Fan
+      page: 122
+    - name: Mitre
+      page: 122
+    - name: Buffet Server
+      page: 123
+    - name: Nappy
+      page: 123
+    - name: Pair of Slippers
+      page: 125
+    - name: Square Cushion Cover
+      page: 127
+    - name: Round Cushion Cover
+      page: 127
+    - name: Flapping Bird
+      page: 130
+    - name: Squeaker
+      page: 131
+    - name: Pajarita
+      page: 134
+    - name: Seagull and Surf
+      page: 136
+    - name: Picture Frame
+      page: 139
+    - name: Talking Fox
+      page: 140
+    - name: Camera
+      page: 141
+    - name: Crawling Beetle
+      page: 142
+    - name: Boy Wearing a Newspaper Hat
+      page: 144
+    - name: Swan
+      page: 147
+    - name: Cluster Puzzle
+      page: 149
+    - name: Salt Cellar
+      page: 153
+    - name: Fortune Teller
+      page: 154
+    - name: Cootie Catcher
+      page: 154
+    - name: Paper Crane
+      page: 156
+    - name: Kissing Cranes
+      page: 157
+    - name: Quartet of Cranes
+      page: 157
+    - name: Mother Crane and Young
+      page: 158
+    - name: Circle of Cranes
+      page: 158
+    - name: Boat of Cranes
+      page: 158
+    - name: Scottie Dog
+      page: 158
+    - name: Tumbling Toy
+      page: 161
+    - name: Five-Pointed Star
+      page: 162
+    - name: Stretched Star
+      page: 163
+    - name: Chrysanthemum
+      page: 165
+    - name: Tato
+      page: 167
+    - name: Palm Tree
+      page: 170
+    - name: Rose
+      page: 171
+    - name: Star of David
+      page: 173
+    - name: Right Angled Triangle
+      page: 173
+    - name: Equilateral Triangle
+      page: 173
+    - name: Troublewit
+      page: 174
+    - name: Six-Sided Box
+      page: 178
+    - name: Japanese Umbrella
+      page: 180
+    - name: Unbasic Form
+      page: 183
+    - name: Heart
+      page: 183
+    - name: Waterbomb
+      page: 184
+    - name: Unsealed Wrapper
+      page: 188
+    - name: Seed Packet
+      page: 189
+    - name: Yakko-San
+      page: 190
+- title: Creepy Crawling Animal Origami
+  author: Duy Nguyen
+  models:
+    - name: Scorpion
+      page: 18
+    - name: Alligator
+      page: 24
+    - name: Dragonfly
+      page: 30
+    - name: Lobster
+      page: 36
+    - name: Gecko
+      page: 42
+    - name: Land Turtle
+      page: 48
+    - name: Army Ant
+      page: 52
+    - name: Komodo
+      page: 58
+    - name: Mosquito
+      page: 64
+    - name: Praying Mantis
+      page: 70
+    - name: Wasp
+      page: 74
+    - name: Sea Turtle
+      page: 82
+    - name: Tarantula
+      page: 88
 - title: Dinosaur Origami
   author: Duy Nguyen
   models:
@@ -1541,35 +1511,83 @@
       page: 84
     - name: Barosaur
       page: 90
-- title: Creepy Crawling Animal Origami
-  author: Duy Nguyen
+- title: Dollar Bill Origami
+  author: John Montroll
   models:
-    - name: Lobster
-      page: 36
-    - name: Sea Turtle
-      page: 82
-    - name: Dragonfly
-      page: 30
-    - name: Scorpion
-      page: 18
-    - name: Wasp
-      page: 74
-    - name: Alligator
+    - name: Boat
+      page: 11
+    - name: Three Diamonds
+      page: 13
+    - name: George Washington Slept Here
+      page: 15
+    - name: George Washington Framed
+      page: 17
+    - name: Star of David
+      page: 19
+    - name: Windmill
+      page: 21
+    - name: House with Chimney
       page: 24
-    - name: Gecko
+    - name: Sword
+      page: 27
+    - name: '''One-Way'' Arrow'
+      page: 30
+    - name: Tetrahedron
+      page: 34
+    - name: Cube
+      page: 36
+    - name: Diamond
+      page: 39
+    - name: Tulip
       page: 42
-    - name: Land Turtle
+    - name: Tree
+      page: 46
+    - name: Flower
       page: 48
-    - name: Army Ant
-      page: 52
-    - name: Komodo
-      page: 58
-    - name: Mosquito
+    - name: Evergreen
+      page: 49
+    - name: African Mask
+      page: 53
+    - name: Shirt with Tie
+      page: 56
+    - name: Swan
+      page: 60
+    - name: Crane
+      page: 62
+    - name: Vulture
       page: 64
-    - name: Praying Mantis
+    - name: Goose
+      page: 67
+    - name: Flamingo
       page: 70
-    - name: Tarantula
+    - name: Peacock
+      page: 73
+    - name: Pelican
+      page: 76
+    - name: Eagle
+      page: 79
+    - name: Asian Dragon
+      page: 83
+    - name: Alligator
+      page: 85
+    - name: Tyrannosaurus
       page: 88
+    - name: Rabbit
+      page: 91
+    - name: Armadillo
+      page: 93
+    - name: Squirrel
+      page: 95
+    - name: Aardvark
+      page: 98
+    - name: LLama
+      page: 102
+    - name: Bison
+      page: 106
+    - name: Butterfly
+      page: 110
+    - name: Dragonfly
+      page: 114
 - title: Easter Origami
   author: Ruth Owen
   models:
@@ -1713,7 +1731,7 @@
       page: 33
     - name: Bird and Wreath Mobile
       page: 34
-    - name: "Leaf" Bookmark
+    - name: '"Leaf" Bookmark'
       page: 35
     - name: Boots
       page: 36
@@ -2369,7 +2387,7 @@
       page: 28
     - name: Water Bomb
       page: 30
-- title: Making Great Papercrafts, Origami, Stationery and Gift Wraps
+- title: 'Making Great Papercrafts, Origami, Stationery and Gift Wraps'
   author: Unknown
   models:
     - name: Glider
@@ -2610,6 +2628,224 @@
       page: 61
     - name: Hydra
       page: 70
+- title: Origami
+  author: Hideaki Sakata
+  models:
+    - name: Crane
+      page: 19
+    - name: Star Shaped Box
+      page: 20
+    - name: Morning-Glory
+      page: 22
+    - name: Flapping Crane
+      page: 23
+    - name: Nesting Crane
+      page: 25
+    - name: Rabbit
+      page: 27
+    - name: Bird
+      page: 28
+    - name: Swan
+      page: 30
+    - name: Pinwheel
+      page: 32
+    - name: Sailboat
+      page: 32
+    - name: Catamaran
+      page: 33
+    - name: Boat
+      page: 34
+    - name: Kusudama
+      page: 36
+    - name: Table
+      page: 37
+    - name: Tortoise
+      page: 38
+    - name: Kabuto
+      page: 39
+    - name: Dove
+      page: 40
+    - name: Paper Cup
+      page: 40
+    - name: Cicada
+      page: 42
+    - name: Goldfish
+      page: 43
+    - name: Char
+      page: 45
+    - name: Yakko
+      page: 45
+    - name: Hakama
+      page: 45
+    - name: Sanbo
+      page: 46
+    - name: Kikuzara
+      page: 48
+    - name: Box
+      page: 50
+    - name: Balloon
+      page: 53
+    - name: Church
+      page: 54
+    - name: Lily
+      page: 55
+    - name: Organ
+      page: 59
+    - name: Cap
+      page: 60
+    - name: Purse
+      page: 60
+    - name: Fox Mask
+      page: 61
+    - name: Fish
+      page: 64
+    - name: Whale
+      page: 65
+    - name: Seal
+      page: 66
+- title: Origami
+  author: Linda Barker
+  models:
+    - name: Windmill
+      page: 10
+    - name: Coaster
+      page: 11
+    - name: Salt Cellar
+      page: 12
+    - name: Spanish Box
+      page: 13
+    - name: Crown
+      page: 14
+    - name: Flower Decorations
+      page: 15
+    - name: Samurai Hat
+      page: 16
+    - name: Goldfish
+      page: 17
+    - name: Cup
+      page: 18
+    - name: Yakko-San
+      page: 19
+    - name: Booklet
+      page: 20
+    - name: Four- or Eight-pointed Star
+      page: 21
+    - name: Corner Fastener
+      page: 22
+    - name: Seed Envelope
+      page: 23
+    - name: Butterfly
+      page: 24
+    - name: Box on Legs
+      page: 27
+    - name: Shallow Box
+      page: 28
+    - name: G.I. Hat
+      page: 28
+    - name: Simple Boat
+      page: 32
+    - name: Bracelet
+      page: 34
+    - name: Iris
+      page: 36
+    - name: Rooster
+      page: 38
+    - name: Star-Shaped Box
+      page: 40
+    - name: Cubic Gift Box
+      page: 42
+    - name: Picture Frame
+      page: 44
+    - name: Cygnet
+      page: 46
+    - name: Flying Crane
+      page: 48
+    - name: Mouse
+      page: 50
+    - name: Swan
+      page: 52
+    - name: Antelope
+      page: 54
+    - name: Frog
+      page: 56
+    - name: Umbrella
+      page: 58
+    - name: Scottish Terrier
+      page: 60
+    - name: Snail
+      page: 62
+- title: Origami
+  author: Makiko Ideka
+  models:
+    - name: Cow Face
+      page: 8
+    - name: Elephant Face
+      page: 10
+    - name: Dog Face
+      page: 12
+    - name: Cat Face
+      page: 12
+    - name: Balloon
+      page: 14
+    - name: Pencils
+      page: 16
+    - name: Star-Shaped Box
+      page: 18
+    - name: Paper Cup
+      page: 21
+    - name: Top
+      page: 22
+    - name: Whale
+      page: 25
+    - name: Penguin
+      page: 27
+    - name: Flying Crane
+      page: 31
+    - name: Pigeon
+      page: 34
+    - name: Goldfish
+      page: 36
+    - name: Dinosaur
+      page: 38
+    - name: Lily
+      page: 42
+    - name: Flower Ball
+      page: 45
+- title: Origami
+  authors:
+    - Makiko Ideka
+    - Ivan Shaun
+  models:
+    - name: Animal Faces
+      page: 8
+    - name: House
+      page: 10
+    - name: Piano
+      page: 10
+    - name: Cicada
+      page: 12
+    - name: Penguin
+      page: 13
+    - name: Airplane
+      page: 14
+    - name: Turtle
+      page: 16
+    - name: Pig
+      page: 18
+    - name: Nodding Dog
+      page: 20
+    - name: Balloon
+      page: 22
+    - name: Crab
+      page: 24
+    - name: Star-Shaped Box
+      page: 26
+    - name: Crane
+      page: 28
+    - name: Jumping Frog
+      page: 30
+    - name: Top
+      page: 32
 - title: Origami - Easy-to-Make Paper Creations
   author: Gay Merrill Gross
   models:
@@ -2793,6 +3029,8 @@
       page: 37
     - name: Flowerpot
       page: 38
+    - name: Heart Photo Frame
+      page: 38
     - name: Bowl
       page: 40
     - name: Heart Valentine Card
@@ -2801,8 +3039,6 @@
       page: 44
     - name: Paper Fastener
       page: 47
-    - name: Heart Photo Frame
-      page: 38
     - name: Practical Purse
       page: 50
     - name: Wallet
@@ -2813,6 +3049,188 @@
       page: 57
     - name: Teardrop Ornament
       page: 58
+- title: Origami - Paperfolding Fun in Colour
+  author: Zülal Aytüre-Scheele
+  models:
+    - name: Swan
+      page: 8
+    - name: Cygnet
+      page: 10
+    - name: Baby Monkey
+      page: 11
+    - name: Peacock
+      page: 12
+    - name: Penguin
+      page: 14
+    - name: Jungle Scene
+      page: 16
+    - name: Elephant
+      page: 18
+    - name: Puppy
+      page: 20
+    - name: Pirate Mask
+      page: 20
+    - name: Decorations
+      page: 22
+    - name: Windmill
+      page: 24
+    - name: Pomander
+      page: 24
+    - name: Angel Fish
+      page: 26
+    - name: Hat
+      page: 28
+    - name: Goldfish
+      page: 29
+    - name: Tug
+      page: 30
+    - name: Santa
+      page: 31
+    - name: Table Decorations
+      page: 32
+    - name: Picture Frame
+      page: 33
+    - name: Vase
+      page: 35
+    - name: Butterfly
+      page: 36
+    - name: Balloon
+      page: 38
+    - name: Aquarium Scene
+      page: 39
+    - name: Violets
+      page: 41
+    - name: Rose
+      page: 42
+    - name: Star-Shaped Box
+      page: 44
+    - name: Lily
+      page: 46
+    - name: Frog
+      page: 48
+    - name: Crab
+      page: 50
+    - name: Waterlily
+      page: 52
+    - name: Flying Crane
+      page: 55
+    - name: Stars
+      page: 56
+    - name: Star A
+      page: 57
+    - name: Star B
+      page: 58
+    - name: Rabbit
+      page: 60
+    - name: Devil Mask
+      page: 62
+    - name: Fox Mask
+      page: 66
+    - name: Desert Scene
+      page: 69
+    - name: Camel
+      page: 70
+    - name: Talking Fish
+      page: 74
+    - name: Monkey
+      page: 75
+- title: Origami - Paperfolding for Fun
+  author: Eric Kenneway
+  models:
+    - name: Box
+      page: 14
+    - name: Cap
+      page: 15
+    - name: Book
+      page: 16
+    - name: Horse
+      page: 18
+    - name: Cart
+      page: 19
+    - name: Dog
+      page: 20
+    - name: Flower Vase
+      page: 22
+    - name: Tulip
+      page: 23
+    - name: Christmas Tree
+      page: 26
+    - name: Candle
+      page: 27
+    - name: Christmas Tree Decoration
+      page: 28
+    - name: Pipe
+      page: 30
+    - name: Book of Matches
+      page: 31
+    - name: Matchbox
+      page: 32
+    - name: Pig
+      page: 34
+    - name: Pig Trough
+      page: 36
+    - name: Pinwheel
+      page: 38
+    - name: Pajarita
+      page: 38
+    - name: Boat
+      page: 38
+    - name: Flapping Bird
+      page: 40
+    - name: Pajarita Greeting Card
+      page: 42
+    - name: Flapping Bird Greeting Card
+      page: 44
+    - name: Bottle
+      page: 46
+    - name: Yacht
+      page: 48
+    - name: Water Lily
+      page: 50
+    - name: Rose
+      page: 51
+    - name: Swan
+      page: 54
+    - name: Duck
+      page: 56
+    - name: Japanese Schoolgirls
+      page: 58
+    - name: Trees on a Hillside
+      page: 60
+    - name: Box with Lid
+      page: 62
+    - name: Jewel
+      page: 64
+    - name: Magician's Hat
+      page: 66
+    - name: Magician's Wand
+      page: 68
+    - name: Pyramid Tent
+      page: 70
+    - name: Husky
+      page: 72
+    - name: '''Nansen'' sledge'
+      page: 74
+    - name: Chimpanzee
+      page: 75
+    - name: Three-masted Sailing Ship
+      page: 78
+    - name: Seagull
+      page: 80
+    - name: Valentine
+      page: 82
+    - name: Star
+      page: 83
+    - name: Flower Decoration
+      page: 84
+    - name: Hedgehog
+      page: 86
+    - name: Ladybird
+      page: 88
+    - name: Fly
+      page: 90
+    - name: Spider
+      page: 92
 - title: Origami - The Complete Guide to the Art of Paperfolding
   author: Rick Beech
   models:
@@ -2982,224 +3400,6 @@
       page: 244
     - name: Fireworks
       page: 248
-- title: Origami
-  author: Hideaki Sakata
-  models:
-    - name: Crane
-      page: 19
-    - name: Star Shaped Box
-      page: 20
-    - name: Morning-Glory
-      page: 22
-    - name: Flapping Crane
-      page: 23
-    - name: Nesting Crane
-      page: 25
-    - name: Rabbit
-      page: 27
-    - name: Bird
-      page: 28
-    - name: Swan
-      page: 30
-    - name: Pinwheel
-      page: 32
-    - name: Sailboat
-      page: 32
-    - name: Catamaran
-      page: 33
-    - name: Boat
-      page: 34
-    - name: Kusudama
-      page: 36
-    - name: Table
-      page: 37
-    - name: Kabuto
-      page: 39
-    - name: Tortoise
-      page: 38
-    - name: Dove
-      page: 40
-    - name: Paper Cup
-      page: 40
-    - name: Cicada
-      page: 42
-    - name: Goldfish
-      page: 43
-    - name: Char
-      page: 45
-    - name: Yakko
-      page: 45
-    - name: Hakama
-      page: 45
-    - name: Sanbo
-      page: 46
-    - name: Kikuzara
-      page: 48
-    - name: Box
-      page: 50
-    - name: Balloon
-      page: 53
-    - name: Church
-      page: 54
-    - name: Lily
-      page: 55
-    - name: Organ
-      page: 59
-    - name: Cap
-      page: 60
-    - name: Purse
-      page: 60
-    - name: Fox Mask
-      page: 61
-    - name: Fish
-      page: 64
-    - name: Whale
-      page: 65
-    - name: Seal
-      page: 66
-- title: Origami
-  author: Linda Barker
-  models:
-    - name: Windmill
-      page: 10
-    - name: Coaster
-      page: 11
-    - name: Salt Cellar
-      page: 12
-    - name: Spanish Box
-      page: 13
-    - name: Crown
-      page: 14
-    - name: Flower Decorations
-      page: 15
-    - name: Samurai Hat
-      page: 16
-    - name: Goldfish
-      page: 17
-    - name: Cup
-      page: 18
-    - name: Yakko-San
-      page: 19
-    - name: Booklet
-      page: 20
-    - name: Four- or Eight-pointed Star
-      page: 21
-    - name: Corner Fastener
-      page: 22
-    - name: Seed Envelope
-      page: 23
-    - name: Butterfly
-      page: 24
-    - name: Shallow Box
-      page: 28
-    - name: Box on Legs
-      page: 27
-    - name: G.I. Hat
-      page: 28
-    - name: Simple Boat
-      page: 32
-    - name: Bracelet
-      page: 34
-    - name: Iris
-      page: 36
-    - name: Rooster
-      page: 38
-    - name: Star-Shaped Box
-      page: 40
-    - name: Cubic Gift Box
-      page: 42
-    - name: Picture Frame
-      page: 44
-    - name: Cygnet
-      page: 46
-    - name: Flying Crane
-      page: 48
-    - name: Mouse
-      page: 50
-    - name: Swan
-      page: 52
-    - name: Antelope
-      page: 54
-    - name: Frog
-      page: 56
-    - name: Umbrella
-      page: 58
-    - name: Scottish Terrier
-      page: 60
-    - name: Snail
-      page: 62
-- title: Origami
-  author: Makiko Ideka
-  models:
-    - name: Cow Face
-      page: 8
-    - name: Elephant Face
-      page: 10
-    - name: Dog Face
-      page: 12
-    - name: Cat Face
-      page: 12
-    - name: Balloon
-      page: 14
-    - name: Pencils
-      page: 16
-    - name: Star-Shaped Box
-      page: 18
-    - name: Paper Cup
-      page: 21
-    - name: Top
-      page: 22
-    - name: Whale
-      page: 25
-    - name: Penguin
-      page: 27
-    - name: Flying Crane
-      page: 31
-    - name: Pigeon
-      page: 34
-    - name: Goldfish
-      page: 36
-    - name: Dinosaur
-      page: 38
-    - name: Lily
-      page: 42
-    - name: Flower Ball
-      page: 45
-- title: Origami
-  authors:
-    - Makiko Ideka
-    - Ivan Shaun
-  models:
-    - name: Animal Faces
-      page: 8
-    - name: House
-      page: 10
-    - name: Piano
-      page: 10
-    - name: Cicada
-      page: 12
-    - name: Penguin
-      page: 13
-    - name: Airplane
-      page: 14
-    - name: Turtle
-      page: 16
-    - name: Pig
-      page: 18
-    - name: Nodding Dog
-      page: 20
-    - name: Balloon
-      page: 22
-    - name: Crab
-      page: 24
-    - name: Star-Shaped Box
-      page: 26
-    - name: Crane
-      page: 28
-    - name: Jumping Frog
-      page: 30
-    - name: Top
-      page: 32
 - title: Origami ABC
   author: David Petty
   models:
@@ -3342,57 +3542,36 @@
   models:
     - name: Diamondback
       page: 7
-    - name: Draken
-      page: 19
-    - name: Spadewing
-      page: 18
-    - name: Firestorm
-      page: 23
     - name: Bandit
       page: 13
-    - name: Switchblade
-      page: 27
     - name: Shadow
       page: 16
+    - name: Spadewing
+      page: 18
+    - name: Draken
+      page: 19
+    - name: Firestorm
+      page: 23
+    - name: Switchblade
+      page: 27
     - name: Nightmare
       page: 30
     - name: Aurora
       page: 33
     - name: Space Shuttle
       page: 36
+    - name: Mako
+      page: 39
+    - name: Thunderhead
+      page: 43
     - name: Stringer
       page: 46
     - name: Firebat
       page: 49
-    - name: Mako
-      page: 39
     - name: Phoenix
       page: 53
-    - name: Thunderhead
-      page: 43
     - name: Cyclone
       page: 59
-- title: Origami and Papercraft
-  authors:
-    - Paul Jackson
-    - Vivien Frank
-  models:
-    - name: Printer's Hat
-      page: 60
-    - name: Butterfly
-      page: 62
-    - name: Chatterbox
-      page: 64
-    - name: Repeat Pattern
-      page: 66
-    - name: Fish (1)
-      page: 68
-    - name: Fish (2)
-      page: 69
-    - name: Japanese Box
-      page: 72
-    - name: Valentine Heart
-      page: 74
 - title: Origami Animals
   author: Hector Rojas
   models:
@@ -3457,7 +3636,7 @@
       page: 117
     - name: Munich Orchad and Leaf
       page: 121
-    - name: "F-14 Tomca: Fighter Jet"
+    - name: 'F-14 Tomca: Fighter Jet'
       page: 125
     - name: American Alligator
       page: 130
@@ -3549,593 +3728,6 @@
       page: 58
     - name: One-Piece Box
       page: 62
-- title: Origami for Beginners
-  author: Vicente Palacios
-  models:
-    - name: Cap
-      page: 7
-    - name: Inclined Pyrmaid
-      page: 8
-    - name: Cube 1
-      page: 9
-    - name: Cube 2
-      page: 10
-    - name: Cube 3
-      page: 11
-    - name: Triangular Box
-      page: 12
-    - name: Cap with Visor
-      page: 13
-    - name: Cube 4
-      page: 14
-    - name: Airplane
-      page: 15
-    - name: Vase
-      page: 16
-    - name: Four-Pointed Star
-      page: 17
-    - name: Checked Box 1
-      page: 18
-    - name: Checked Box 2
-      page: 19
-    - name: Checked Box 3
-      page: 20
-    - name: Imprisoned Cube 1
-      page: 21
-    - name: Imprisoned Cube 2
-      page: 22
-    - name: Imprisoned Cube 3
-      page: 23
-    - name: Checked Box 4
-      page: 24
-    - name: Eight-Pointed Star 1
-      page: 25
-    - name: Little-Birds Cube
-      page: 26
-    - name: Squares within Octagon
-      page: 27
-    - name: Little Mama Bird
-      page: 28
-    - name: Stool
-      page: 29
-    - name: Five-Sided Coaster 1
-      page: 30
-    - name: Eight-Segment Rossette
-      page: 31
-    - name: Rotated Coaster
-      page: 32
-    - name: Six-Sided Coaster
-      page: 33
-    - name: Centerpiece Holder
-      page: 34
-    - name: Pinwheel
-      page: 36
-    - name: Checked Box 5
-      page: 38
-    - name: Triangular Box with Cover
-      page: 39
-    - name: Checked Box 6
-      page: 40
-    - name: Box-Table
-      page: 41
-    - name: Tall Box with Cover
-      page: 42
-    - name: Basket
-      page: 44
-    - name: Rotated Box 1
-      page: 46
-    - name: Five-Pointed Star
-      page: 48
-    - name: Eight-Pointed Star 2
-      page: 50
-    - name: Star with Wings
-      page: 51
-    - name: Rotor
-      page: 52
-    - name: Modular Wheel
-      page: 53
-    - name: Easter Dish
-      page: 54
-    - name: The Little Bird
-      page: 55
-    - name: Display Case
-      page: 56
-    - name: Eight-Sided Box
-      page: 58
-    - name: Six-Sided Box with Cover
-      page: 60
-    - name: Ten-Sided Box
-      page: 62
-    - name: Whistle That Whistles
-      page: 63
-    - name: Cinderella's Shoe
-      page: 64
-    - name: Gyroscope 1
-      page: 66
-    - name: Gyroscope 2
-      page: 68
-    - name: Multicolor Star
-      page: 70
-    - name: Rotated Box 2 and Three Variants
-      page: 71
-    - name: Double Measure
-      page: 74
-    - name: Tree-Dimensional Star
-      page: 76
-    - name: Vampire Bat
-      page: 77
-    - name: Flowerpot
-      page: 80
-- title: Origami for Christmas
-  author: Chiyo Araki
-  models:
-    - name: Crane A
-      page: 22
-    - name: Crane B
-      page: 26
-    - name: Chicken
-      page: 30
-    - name: Peacock
-      page: 32
-    - name: Swan
-      page: 34
-    - name: Dove
-      page: 36
-    - name: Tree
-      page: 37
-    - name: Carnation/Morning Glory
-      page: 38
-    - name: Tulip
-      page: 40
-    - name: Chrysanthemum
-      page: 42
-    - name: Rose
-      page: 44
-    - name: Iris
-      page: 48
-    - name: Persimmon
-      page: 52
-    - name: Camellia
-      page: 55
-    - name: Poinsettia
-      page: 58
-    - name: Santa Claus
-      page: 62
-    - name: Mary/Nun
-      page: 69
-    - name: Infant Jesus
-      page: 72
-    - name: Wise Man with Cape
-      page: 75
-    - name: Angel
-      page: 78
-    - name: Reindeer A
-      page: 82
-    - name: Reindeer B
-      page: 86
-    - name: Horse
-      page: 93
-    - name: Camel
-      page: 96
-    - name: Manger/Sleigh
-      page: 102
-    - name: Star
-      page: 103
-    - name: Bell
-      page: 106
-    - name: Church
-      page: 108
-    - name: Balloon Ornament
-      page: 110
-    - name: Basket A
-      page: 112
-    - name: Basket B
-      page: 115
-    - name: Kimono
-      page: 118
-    - name: Decorative Box
-      page: 120
-- title: Origami for Everyone
-  author: Robyn Handow
-  models:
-    - name: 4-Pointed Star
-    - name: Bar Envelope
-    - name: Blossom
-    - name: Boat
-    - name: Simple Box
-    - name: Butterfly
-    - name: Traditional Crane
-    - name: Dragon Head
-    - name: Flapping Bird
-    - name: Fortune Teller
-    - name: Gift Bow
-    - name: Heart
-    - name: Jumping Horse
-    - name: Jumping Frog
-    - name: Lily
-    - name: Lotus Flower
-    - name: Lucky Star
-    - name: Puffy Bunny
-    - name: Flower Stem & Leaf
-    - name: Triangle Box
-    - name: Tulip
-- title: Origami for the Connoisseur
-  authors:
-    - Kunhiko Kasahara
-    - Toshie Takahama
-  models:
-    - name: Hourglass
-      page: 15
-    - name: Rotating Tetrahedron
-      page: 16
-    - name: Tsurifune
-      page: 18
-    - name: Lidded Cube Box
-      page: 20
-    - name: Extraterrestrial Being
-      page: 25
-    - name: Coaster 1
-      page: 26
-    - name: Coaster 2
-      page: 28
-    - name: Kawasaki Cube 1
-      page: 30 
-    - name: Kawasaki Cube 2
-      page: 34
-    - name: Supersonic Reconnaissance SR-71
-      page: 36
-    - name: Space Shuttle
-      page: 40
-    - name: Sonobe Module
-      page: 42
-    - name: Simplified Sonobe Module
-      page: 44
-    - name: Bottle
-      page: 52
-    - name: HK Cube / Trick Dice
-      page: 58
-    - name: Octahedron
-      page: 60
-    - name: Isocahedron
-      page: 62
-    - name: Dodecahedron
-      page: 64
-    - name: Fujimoto Cube
-      page: 66
-    - name: Hosoya Cube
-      page: 68
-    - name: Tomoko Unit
-      page: 70
-    - name: Okamochi
-      page: 72
-    - name: Half a Cube
-      page: 74
-    - name: Half a Cube
-      page: 76
-    - name: Divided Masu Measuring Box
-      page: 78
-    - name: Semiregular Decahedron with Some Reentrant Corners
-      page: 80
-    - name: Interpolating Sheets
-      page: 82
-    - name: Iso-area Folding
-      page: 84
-    - name: Dodecahedron Unit
-      page: 86
-    - name: Octahedron Folded in the Iso-area Way
-      page: 88
-    - name: Regular-hexagonal Coaster
-      page: 89
-    - name: Ptarmigan - Icosahedron
-      page: 90
-    - name: Kitten
-      page: 94
-    - name: Goose
-      page: 98
-    - name: Pelican
-      page: 100
-    - name: Clapper Rail
-      page: 102
-    - name: Kangaroo
-      page: 106
-    - name: Giraffe
-      page: 110
-    - name: Malay Tapir
-      page: 114
-    - name: Horse
-      page: 118
-    - name: Fox
-      page: 122
-    - name: Camellia, Bloom, and Branch
-      page: 126
-    - name: Rose
-      page: 128
-    - name: Eggplant
-      page: 133
-    - name: Daikon Raddish
-      page: 133
-    - name: Green Pepper
-      page: 132
-    - name: Flower-cut Hard-boiled Egg
-      page: 134
-    - name: Pine Cone
-      page: 136
-    - name: Spiral Snail Shell
-      page: 140
-    - name: Sea-snail Shell
-      page: 144
-    - name: Murex Shell
-      page: 148
-    - name: Ground Beetle
-      page: 150
-    - name: Ramphorhynchus
-      page: 158
-    - name: Stegosaurus
-      page: 162
-- title: Origami for the First Time
-  author: Soonboke Smith
-  models:
-    - name: Coaster
-      page: 38
-    - name: Paper Cup / Snack Cup
-      page: 41
-    - name: Paper Heart
-      page: 44
-    - name: Cup Holder
-      page: 47
-    - name: Candy Cup
-      page: 50
-    - name: Utensil Holder
-      page: 52
-    - name: Flowerpot
-      page: 54
-    - name: Swan Box
-      page: 58
-    - name: Tricolor Gift Box
-      page: 61
-    - name: Picture Frame
-      page: 64
-    - name: Dove
-      page: 66
-    - name: Pen Holder
-      page: 68
-    - name: Chair & Table
-      page: 70
-    - name: Pinwheel
-      page: 72
-    - name: Sailbot
-      page: 72
-    - name: Barn
-      page: 75
-    - name: Lily
-      page: 78
-    - name: Soonboke's Crane
-      page: 81
-    - name: Flapping Crane
-      page: 84
-    - name: Seal
-      page: 86
-    - name: Crayon
-      page: 88
-    - name: Gift Box
-      page: 90
-    - name: Letter Holder
-      page: 93
-    - name: Pine Tree
-      page: 96
-- title: Origami from Around the World
-  author: Vincente Palacios
-  models:
-    - name: Clicker
-      page: 13
-    - name: Feather for Cap
-      page: 14
-    - name: Hat and Legionnaire's Cap
-      page: 15
-    - name: Pitufo
-      page: 16
-    - name: Girl's Dress
-      page: 17
-    - name: Vase
-      page: 18
-    - name: Cap 1
-      page: 19
-    - name: Cap 2
-      page: 20
-    - name: Winged Cube
-      page: 21
-    - name: Boat
-      page: 22
-    - name: Box
-      page: 23
-    - name: Centerpiece for Table
-      page: 24
-    - name: Sparrow
-      page: 25
-    - name: Modular Cube 1
-      page: 26
-    - name: Modular Cube 2
-      page: 27
-    - name: Modular Cube 3
-      page: 28
-    - name: Modular Cube 4
-      page: 29
-    - name: Little Bird Bookmark
-      page: 30
-    - name: Celtic Helmet
-      page: 31
-    - name: Airplane
-      page: 32
-    - name: Little Terrier Dog
-      page: 33
-    - name: Pentagon
-      page: 34
-    - name: Dodecahedron
-      page: 34
-    - name: 'Tato' Wrapper
-      page: 35
-    - name: Dove
-      page: 36
-    - name: Heart for a Drinking Glass
-      page: 37
-    - name: Boat
-      page: 38
-    - name: Bird's Perch
-      page: 39
-    - name: Rowboat
-      page: 40
-    - name: Stand for Cards, Photos, etc
-      page: 41
-    - name: Sailboat
-      page: 42
-    - name: Parrot
-      page: 43
-    - name: Bird in Flight
-      page: 45
-    - name: Condor
-      page: 46
-    - name: Buzzard
-      page: 47
-    - name: Bird
-      page: 48
-    - name: Five-Sided Box
-      page: 49
-    - name: Frog
-      page: 50
-    - name: Muslim Praying
-      page: 51
-    - name: Stork
-      page: 52
-    - name: Crystal
-      page: 54
-    - name: Cubic Box
-      page: 55
-    - name: Persian Slippers
-      page: 56
-    - name: Hello, Hello!
-      page: 57
-    - name: Five-Point Modular Star
-      page: 58
-    - name: Five-Point (or Six-Point) Star
-      page: 59
-    - name: Acid Lemon
-      page: 60
-    - name: Yacht
-      page: 61
-    - name: Jug
-      page: 62
-    - name: Whistle that Whistles
-      page: 63
-    - name: Capercaillie (bird)
-      page: 64
-    - name: Irreversible-Process Box
-      page: 66
-    - name: Modular Crown 1
-      page: 67
-    - name: Modular Cross
-      page: 69
-    - name: Modular Crown 2
-      page: 70
-    - name: Simple Box
-      page: 71
-    - name: Houseboat
-      page: 72
-    - name: Goldfish
-      page: 73
-    - name: Modular Ditetrahedron
-      page: 74
-    - name: Eagle
-      page: 76
-    - name: Snail Shell
-      page: 78
-    - name: Trough with Cranes
-      page: 80
-    - name: Two-Seat Boat
-      page: 82
-    - name: Chinese Junk
-      page: 85
-    - name: Plant in Flowerpot
-      page: 87
-    - name: Lohengrin's Swan
-      page: 88
-    - name: Truncated Cube
-      page: 89
-    - name: Box with Handles
-      page: 90
-    - name: Young Dutchwoman
-      page: 92
-    - name: Rabbit
-      page: 94
-    - name: Camellia
-      page: 96
-    - name: Fish that Opens and Shuts its Mouth
-      page: 98
-    - name: Me and My Shadow (Cats)
-      page: 100
-    - name: Little Bird in Boat
-      page: 103
-    - name: Decorated Box
-      page: 105
-    - name: Interlocked Hexagons
-      page: 106
-    - name: Little Dog 1
-      page: 107
-    - name: Buddha
-      page: 109
-    - name: Swan
-      page: 111
-    - name: Wilfred's Crown
-      page: 112
-    - name: Seven-Module Crown
-      page: 114
-    - name: Eight-Module Star 1
-      page: 115
-    - name: Pinwheel
-      page: 116
-    - name: Wreath
-      page: 117
-    - name: Hexagon
-      page: 119
-    - name: Star 1
-      page: 120
-    - name: Star 2
-      page: 121
-    - name: Knickknack
-      page: 122
-    - name: Five-Point Star
-      page: 125
-    - name: Little Whale
-      page: 127
-    - name: Boxer Dog
-      page: 129
-    - name: Elephant
-      page: 132
-    - name: Bear Cub
-      page: 134
-    - name: Little Dog 2
-      page: 137
-    - name: Horse
-      page: 139
-    - name: Meeusen-esque
-      page: 142
-    - name: Waterwheel
-      page: 145
-    - name: Weasel
-      page: 148
-    - name: Interweavings DZ-20A and DZ-20B
-      page: 150
-    - name: Eight-Module Star 2
-      page: 152
-    - name: Bowl / Open Receptacle
-      page: 155
-    - name: Geisha
-      page: 157
-    - name: Biplane
-      page: 161
-    - name: Armor
-      page: 164
-- title: The Origami Handbook
-  aliasOf: Origami - The Complete Guide to Paperfolding
 - title: Origami Hearts
   page: Francis Ow
   models:
@@ -4193,9 +3785,9 @@
       page: 54
     - name: On a Stand
       page: 54
-    - name: 2's Company, 3's a Crowd
+    - name: '2''s Company, 3''s a Crowd'
       page: 55
-    - name: 4's Too Many, 8's an Orgy
+    - name: '4''s Too Many, 8''s an Orgy'
       page: 56
     - name: Heart Envelope
       page: 57
@@ -4205,7 +3797,7 @@
       page: 60
     - name: Flowery Heart
       page: 62
-    - name: Heart [Fuse's Lock]
+    - name: 'Heart [Fuse''s Lock]'
       page: 64
     - name: Spring Heart
       page: 65
@@ -4269,7 +3861,7 @@
       page: 110
     - name: House of Love
       page: 111
-    - name: "O"-Hearted
+    - name: '"O"-Hearted'
       page: 114
     - name: Heart 4
       page: 117
@@ -4289,170 +3881,6 @@
       page: 40
     - name: Santa's Sleigh
       page: 44
-- title: Origami in Action
-  author: Robert J. Lang
-  models:
-    - name: Traditional Flapping Bird
-      page: 18
-    - name: Randlett's Flapping Bird
-      page: 20
-    - name: Flapping Butterfly
-      page: 22
-    - name: Intermediate Flapping Butterfly
-      page: 24
-    - name: Flapping Eagle
-      page: 26
-    - name: Flapping Duck
-      page: 29
-    - name: Flapping Crane
-      page: 33
-    - name: Flapping Lovebirds
-      page: 39
-    - name: Inflatable Waterbomb
-      page: 42
-    - name: Blow-up Bunny
-      page: 44
-    - name: Sitting Bunny
-      page: 46
-    - name: Inflatable Goldfish
-      page: 49
-    - name: Folding Knife
-      page: 51
-    - name: Barking Wolf
-      page: 54
-    - name: Gobbling Clam
-      page: 57
-    - name: Talking Frogger
-      page: 61
-    - name: Pecking Woodpecker
-      page: 63
-    - name: Catapult
-      page: 66
-    - name: Cookie Catcher
-      page: 68
-    - name: Harlequin Cootie Catcher
-      page: 70
-    - name: Talking Mouse Mask
-      page: 72
-    - name: Talking Dragon
-      page: 76
-    - name: Kicking Frog
-      page: 78
-    - name: Wagging-Tail Doggie
-      page: 84
-    - name: Gliding Butterfly
-      page: 87
-    - name: Hovercraft
-      page: 89
-    - name: Boardsailor
-      page: 90
-    - name: Rocking Sailbot
-      page: 92
-    - name: Flying Fighter
-      page: 95
-    - name: Clapping Seal
-      page: 100
-    - name: Swimming Manatee
-      page: 103
-    - name: Kicking Otter
-      page: 107
-    - name: Tyrannosaurus Rex
-      page: 114
-    - name: Indian Paddling a Canoe
-      page: 121
-    - name: Strumming Guitarist
-      page: 133
-    - name: Fiddling Bassist
-      page: 140
-    - name: Flasher
-      page: 149
-    - name: Spring Into Action
-      page: 152
-- title: Origami - Paperfolding Fun in Colour
-  author: Zülal Aytüre-Scheele
-  models:
-    - name: Swan
-      page: 8
-    - name: Cygnet
-      page: 10
-    - name: Baby Monkey
-      page: 11
-    - name: Peacock
-      page: 12
-    - name: Penguin
-      page: 14
-    - name: Jungle Scene
-      page: 16
-    - name: Elephant
-      page: 18
-    - name: Puppy
-      page: 20
-    - name: Pirate Mask
-      page: 20
-    - name: Decorations
-      page: 22
-    - name: Windmill
-      page: 24
-    - name: Pomander
-      page: 24
-    - name: Angel Fish
-      page: 26
-    - name: Hat
-      page: 28
-    - name: Goldfish
-      page: 29
-    - name: Tug
-      page: 30
-    - name: Santa
-      page: 31
-    - name: Table Decorations
-      page: 32
-    - name: Picture Frame
-      page: 33
-    - name: Vase
-      page: 35
-    - name: Butterfly
-      page: 36
-    - name: Balloon
-      page: 38
-    - name: Aquarium Scene
-      page: 39
-    - name: Violets
-      page: 41
-    - name: Rose
-      page: 42
-    - name: Star-Shaped Box
-      page: 44
-    - name: Lily
-      page: 46
-    - name: Frog
-      page: 48
-    - name: Crab
-      page: 50
-    - name: Waterlily
-      page: 52
-    - name: Flying Crane
-      page: 55
-    - name: Stars
-      page: 56
-    - name: Star A
-      page: 57
-    - name: Star B
-      page: 58
-    - name: Rabbit
-      page: 60
-    - name: Devil Mask
-      page: 62
-    - name: Fox Mask
-      page: 66
-    - name: Desert Scene
-      page: 69
-    - name: Camel
-      page: 70
-    - name: Talking Fish
-      page: 74
-    - name: Monkey
-      page: 75
 - title: Origami Inspirations
   author: Meenakshi Mukerji
   models:
@@ -4745,7 +4173,7 @@
       page: 214
     - name: Univalve Shell
       page: 216
-    - Object d' Art
+    - name: Object d' Art
       page: 216
     - name: Regular-pentagonal Flat Unit
       page: 218
@@ -4755,6 +4183,8 @@
       page: 226
     - name: Regular-octogonal Flat Unit
       page: 228
+    - name: Greater Stellate Dodecahedron
+      page: 230
     - name: Variant Regular Hexagonal Unit
       page: 231
     - name: Reversible Stellate Icosaherdon
@@ -4763,8 +4193,6 @@
       page: 236
     - name: Lesser Stellate Dodecahedron
       page: 240
-    - name: Greater Stellate Dodecahedron
-      page: 230
     - name: Stellate Regular Octahedron
       page: 242
     - name: Stellate Tetrahedron
@@ -4972,7 +4400,7 @@
       page: 157
     - name: Six-Sided Brightstar Carousel
       page: 161
-- name: Origami Paper Animals
+- title: Origami Paper Animals
   author: Didier Boursin
   models:
     - name: Fish
@@ -5031,103 +4459,6 @@
       page: 60
     - name: Monkey
       page: 62
-- title: Origami - Paperfolding for Fun
-  author: Eric Kenneway
-  models:
-    - name: Box
-      page: 14
-    - name: Cap
-      page: 15
-    - name: Book
-      page: 16
-    - name: Horse
-      page: 18
-    - name: Cart
-      page: 19
-    - name: Dog
-      page: 20
-    - name: Flower Vase
-      page: 22
-    - name: Tulip
-      page: 23
-    - name: Christmas Tree
-      page: 26
-    - name: Candle
-      page: 27
-    - name: Christmas Tree Decoration
-      page: 28
-    - name: Pipe
-      page: 30
-    - name: Book of Matches
-      page: 31
-    - name: Matchbox
-      page: 32
-    - name: Pig
-      page: 34
-    - name: Pig Trough
-      page: 36
-    - name: Pinwheel
-      page: 38
-    - name: Pajarita
-      page: 38
-    - name: Boat
-      page: 38
-    - name: Flapping Bird
-      page: 40
-    - name: Pajarita Greeting Card
-      page: 42
-    - name: Flapping Bird Greeting Card
-      page: 44
-    - name: Bottle
-      page: 46
-    - name: Yacht
-      page: 48
-    - name: Water Lily
-      page: 50
-    - name: Rose
-      page: 51
-    - name: Swan
-      page: 54
-    - name: Duck
-      page: 56
-    - name: Japanese Schoolgirls
-      page: 58
-    - name: Trees on a Hillside
-      page: 60
-    - name: Box with Lid
-      page: 62
-    - name: Jewel
-      page: 64
-    - name: Magician's Hat
-      page: 66
-    - name: Magician's Wand
-      page: 68
-    - name: Pyramid Tent
-      page: 70
-    - name: Husky
-      page: 72
-    - name: 'Nansen' sledge
-      page: 74
-    - name: Chimpanzee
-      page: 75
-    - name: Three-masted Sailing Ship
-      page: 78
-    - name: Seagull 
-      page: 80
-    - name: Valentine
-      page: 82
-    - name: Star
-      page: 83
-    - name: Flower Decoration
-      page: 84
-    - name: Hedgehog
-      page: 86
-    - name: Ladybird
-      page: 88
-    - name: Fly
-      page: 90
-    - name: Spider
-      page: 92
 - title: Origami Safari
   authors:
     - Steve Biddle
@@ -5171,6 +4502,31 @@
       page: 30
     - name: Giant Panda
       page: 31
+- title: Origami Sea Creatures
+  author: John Montroll
+  models:
+    - name: Fish
+      page: 11
+    - name: Goldfish
+      page: 13
+    - name: Angelfish
+      page: 15
+    - name: Starfish
+      page: 16
+    - name: Seal
+      page: 19
+    - name: Walrus
+      page: 21
+    - name: Seahorse
+      page: 23
+    - name: Whale
+      page: 25
+    - name: Turtle
+      page: 28
+    - name: Frog
+      page: 32
+    - name: Crab
+      page: 38
 - title: Origami Sea Life
   authors:
     - John Montroll
@@ -5263,7 +4619,7 @@
       page: 32
     - name: Star Puff
       page: 36
-    - name: '3.6.3.6'
+    - name: 3.6.3.6
       page: 40
     - name: Pinwheel
       page: 43
@@ -5295,12 +4651,849 @@
       page: 96
     - name: Negative Space Stars
       page: 99
-    - name: '3.4.6.4'
+    - name: 3.4.6.4
       page: 103
     - name: Aztec Twist
       page: 106
     - name: Arms of Shiva
       page: 110
+- title: Origami Toys
+  author: Florence Temko
+  models:
+    - name: The Transformer
+      page: 15
+    - name: Monster Mask
+      page: 20
+    - name: Fortune Teller
+      page: 22
+    - name: We Fish!
+      page: 24
+    - name: Wind Toy
+      page: 26
+    - name: Dog Puppet
+      page: 27
+    - name: Airplane
+      page: 28
+    - name: Leaping Frog
+      page: 30
+    - name: Rocket
+      page: 32
+    - name: Dinosaur
+      page: 34
+    - name: Raven
+      page: 36
+    - name: Two Love Birds in a Love Boat
+      page: 38
+    - name: Hydrofoil
+      page: 40
+    - name: Football Game
+      page: 42
+    - name: Basketball Game
+      page: 44
+    - name: Magic Rotator
+      page: 46
+    - name: Tic Tac Toe Game
+      page: 48
+    - name: Dollhouse
+      page: 51
+    - name: Dollhouse Furniture
+      page: 53
+    - name: A Doll Family
+      page: 55
+    - name: Gum Wrapper Chain
+      page: 58
+    - name: Magic Wand
+      page: 60
+- title: Origami USA
+  author: Duy Nguyen
+  models:
+    - name: American Eagle
+      page: 16
+    - name: Western Mustang
+      page: 24
+    - name: Native American
+      page: 30
+    - name: Buffalo
+      page: 38
+    - name: George Washington
+      page: 46
+    - name: Washington's Horse
+      page: 52
+    - name: Betsy Ross
+      page: 58
+    - name: Minuteman
+      page: 64
+    - name: Pioneer Girl
+      page: 68
+    - name: Gunslinger
+      page: 74
+    - name: Abraham Lincoln
+      page: 82
+    - name: 'The King: Elvis'
+- title: Origami Zoo
+  authors:
+    - Robert J. Lang
+    - Stephen Weiss
+  models:
+    - name: Dolphin
+      page: 27
+    - name: Penguin
+      page: 30
+    - name: Swan
+      page: 32
+    - name: Fish
+      page: 34
+    - name: Gorilla
+      page: 36
+    - name: Scottie
+      page: 38
+    - name: Owl
+      page: 40
+    - name: Goose
+      page: 42
+    - name: Frog
+      page: 44
+    - name: Lion
+      page: 46
+    - name: Duck
+      page: 48
+    - name: Sea Turtle
+      page: 50
+    - name: Roadrunner
+      page: 53
+    - name: Collie
+      page: 56
+    - name: Kangaroo
+      page: 59
+    - name: Squirrel
+      page: 62
+    - name: Skunk
+      page: 65
+    - name: Panda
+      page: 68
+    - name: Fox
+      page: 71
+    - name: Irish Setter
+      page: 73
+    - name: Alligator
+      page: 77
+    - name: Pegasus
+      page: 81
+    - name: Camel
+      page: 85
+    - name: Mouse
+      page: 89
+    - name: Wooly Mammoth
+      page: 93
+    - name: Dog in a Doghouse
+      page: 96
+    - name: Bear
+      page: 100
+    - name: Golden Eagle
+      page: 104
+    - name: Desert Tortoise
+      page: 110
+    - name: Rabbit
+      page: 115
+    - name: Giraffe
+      page: 120
+    - name: Horsefly
+      page: 126
+    - name: Reindeer
+      page: 127
+    - name: Black Widow
+      page: 132
+    - name: Butterfly
+      page: 143
+    - name: Praying Mantis
+      page: 149
+    - name: Crab
+      page: 156
+- title: Origami and Papercraft
+  authors:
+    - Paul Jackson
+    - Vivien Frank
+  models:
+    - name: Printer's Hat
+      page: 60
+    - name: Butterfly
+      page: 62
+    - name: Chatterbox
+      page: 64
+    - name: Repeat Pattern
+      page: 66
+    - name: Fish (1)
+      page: 68
+    - name: Fish (2)
+      page: 69
+    - name: Japanese Box
+      page: 72
+    - name: Valentine Heart
+      page: 74
+- title: Origami for Beginners
+  author: Vicente Palacios
+  models:
+    - name: Cap
+      page: 7
+    - name: Inclined Pyrmaid
+      page: 8
+    - name: Cube 1
+      page: 9
+    - name: Cube 2
+      page: 10
+    - name: Cube 3
+      page: 11
+    - name: Triangular Box
+      page: 12
+    - name: Cap with Visor
+      page: 13
+    - name: Cube 4
+      page: 14
+    - name: Airplane
+      page: 15
+    - name: Vase
+      page: 16
+    - name: Four-Pointed Star
+      page: 17
+    - name: Checked Box 1
+      page: 18
+    - name: Checked Box 2
+      page: 19
+    - name: Checked Box 3
+      page: 20
+    - name: Imprisoned Cube 1
+      page: 21
+    - name: Imprisoned Cube 2
+      page: 22
+    - name: Imprisoned Cube 3
+      page: 23
+    - name: Checked Box 4
+      page: 24
+    - name: Eight-Pointed Star 1
+      page: 25
+    - name: Little-Birds Cube
+      page: 26
+    - name: Squares within Octagon
+      page: 27
+    - name: Little Mama Bird
+      page: 28
+    - name: Stool
+      page: 29
+    - name: Five-Sided Coaster 1
+      page: 30
+    - name: Eight-Segment Rossette
+      page: 31
+    - name: Rotated Coaster
+      page: 32
+    - name: Six-Sided Coaster
+      page: 33
+    - name: Centerpiece Holder
+      page: 34
+    - name: Pinwheel
+      page: 36
+    - name: Checked Box 5
+      page: 38
+    - name: Triangular Box with Cover
+      page: 39
+    - name: Checked Box 6
+      page: 40
+    - name: Box-Table
+      page: 41
+    - name: Tall Box with Cover
+      page: 42
+    - name: Basket
+      page: 44
+    - name: Rotated Box 1
+      page: 46
+    - name: Five-Pointed Star
+      page: 48
+    - name: Eight-Pointed Star 2
+      page: 50
+    - name: Star with Wings
+      page: 51
+    - name: Rotor
+      page: 52
+    - name: Modular Wheel
+      page: 53
+    - name: Easter Dish
+      page: 54
+    - name: The Little Bird
+      page: 55
+    - name: Display Case
+      page: 56
+    - name: Eight-Sided Box
+      page: 58
+    - name: Six-Sided Box with Cover
+      page: 60
+    - name: Ten-Sided Box
+      page: 62
+    - name: Whistle That Whistles
+      page: 63
+    - name: Cinderella's Shoe
+      page: 64
+    - name: Gyroscope 1
+      page: 66
+    - name: Gyroscope 2
+      page: 68
+    - name: Multicolor Star
+      page: 70
+    - name: Rotated Box 2 and Three Variants
+      page: 71
+    - name: Double Measure
+      page: 74
+    - name: Tree-Dimensional Star
+      page: 76
+    - name: Vampire Bat
+      page: 77
+    - name: Flowerpot
+      page: 80
+- title: Origami for Christmas
+  author: Chiyo Araki
+  models:
+    - name: Crane A
+      page: 22
+    - name: Crane B
+      page: 26
+    - name: Chicken
+      page: 30
+    - name: Peacock
+      page: 32
+    - name: Swan
+      page: 34
+    - name: Dove
+      page: 36
+    - name: Tree
+      page: 37
+    - name: Carnation/Morning Glory
+      page: 38
+    - name: Tulip
+      page: 40
+    - name: Chrysanthemum
+      page: 42
+    - name: Rose
+      page: 44
+    - name: Iris
+      page: 48
+    - name: Persimmon
+      page: 52
+    - name: Camellia
+      page: 55
+    - name: Poinsettia
+      page: 58
+    - name: Santa Claus
+      page: 62
+    - name: Mary/Nun
+      page: 69
+    - name: Infant Jesus
+      page: 72
+    - name: Wise Man with Cape
+      page: 75
+    - name: Angel
+      page: 78
+    - name: Reindeer A
+      page: 82
+    - name: Reindeer B
+      page: 86
+    - name: Horse
+      page: 93
+    - name: Camel
+      page: 96
+    - name: Manger/Sleigh
+      page: 102
+    - name: Star
+      page: 103
+    - name: Bell
+      page: 106
+    - name: Church
+      page: 108
+    - name: Balloon Ornament
+      page: 110
+    - name: Basket A
+      page: 112
+    - name: Basket B
+      page: 115
+    - name: Kimono
+      page: 118
+    - name: Decorative Box
+      page: 120
+- title: Origami for Everyone
+  author: Robyn Handow
+  models:
+    - name: 4-Pointed Star
+    - name: Bar Envelope
+    - name: Blossom
+    - name: Boat
+    - name: Simple Box
+    - name: Butterfly
+    - name: Traditional Crane
+    - name: Dragon Head
+    - name: Flapping Bird
+    - name: Fortune Teller
+    - name: Gift Bow
+    - name: Heart
+    - name: Jumping Horse
+    - name: Jumping Frog
+    - name: Lily
+    - name: Lotus Flower
+    - name: Lucky Star
+    - name: Puffy Bunny
+    - name: Flower Stem & Leaf
+    - name: Triangle Box
+    - name: Tulip
+- title: Origami for the Connoisseur
+  authors:
+    - Kunhiko Kasahara
+    - Toshie Takahama
+  models:
+    - name: Hourglass
+      page: 15
+    - name: Rotating Tetrahedron
+      page: 16
+    - name: Tsurifune
+      page: 18
+    - name: Lidded Cube Box
+      page: 20
+    - name: Extraterrestrial Being
+      page: 25
+    - name: Coaster 1
+      page: 26
+    - name: Coaster 2
+      page: 28
+    - name: Kawasaki Cube 1
+      page: 30
+    - name: Kawasaki Cube 2
+      page: 34
+    - name: Supersonic Reconnaissance SR-71
+      page: 36
+    - name: Space Shuttle
+      page: 40
+    - name: Sonobe Module
+      page: 42
+    - name: Simplified Sonobe Module
+      page: 44
+    - name: Bottle
+      page: 52
+    - name: HK Cube / Trick Dice
+      page: 58
+    - name: Octahedron
+      page: 60
+    - name: Isocahedron
+      page: 62
+    - name: Dodecahedron
+      page: 64
+    - name: Fujimoto Cube
+      page: 66
+    - name: Hosoya Cube
+      page: 68
+    - name: Tomoko Unit
+      page: 70
+    - name: Okamochi
+      page: 72
+    - name: Half a Cube
+      page: 74
+    - name: Half a Cube
+      page: 76
+    - name: Divided Masu Measuring Box
+      page: 78
+    - name: Semiregular Decahedron with Some Reentrant Corners
+      page: 80
+    - name: Interpolating Sheets
+      page: 82
+    - name: Iso-area Folding
+      page: 84
+    - name: Dodecahedron Unit
+      page: 86
+    - name: Octahedron Folded in the Iso-area Way
+      page: 88
+    - name: Regular-hexagonal Coaster
+      page: 89
+    - name: Ptarmigan - Icosahedron
+      page: 90
+    - name: Kitten
+      page: 94
+    - name: Goose
+      page: 98
+    - name: Pelican
+      page: 100
+    - name: Clapper Rail
+      page: 102
+    - name: Kangaroo
+      page: 106
+    - name: Giraffe
+      page: 110
+    - name: Malay Tapir
+      page: 114
+    - name: Horse
+      page: 118
+    - name: Fox
+      page: 122
+    - name: 'Camellia, Bloom, and Branch'
+      page: 126
+    - name: Rose
+      page: 128
+    - name: Green Pepper
+      page: 132
+    - name: Eggplant
+      page: 133
+    - name: Daikon Raddish
+      page: 133
+    - name: Flower-cut Hard-boiled Egg
+      page: 134
+    - name: Pine Cone
+      page: 136
+    - name: Spiral Snail Shell
+      page: 140
+    - name: Sea-snail Shell
+      page: 144
+    - name: Murex Shell
+      page: 148
+    - name: Ground Beetle
+      page: 150
+    - name: Ramphorhynchus
+      page: 158
+    - name: Stegosaurus
+      page: 162
+- title: Origami for the First Time
+  author: Soonboke Smith
+  models:
+    - name: Coaster
+      page: 38
+    - name: Paper Cup / Snack Cup
+      page: 41
+    - name: Paper Heart
+      page: 44
+    - name: Cup Holder
+      page: 47
+    - name: Candy Cup
+      page: 50
+    - name: Utensil Holder
+      page: 52
+    - name: Flowerpot
+      page: 54
+    - name: Swan Box
+      page: 58
+    - name: Tricolor Gift Box
+      page: 61
+    - name: Picture Frame
+      page: 64
+    - name: Dove
+      page: 66
+    - name: Pen Holder
+      page: 68
+    - name: Chair & Table
+      page: 70
+    - name: Pinwheel
+      page: 72
+    - name: Sailbot
+      page: 72
+    - name: Barn
+      page: 75
+    - name: Lily
+      page: 78
+    - name: Soonboke's Crane
+      page: 81
+    - name: Flapping Crane
+      page: 84
+    - name: Seal
+      page: 86
+    - name: Crayon
+      page: 88
+    - name: Gift Box
+      page: 90
+    - name: Letter Holder
+      page: 93
+    - name: Pine Tree
+      page: 96
+- title: Origami from Around the World
+  author: Vincente Palacios
+  models:
+    - name: Clicker
+      page: 13
+    - name: Feather for Cap
+      page: 14
+    - name: Hat and Legionnaire's Cap
+      page: 15
+    - name: Pitufo
+      page: 16
+    - name: Girl's Dress
+      page: 17
+    - name: Vase
+      page: 18
+    - name: Cap 1
+      page: 19
+    - name: Cap 2
+      page: 20
+    - name: Winged Cube
+      page: 21
+    - name: Boat
+      page: 22
+    - name: Box
+      page: 23
+    - name: Centerpiece for Table
+      page: 24
+    - name: Sparrow
+      page: 25
+    - name: Modular Cube 1
+      page: 26
+    - name: Modular Cube 2
+      page: 27
+    - name: Modular Cube 3
+      page: 28
+    - name: Modular Cube 4
+      page: 29
+    - name: Little Bird Bookmark
+      page: 30
+    - name: Celtic Helmet
+      page: 31
+    - name: Airplane
+      page: 32
+    - name: Little Terrier Dog
+      page: 33
+    - name: Pentagon
+      page: 34
+    - name: Dodecahedron
+      page: 34
+    - name: '''Tato'' Wrapper'
+      page: 35
+    - name: Dove
+      page: 36
+    - name: Heart for a Drinking Glass
+      page: 37
+    - name: Boat
+      page: 38
+    - name: Bird's Perch
+      page: 39
+    - name: Rowboat
+      page: 40
+    - name: 'Stand for Cards, Photos, etc'
+      page: 41
+    - name: Sailboat
+      page: 42
+    - name: Parrot
+      page: 43
+    - name: Bird in Flight
+      page: 45
+    - name: Condor
+      page: 46
+    - name: Buzzard
+      page: 47
+    - name: Bird
+      page: 48
+    - name: Five-Sided Box
+      page: 49
+    - name: Frog
+      page: 50
+    - name: Muslim Praying
+      page: 51
+    - name: Stork
+      page: 52
+    - name: Crystal
+      page: 54
+    - name: Cubic Box
+      page: 55
+    - name: Persian Slippers
+      page: 56
+    - name: 'Hello, Hello!'
+      page: 57
+    - name: Five-Point Modular Star
+      page: 58
+    - name: Five-Point (or Six-Point) Star
+      page: 59
+    - name: Acid Lemon
+      page: 60
+    - name: Yacht
+      page: 61
+    - name: Jug
+      page: 62
+    - name: Whistle that Whistles
+      page: 63
+    - name: Capercaillie (bird)
+      page: 64
+    - name: Irreversible-Process Box
+      page: 66
+    - name: Modular Crown 1
+      page: 67
+    - name: Modular Cross
+      page: 69
+    - name: Modular Crown 2
+      page: 70
+    - name: Simple Box
+      page: 71
+    - name: Houseboat
+      page: 72
+    - name: Goldfish
+      page: 73
+    - name: Modular Ditetrahedron
+      page: 74
+    - name: Eagle
+      page: 76
+    - name: Snail Shell
+      page: 78
+    - name: Trough with Cranes
+      page: 80
+    - name: Two-Seat Boat
+      page: 82
+    - name: Chinese Junk
+      page: 85
+    - name: Plant in Flowerpot
+      page: 87
+    - name: Lohengrin's Swan
+      page: 88
+    - name: Truncated Cube
+      page: 89
+    - name: Box with Handles
+      page: 90
+    - name: Young Dutchwoman
+      page: 92
+    - name: Rabbit
+      page: 94
+    - name: Camellia
+      page: 96
+    - name: Fish that Opens and Shuts its Mouth
+      page: 98
+    - name: Me and My Shadow (Cats)
+      page: 100
+    - name: Little Bird in Boat
+      page: 103
+    - name: Decorated Box
+      page: 105
+    - name: Interlocked Hexagons
+      page: 106
+    - name: Little Dog 1
+      page: 107
+    - name: Buddha
+      page: 109
+    - name: Swan
+      page: 111
+    - name: Wilfred's Crown
+      page: 112
+    - name: Seven-Module Crown
+      page: 114
+    - name: Eight-Module Star 1
+      page: 115
+    - name: Pinwheel
+      page: 116
+    - name: Wreath
+      page: 117
+    - name: Hexagon
+      page: 119
+    - name: Star 1
+      page: 120
+    - name: Star 2
+      page: 121
+    - name: Knickknack
+      page: 122
+    - name: Five-Point Star
+      page: 125
+    - name: Little Whale
+      page: 127
+    - name: Boxer Dog
+      page: 129
+    - name: Elephant
+      page: 132
+    - name: Bear Cub
+      page: 134
+    - name: Little Dog 2
+      page: 137
+    - name: Horse
+      page: 139
+    - name: Meeusen-esque
+      page: 142
+    - name: Waterwheel
+      page: 145
+    - name: Weasel
+      page: 148
+    - name: Interweavings DZ-20A and DZ-20B
+      page: 150
+    - name: Eight-Module Star 2
+      page: 152
+    - name: Bowl / Open Receptacle
+      page: 155
+    - name: Geisha
+      page: 157
+    - name: Biplane
+      page: 161
+    - name: Armor
+      page: 164
+- title: Origami in Action
+  author: Robert J. Lang
+  models:
+    - name: Traditional Flapping Bird
+      page: 18
+    - name: Randlett's Flapping Bird
+      page: 20
+    - name: Flapping Butterfly
+      page: 22
+    - name: Intermediate Flapping Butterfly
+      page: 24
+    - name: Flapping Eagle
+      page: 26
+    - name: Flapping Duck
+      page: 29
+    - name: Flapping Crane
+      page: 33
+    - name: Flapping Lovebirds
+      page: 39
+    - name: Inflatable Waterbomb
+      page: 42
+    - name: Blow-up Bunny
+      page: 44
+    - name: Sitting Bunny
+      page: 46
+    - name: Inflatable Goldfish
+      page: 49
+    - name: Folding Knife
+      page: 51
+    - name: Barking Wolf
+      page: 54
+    - name: Gobbling Clam
+      page: 57
+    - name: Talking Frogger
+      page: 61
+    - name: Pecking Woodpecker
+      page: 63
+    - name: Catapult
+      page: 66
+    - name: Cookie Catcher
+      page: 68
+    - name: Harlequin Cootie Catcher
+      page: 70
+    - name: Talking Mouse Mask
+      page: 72
+    - name: Talking Dragon
+      page: 76
+    - name: Kicking Frog
+      page: 78
+    - name: Wagging-Tail Doggie
+      page: 84
+    - name: Gliding Butterfly
+      page: 87
+    - name: Hovercraft
+      page: 89
+    - name: Boardsailor
+      page: 90
+    - name: Rocking Sailbot
+      page: 92
+    - name: Flying Fighter
+      page: 95
+    - name: Clapping Seal
+      page: 100
+    - name: Swimming Manatee
+      page: 103
+    - name: Kicking Otter
+      page: 107
+    - name: Tyrannosaurus Rex
+      page: 114
+    - name: Indian Paddling a Canoe
+      page: 121
+    - name: Strumming Guitarist
+      page: 133
+    - name: Fiddling Bassist
+      page: 140
+    - name: Flasher
+      page: 149
+    - name: Spring Into Action
+      page: 152
 - title: Origami to Astonish and Amuse
   author: Jeremy Shafer
   models:
@@ -5338,7 +5531,7 @@
       page: 75
     - name: Piano Playing Pop-up Card
       page: 78
-    - name: Yapping, Clapping, Tapping, Flapping T-rex
+    - name: 'Yapping, Clapping, Tapping, Flapping T-rex'
       page: 83
     - name: Venus Flytrap
       page: 87
@@ -5482,177 +5675,6 @@
       page: 245
     - name: Running Car
       page: 246
-- title: Origami Toys
-  author: Florence Temko
-  models:
-    - name: The Transformer
-      page: 15
-    - name: Monster Mask
-      page: 20
-    - name: Fortune Teller
-      page: 22
-    - name: We Fish!
-      page: 24
-    - name: Wind Toy
-      page: 26
-    - name: Dog Puppet
-      page: 27
-    - name: Airplane
-      page: 28
-    - name: Leaping Frog
-      page: 30
-    - name: Rocket
-      page: 32
-    - name: Dinosaur
-      page: 34
-    - name: Raven
-      page: 36
-    - name: Two Love Birds in a Love Boat
-      page: 38
-    - name: Hydrofoil
-      page: 40
-    - name: Football Game
-      page: 42
-    - name: Basketball Game
-      page: 44
-    - name: Magic Rotator
-      page: 46
-    - name: Tic Tac Toe Game
-      page: 48
-    - name: Dollhouse
-      page: 51
-    - name: Dollhouse Furniture
-      page: 53
-    - name: A Doll Family
-      page: 55
-    - name: Gum Wrapper Chain
-      page: 58
-    - name: Magic Wand
-      page: 60
-- title: Origami USA
-  author: Duy Nguyen
-  models:
-    - name: American Eagle
-      page: 16
-    - name: Western Mustang
-      page: 24
-    - name: Native American
-      page: 30
-    - name: Buffalo
-      page: 38
-    - name: George Washington
-      page: 46
-    - name: Washington's Horse
-      page: 52
-    - name: Betsy Ross
-      page: 58
-    - name: Minuteman
-      page: 64
-    - name: Pioneer Girl
-      page: 68
-    - name: Gunslinger
-      page: 74
-    - name: Abraham Lincoln
-      page: 82
-    - name: "The King: Elvis"
-- title: Animal Origami Adventure
-  author: John Montroll
-  models:
-    - name: Snake
-      page: 11
-    - name: Bear
-      page: 13
-    - name: Kangaroo
-      page: 17
-    - name: Giraffe
-      page: 22
-    - name: Fox
-      page: 27
-    - name: Elephant
-      page: 33
-    - name: Antelope
-      page: 38
-    - name: Rhinoceros
-      page: 43
-- title: Origami Zoo
-  authors:
-    - Robert J. Lang
-    - Stephen Weiss
-  models:
-    - name: Dolphin
-      page: 27
-    - name: Penguin
-      page: 30
-    - name: Swan
-      page: 32
-    - name: Fish
-      page: 34
-    - name: Gorilla
-      page: 36
-    - name: Scottie
-      page: 38
-    - name: Owl
-      page: 40
-    - name: Goose
-      page: 42
-    - name: Frog
-      page: 44
-    - name: Lion
-      page: 46
-    - name: Duck
-      page: 48
-    - name: Sea Turtle
-      page: 50
-    - name: Roadrunner
-      page: 53
-    - name: Collie
-      page: 56
-    - name: Kangaroo
-      page: 59
-    - name: Squirrel
-      page: 62
-    - name: Skunk
-      page: 65
-    - name: Panda
-      page: 68
-    - name: Fox
-      page: 71
-    - name: Irish Setter
-      page: 73
-    - name: Alligator
-      page: 77
-    - name: Pegasus
-      page: 81
-    - name: Camel
-      page: 85
-    - name: Mouse
-      page: 89
-    - name: Wooly Mammoth
-      page: 93
-    - name: Dog in a Doghouse
-      page: 96
-    - name: Bear
-      page: 100
-    - name: Golden Eagle
-      page: 104
-    - name: Desert Tortoise
-      page: 110
-    - name: Rabbit
-      page: 115
-    - name: Giraffe
-      page: 120
-    - name: Horsefly
-      page: 126
-    - name: Black Widow
-      page: 132
-    - name: Reindeer
-      page: 127
-    - name: Butterfly
-      page: 143
-    - name: Praying Mantis
-      page: 149
-    - name: Crab
-      page: 156
 - title: Ornamental Origami
   author: Meenakshi Mukerji
   models:
@@ -5718,7 +5740,7 @@
     - name: Duck
       page: 42
 - title: Papercrafts and Origami
-  aliasOf: Making Great Papercrafts, Origami, Stationery and Gift Wraps
+  aliasOf: 'Making Great Papercrafts, Origami, Stationery and Gift Wraps'
 - title: Passion Origami
   author: Nicolas Terry
   models:
@@ -5736,7 +5758,7 @@
     - name: Monk with a Stick
     - name: Bear
     - name: Ramses 2
-    - name: Mizaru, Kikazaru and Iwazaru
+    - name: 'Mizaru, Kikazaru and Iwazaru'
     - name: Rhinoceros
     - name: Baby Rhinoceros
     - name: Lion
@@ -5907,7 +5929,7 @@
       page: 36
     - name: Zombie Claws
       page: 38
-    - name: "UFO: Unidentified Flying Origami"
+    - name: 'UFO: Unidentified Flying Origami'
       page: 40
     - name: Ghost Ship
       page: 42
@@ -5931,31 +5953,6 @@
       page: 60
     - name: Slithering Snake
       page: 62
-- title: Origami Sea Creatures
-  author: John Montroll
-  models:
-    - name: Fish
-      page: 11
-    - name: Goldfish
-      page: 13
-    - name: Angelfish
-      page: 15
-    - name: Starfish
-      page: 16
-    - name: Seal
-      page: 19
-    - name: Walrus
-      page: 21
-    - name: Seahorse
-      page: 23
-    - name: Whale
-      page: 25
-    - name: Turtle
-      page: 28
-    - name: Frog
-      page: 32
-    - name: Crab
-      page: 38
 - title: Super Nifty Origami Crafts
   authors:
     - Andrea Urton
@@ -5977,7 +5974,7 @@
       page: 20
     - name: Rock-a-Bye Papoose
       page: 22
-    - name: Home, Haunted Home
+    - name: 'Home, Haunted Home'
       page: 24
     - name: Chattering Bird
       page: 26
@@ -6955,6 +6952,8 @@
       page: 126
     - name: Skeletal Dodecahedron
       page: 132
+- title: The Origami Handbook
+  aliasOf: Origami - The Complete Guide to Paperfolding
 - title: The Practical Illustrated Encyclopedia of Origami
   aliasOf: Origami - The Complete Guide to the Art of Paperfolding
 - title: The Ultimate Origami Book
@@ -7023,8 +7022,6 @@
       page: 27
     - name: Work Cap
       page: 28
-    - name: Bird-face Cap
-      page: 38
     - name: Japanese Helmet
       page: 29
     - name: Rabbit Hat
@@ -7043,6 +7040,8 @@
       page: 36
     - name: Seal (I)
       page: 37
+    - name: Bird-face Cap
+      page: 38
     - name: Penguin (I)
       page: 38
     - name: Penguin (II)
@@ -7177,7 +7176,7 @@
       page: 115
     - name: Rabbit
       page: 116
-    - name: Pegasus, the Flying Horse
+    - name: 'Pegasus, the Flying Horse'
       page: 117
     - name: Pointer
       page: 118
@@ -7327,8 +7326,6 @@
 - title: Uber Origami
   author: Duy Nguyen
   models:
-    - name: Flower
-      page: 34
     - name: Puppy
       page: 25
     - name: Cat Head
@@ -7341,6 +7338,8 @@
       page: 30
     - name: King Cobra
       page: 32
+    - name: Flower
+      page: 34
     - name: Elephant
       page: 34
     - name: Falcon
@@ -7417,12 +7416,12 @@
       page: 152
     - name: Water Buffalo
       page: 157
+    - name: Zebra
+      page: 159
     - name: Wildebeest
       page: 161
     - name: Orangutan
       page: 166
-    - name: Zebra
-      page: 159
     - name: Gazelle
       page: 174
     - name: Rattlesnake
@@ -7447,6 +7446,8 @@
       page: 214
     - name: Compsognathus
       page: 218
+    - name: Pioneer Girl
+      page: 219
     - name: Muraenosaur
       page: 222
     - name: Parasaurolophus
@@ -7489,14 +7490,12 @@
       page: 310
     - name: Minuteman
       page: 316
-    - name: Pioneer Girl
-      page: 219
     - name: Abraham Lincoln
       page: 324
-    - name: "The King: Elvis"
-      page: 329
     - name: Russian MiG-21
       page: 324
+    - name: 'The King: Elvis'
+      page: 329
     - name: F-16 Falcon
       page: 336
     - name: Phantom
