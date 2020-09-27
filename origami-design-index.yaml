@@ -162,125 +162,326 @@
   models:
     - name: Star
       page: 118
+      tags:
+        - decoration
+        - star
     - name: Angelfish
       page: 16
+      tags:
+        - animal
+        - fish
+        - angelfish
     - name: Seal
       page: 17
+      tags:
+        - animal
+        - mammal
+        - seal
     - name: Walrus
       page: 19
+      tags:
+        - animal
+        - mammal
+        - walrus
     - name: Starfish
       page: 21
+      tags:
+        - animal
+        - fish
+        - starfish
     - name: Crane
       page: 24
+      tags:
+        - animal
+        - bird
+        - crane
     - name: Swan
       page: 26
+      tags:
+        - animal
+        - bird
+        - swan
     - name: Eagle
       page: 28
+      tags:
+        - animal
+        - bird
+        - eagle
     - name: Owl
       page: 29
+      tags:
+        - animal
+        - bird
+        - owl
     - name: Tyrannosaurus
       page: 31
+      tags:
+        - animal
+        - dinosaur
+        - tyrannosaurus
     - name: Brontosaurus
       page: 33
+      tags:
+        - animal
+        - dinosaur
+        - brontosaurus
     - name: Snake
       page: 35
+      tags:
+        - animal
+        - reptile
+        - snake
     - name: Turtle
       page: 37
+      tags:
+        - animal
+        - reptile
+        - turtle
     - name: Frog
       page: 41
+      tags:
+        - animal
+        - amphibian
+        - frog
     - name: Frog With Toes
       page: 47
+      tags:
+        - animal
+        - amphibian
+        - frog
     - name: Bear
       page: 50
+      tags:
+        - animal
+        - mammal
+        - bear
     - name: Kangaroo
       page: 54
+      tags:
+        - animal
+        - mammal
+        - kangaroo
     - name: Giraffe
       page: 59
+      tags:
+        - animal
+        - mammal
+        - giraffe
     - name: Fox
       page: 64
+      tags:
+        - animal
+        - mammal
+        - fox
     - name: Elephant
       page: 70
+      tags:
+        - animal
+        - mammal
+        - elephant
     - name: Antelope
       page: 76
+      tags:
+        - animal
+        - mammal
+        - antelope
     - name: Spider
       page: 82
+      tags:
+        - animal
+        - insect
+        - spider
     - name: Crab
       page: 93
+      tags:
+        - animal
+        - crustaceans
+        - crab
     - name: Lobster
       page: 102
+      tags:
+        - animal
+        - crustaceans
+        - lobster
     - name: Ornament
       page: 115
+      tags:
+        - decoration
 - title: Classic Origami
   author: Paul Jackson
   models:
     - name: Star
       page: 62
+      tags:
+        - star
+        - decoration
     - name: Bird
       page: 16
+      tags:
+        - animal
+        - bird
     - name: Glider
       page: 25
+      tags:
+        - dart
+        - action
     - name: Banger
       page: 14
+      tags:
+        - action
     - name: Barking Dog
       page: 72
+      tags:
+        - animal
+        - mammal
+        - dog
     - name: Flapping Bird
       page: 22
+      tags:
+        - animal
+        - bird
+        - action
     - name: Cube
       page: 38
+      tags:
+        - box
+        - cube
+        - container
     - name: Crane
       page: 24
+      tags:
+        - animal
+        - bird
+        - crane
     - name: Fox
       page: 46
+      tags:
+        - animal
+        - mammal
+        - fox
     - name: Rooster
       page: 58
+      tags:
+        - animal
+        - bird
+        - rooster
     - name: Yacht
       page: 36
+      tags:
+        - boat
     - name: Crown
       page: 15
+      tags:
+        - hat
     - name: Cat
       page: 40
+      tags:
+        - animal
+        - mammal
+        - cat
     - name: Cup
       page: 17
+      tags:
+        - container
+        - practical
     - name: Waterlily
       page: 18
+      tags:
+        - plant
+        - flower
+        - waterlily
     - name: Dish
       page: 19
+      tags:
+        - container
     - name: Sampan
       page: 26
+      tags:
+        - boat
     - name: Junk
       page: 28
+      tags:
+        - boat
     - name: Yoshi Zawa's Butterfly
       page: 34
+      tags:
+        - animal
+        - insect
+        - butterfly
     - name: Mount Fuji and the Sea
       page: 35
+      tags:
+        - landscape
+        - mountain
+        - ocean
     - name: Eternally Opening Origami
       page: 37
+      tags:
+        - action
     - name: Incense Burner
       page: 42
+      tags:
+        - decoration
     - name: Tulip and Stem
       page: 44
+      tags:
+        - plant
+        - flower
+        - tulip
     - name: Stretch Wall
       page: 48
+      tags:
+        - action
     - name: Arrow
       page: 52
+      tags:
+        - arrow
     - name: Snap Hexahedron
       page: 53
+      tags:
+        - action
+        - geometric
     - name: The Un-Unfoldable Box
       page: 54
+      tags:
+        - box
+        - container
     - name: Face
       page: 56
+      tags:
+        - face
+        - human
     - name: Pop-Up Double Cube
       page: 60
+      tags:
+        - box
+        - container
     - name: Daffodil
       page: 64
+      tags:
+        - plant
+        - flower
+        - daffodil
     - name: Architectural Module
       page: 68
+      tags:
+        - modular
     - name: Rowing Boat
       page: 73
+      tags:
+        - boat
     - name: Rosette
       page: 74
+      tags:
+        - flower
+        - plant
+        - rosette
     - name: Rhino
       page: 76
+      tags:
+        - animal
+        - mammal
+        - rhino
 - title: Art of Origami
   author: Samuel Randlett
   models:
