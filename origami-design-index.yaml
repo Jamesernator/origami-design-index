@@ -1,5 +1,5 @@
 - title: 30 Origami Designs
-  author: Unknown
+  author: Paul Jackson
   models:
     - name: Glider
       page: 6
@@ -3515,6 +3515,9 @@
       page: 30
     - name: Top
       page: 32
+- title: Origami - 30 Stunning & Original Paper Creations
+  author: Paul Jackson
+  aliasOf: 30 Origami Designs
 - title: Origami - Easy-to-Make Paper Creations
   author: Gay Merrill Gross
   models:
@@ -3578,6 +3581,57 @@
       page: 101
     - name: Corsage
       page: 106
+- title: Origami - From Angelfish to Zen
+  author: Peter Engel
+  models:
+    - name: Angelfish
+      page: 90
+    - name: Butterfly Fish
+      page: 92
+    - name: Discus Fish
+      page: 94
+    - name: Hummingbird
+      page: 96
+    - name: Kangaroo
+      page: 99
+    - name: Giraffe
+      page: 103
+    - name: Penguin
+      page: 108
+    - name: One-Dollar Yacht
+      page: 114
+    - name: One-Dollar Bow Tie
+      page: 116
+    - name: One-Dollar Crab
+      page: 118
+    - name: Eight-Pointed Star
+      page: 122
+    - name: Valentine
+      page: 124
+    - name: Crab
+      page: 130
+    - name: Centipede
+      page: 134
+    - name: Rattlesnake
+      page: 142
+    - name: Octopus
+      page: 149
+    - name: Squid
+      page: 158
+    - name: Scorpion
+      page: 166
+    - name: Alligator
+      page: 178
+    - name: Tiger
+      page: 184
+    - name: Reindeer
+      page: 193
+    - name: Elephant
+      page: 204
+    - name: Knight on Horseback
+      page: 215
+    - name: Butterfly
+      page: 226
 - title: Origami - Japanese Paperfolding
   author: Florence Sakade
   models:
@@ -4241,6 +4295,27 @@
       page: 53
     - name: Cyclone
       page: 59
+- title: Origami and Papercraft
+  authors:
+    - Paul Jackson
+    - Vivien Frank
+  models:
+    - name: Printer's Hat
+      page: 60
+    - name: Butterfly
+      page: 62
+    - name: Chatterbox
+      page: 64
+    - name: Repeat Pattern
+      page: 66
+    - name: Fish
+      page: 68
+    - name: Fish 2
+      page: 69
+    - name: Japanese Box
+      page: 72
+    - name: Valentine Heart
+      page: 74
 - title: Origami Animals
   author: Hector Rojas
   models:
@@ -4346,6 +4421,19 @@
       page: 86
     - name: Puffin
       page: 92
+- title: Origami Bonsai
+  author: Benjamin John Coleman
+  models:
+    - name: Rotundifolius Leaf
+    - name: Ficus Leaf
+    - name: Berlin Poplar Leaf
+    - name: Ivy Leaf
+    - name: Black Eyed Susan
+    - name: Primrose
+    - name: Foxglove
+    - name: Buttercup
+    - name: Pumpkin Flower
+    - name: Morning Glory
 - title: Origami Boxes
   author: Florence Temko
   models:
@@ -4397,6 +4485,131 @@
       page: 58
     - name: One-Piece Box
       page: 62
+- title: Origami Boxes
+  author: Tomoko Fuse
+  models:
+    - name: Lid of Tsuzura
+      page: 12
+    - name: Base of Tsuzura
+      page: 16
+    - name: Square Box - First Series
+      page: 19
+    - name: Lids of Square Boxes
+      page: 24
+    - name: Lid a Square Box Variation Lozenge
+      page: 27
+    - name: Square Box - Second Series
+      page: 30
+    - name: Lids of Square Boxes with Pinwheels on Both Sides
+      page: 34
+    - name: Lid of a Square Box - Fancy Pinwheel
+      page: 41
+    - name: Lid of an Octagon Box - Little Flower
+      page: 44
+    - name: Lid of an Octagon Box - Double Stars
+      page: 47
+    - name: Base of an Octagon Box
+      page: 50
+    - name: Triangle Box - Medium Size
+      page: 55
+    - name: Triangle Box - Large Size
+      page: 58
+    - name: Triangle Box - Small Size
+      page: 60
+    - name: Lid of a Hexagon box with Six-Petal Pinwheel
+      page: 62
+    - name: Base of a Hexagon Box
+      page: 58
+- title: Origami Butterflies
+  authors: 
+    - Michael G. LaFosse
+    - Richard Alexander
+  models:
+    - name: A Butterfly for Alice Gray
+      page: 34
+    - name: A Butterfly for Tony Cheng
+      page: 38
+    - name: A Butterfly for Jane Winchell
+      page: 40
+    - name: A Butterfly for Jan Polish
+      page: 44
+    - name: A Butterfly for Mr. Makoto Yamaguchi
+      page: 48
+    - name: A Butterfly for Vanessa Gould
+      page: 52
+    - name: A Butterfly for Robert Lang
+      page: 54
+    - name: A Butterfly for Emiko Kruckner
+      page: 58
+    - name: A Butterfly for Kyoko Kondo
+      page: 62
+    - name: A Butterfly for Killian Mansfield
+      page: 66
+    - name: A Butterfly for Eric Joisel
+      page: 68
+    - name: A Butterfly for Sok Song
+      page: 72
+    - name: A Butterfly for Lillian Oppenheimer
+      page: 76
+    - name: A Butterfly for Guy Kawasaki
+      page: 78
+    - name: The Origamido Butterfly
+      page: 82
+    - name: The Boston Butterfly
+      page: 86
+    - name: A Butterfly for Doris Asano
+      page: 88
+    - name: A Butterfly for Diana Wolf
+      page: 90
+    - name: A Butterfly for V'Ann Cornelius
+      page: 92
+    - name: A Butterfly for June Sakamoto
+      page: 94
+    - name: A Butterfly for Anne LaVin
+      page: 98
+    - name: A Butterfly for Kyoto
+      page: 100
+    - name: A Butterfly for Russell Cashdollar
+      page: 103
+    - name: The Mudarri Luna Moth
+      page: 106
+    - name: Le Palillon de Nuit
+      page: 109
+- title: Origami Butterflies
+  authors:
+    - Richard Alexander
+    - Greg Mudarri
+  models:
+    - name: A Butterfly for Alice Gray
+      page: 34
+    - name: The Lillian
+      page: 38
+    - name: Emiko Fritillary
+      page: 42
+    - name: Alexander Swallowtail
+      page: 46
+    - name: Alexander Aztec Swallowtail
+      page: 50
+    - name: The Baxter
+      page: 54
+    - name: The Michael Shall
+      page: 58
+    - name: The Temko
+      page: 62
+    - name: Origamido Butterfly
+      page: 66
+    - name: The Joyce Rockmore
+      page: 70
+    - name: The Nolan
+      page: 74
+    - name: Mudarri Luna Moth
+      page: 78
+    - name: LaFosse's Moth
+      page: 82
+    - name: Evangeline Fritillary
+      page: 86
+    - name: LaFosse's Deliar Bill Butterfly
+      page: 88
 - title: Origami Christmas Decorations
   author: Michael G. LaFosse
   models:
@@ -4418,8 +4631,187 @@
       page: 20
     - name: Origami Key
       page: 22
+- title: Origami Design Secrets
+  author: Robert J. Lang
+  models:
+    - name: Stealth Fighter
+      page: 74
+    - name: Snail
+      page: 76
+    - name: Valentine
+      page: 78
+    - name: Ruby-Throated Hummingbird
+      page: 82
+    - name: Baby
+      page: 87
+    - name: Pteranodon
+      page: 118
+    - name: Goatfish
+      page: 123
+    - name: Songbird I
+      page: 162
+    - name: KNL Dragon
+      page: 168
+    - name: Lizard
+      page: 174
+    - name: Tree Frog
+      page: 179
+    - name: Dancing Crane
+      page: 188
+    - name: Turtle
+      page: 222
+    - name: Western Pond Turtle
+      page: 225
+    - name: Koi
+      page: 237
+    - name: Pegasus
+      page: 282
+    - name: Emu
+      page: 336
+    - name: Songbird II
+      page: 339
+    - name: Orchid Blossom
+      page: 386
+    - name: Silverfish
+      page: 390
+    - name: Alamo Stallion
+      page: 438
+    - name: Roosevelt Elk
+      page: 446
+    - name: Organist
+      page: 510
+    - name: Black Forest Cuckoo Clock
+      page: 530
+    - name: Bull Moose
+      page: 612
+    - name: Flying Walking Stick
+      page: 686
+    - name: Salt Creek Tiger Beetle
+      page: 687
+    - name: Longhorn Beetle
+      page: 688
+    - name: Camel Spider
+      page: 689
+    - name: Water Strider
+      page: 690
+    - name: Scarab Beetle
+      page: 691
+    - name: Cicada Nymph
+      page: 692
+    - name: Scarab Beetle HP
+      page: 693
+    - name: Cyclomatus Metallifer
+      page: 694
+    - name: Scorpion HP
+      page: 695
+    - name: Euthysanius Beetle
+      page: 696
+    - name: Spur-Legged Dung Beetle
+      page: 697
+    - name: African Elephant
+      page: 718
+- title: Origami Fish and Other Sea Creatures
+  author: Nick Robinson
+  models:
+    - name: Fish Silhouette
+    - name: Simple Fish
+    - name: Multiform Fish
+    - name: Pureland Fish
+    - name: Bubblefish
+    - name: 3D Fish
+    - name: Goldfish
+    - name: Telescope Goldfish
+    - name: Angel Fish
+    - name: Flatfish
+    - name: Clownfish
+    - name: Carp
+    - name: Swimming Fish
+    - name: Moray Eel
+    - name: Banded Angelfish
+    - name: Fish Bones
+    - name: Shark
+    - name: Manta Ray
+    - name: Koi Carp
+    - name: Puffer Fish
+- title: Origami Flowers
+  author: James Minoru Sakoda
+  models:
+    - name: Lily with a White Center Cluster
+      page: 7
+    - name: Water Lily
+      page: 10
+    - name: Frog Base Lily
+      page: 11
+    - name: Water bomb/Chinese Lantern
+      page: 12
+    - name: Lily with a White Center
+      page: 13
+    - name: Daffodil with a White Center
+      page: 15
+    - name: Five Petal Balloon Flower
+      page: 15
+    - name: Impatiens
+      page: 18
+    - name: Five Petal Flowers
+      page: 19
+    - name: Cherry Blossom
+      page: 19
+    - name: Five Petal Balloon Flower
+      page: 21
+    - name: Pentagon Frog Base Iris
+      page: 23
+    - name: Pentagon Cherry Blossom
+      page: 24
+    - name: Pentagon Frog Base Daffodil
+      page: 25
+    - name: Eight Petal Flowers
+      page: 28
+    - name: 16 Petal Chrysanthemum
+      page: 29
+    - name: White Center Flower
+      page: 30
+    - name: Sixteen Bi-level Petal Flowers
+      page: 31
+    - name: Six Petal Frog Base Lily
+      page: 37
+    - name: Six Petal Iris
+      page: 37
+    - name: Six Petal Daffodil
+      page: 38
+    - name: Narcissus with a White Center
+      page: 38
+    - name: Rose from the Swirl
+      page: 40
+    - name: Bird Base Rose
+      page: 50
+    - name: Bird Base Tulip
+      page: 51
+    - name: Square Vase
+      page: 55
+    - name: Hexagon Vase
+      page: 57
+    - name: Base for the Square Vase
+      page: 59
+    - name: Base for the Hexagon Vase
+      page: 60
+    - name: Left Hand Leaf
+      page: 64
+    - name: Leaves from a Kite Form
+      page: 66
+    - name: Bulb Leaves
+      page: 68
+    - name: Maple Leaf
+      page: 70
+    - name: Maple Leaf 2
+      page: 71
+    - name: Wheat Stalk
+      page: 72
+    - name: Wheat Stalk 2
+      page: 73
+    - name: Accordion Pleated Leaf
+      page: 73
 - title: Origami Hearts
-  page: Francis Ow
+  author: Francis Ow
   models:
     - name: Heart Module 1
       page: 17
@@ -4642,6 +5034,182 @@
       page: 107
     - name: Adaptable Dodecahedron 2
       page: 111
+- title: Origami Jewelry
+  author: Ayako Brodek
+  models:
+    - name: Rose Brooch
+      page: 42
+    - name: Rose Barrette
+      page: 42
+    - name: Rose Earrings
+      page: 42
+    - name: Butterfly Brooch
+      page: 46
+    - name: Butterfly Hairpin
+      page: 46
+    - name: Butterfly Bracelet
+      page: 46
+    - name: Butterfly Earrings
+      page: 46
+    - name: Flower Bouquet Brooch
+      page: 50
+    - name: Rabbit Brooch
+      page: 52
+    - name: Chick in Egg Brooch
+      page: 54
+    - name: Flower Choker
+      page: 58
+    - name: Flower Earrings
+      page: 58
+    - name: Flower Beads
+      page: 60
+    - name: Butterfly Necklace
+      page: 60
+    - name: Fish Brooch
+      page: 62
+    - name: Fish Earrings
+      page: 62
+    - name: Sunburst Brooch
+      page: 66
+    - name: Sunburst Earrings
+      page: 66
+    - name: Candy Colors Necklace
+      page: 70
+    - name: Candy Colors Bracelet
+      page: 70
+    - name: Candy Colors Earrings
+      page: 70
+    - name: Crab Brooch
+      page: 74
+    - name: Crab Earrings
+      page: 74
+    - name: Seashell Brooch
+      page: 78
+    - name: Seashell Necklace
+      page: 78
+    - name: Seashell Earrings
+      page: 78
+    - name: Leaf Brooch
+      page: 82
+    - name: Leaf Earrings
+      page: 82
+    - name: Chunky Bead Choker
+      page: 84
+    - name: Chunky Bead Earrings
+      page: 84
+    - name: Shades of Fall Necklace
+      page: 86
+    - name: Shades of Fall Earrings
+      page: 86
+    - name: Pumpkin Brooch
+      page: 88
+    - name: Pinecone Necklace
+      page: 90
+    - name: Pinecone Earrings
+      page: 90
+    - name: Tree Brooch
+      page: 94
+    - name: Tree Earrings
+      page: 94
+    - name: Tree Pin
+      page: 94
+    - name: Star Brooch
+      page: 96
+    - name: Star Earrings
+      page: 96
+    - name: Festive Foil Beaded Necklace
+      page: 98
+    - name: Festive Foil Beaded Earrings
+      page: 98
+    - name: Wreath Brooch
+      page: 102
+    - name: Angel Pin
+      page: 104
+    - name: Angel Earrings
+      page: 104
+    - name: Heart Earrings
+      page: 105
+    - name: Paper Crane Brooch
+      page: 108
+    - name: Paper Crane Tie Tack
+      page: 108
+    - name: Paper Crane Earrings
+      page: 108
+    - name: Kimono Brooch
+      page: 112
+    - name: Kimono Earrings
+      page: 112
+    - name: Paper Fan Brooch
+      page: 116
+    - name: Paper Fan Earrings
+      page: 116
+    - name: Samurai Helmet Brooch
+      page: 118
+    - name: Samurai Helmet Earrings
+      page: 118
+    - name: Frog Brooch
+      page: 120
+    - name: Frog Earrings
+      page: 120
+- title: Origami Jewelry
+  author: Mayumi Jezewski
+  models:
+    - name: Heart
+      page: 14
+    - name: Iris
+      page: 18
+    - name: Rosette
+      page: 24
+    - name: Leaf
+      page: 30
+    - name: Box
+      page: 32
+    - name: Butterfly
+      page: 36
+    - name: Crane
+      page: 40
+    - name: Bow
+      page: 44
+    - name: Star
+      page: 50
+    - name: Menko
+      page: 54
+- title: Origami Jewelry
+  authors:
+    - Michael G. LaFosse
+    - Richard L. Alexander
+  models:
+    - name: Square Beads
+    - name: Bead Caps
+    - name: Square Bead Mounting Covers
+    - name: Pillow Beads
+    - name: Square Rhombus Beads
+    - name: Preliminary Form Connectors
+    - name: Triangle Beads
+    - name: Barrel Beads
+    - name: Flattened Barrel Beads
+    - name: Lantern Beads
+    - name: Teardrop Beads
+    - name: Blossom Beads
+    - name: Barrel Beads with Tabs
+    - name: Flattened Barrel Beads with Tabs
+    - name: Lantern Beads with Tabs
+    - name: Teardrop Beads with Tabs
+    - name: Preliminary Form Beads
+    - name: Arrowhead Beads
+    - name: Owl Beads
+    - name: Twin Arrowhead Beads
+    - name: Duo Kite Beads
+    - name: Trident Beads
+    - name: Wolverine Claws
+    - name: Abstract Sail Elements
+    - name: Angel Wings
+    - name: Slinking Triangle Beads
+    - name: Square Jewelry Gift Box and Lid
+    - name: Long Jewelry Gift Box and Lid
+    - name: Clasps
+    - name: Pin Backs
+    - name: Ear Wires
 - title: Origami Magic
   author: Florence Temko
   models:
@@ -4762,6 +5330,92 @@
       page: 30
     - name: Body
       page: 32
+- title: Origami No. 1
+  models: 
+    - name: House
+    - name: Hat
+    - name: Organ
+    - name: Fish
+    - name: Boat
+    - name: Cicada
+    - name: Jewel Box
+    - name: Purse
+- title: Origami No. 2
+  models:
+    - name: Morning-glory
+    - name: Balloon
+    - name: Airplane
+    - name: Bird
+    - name: Aquatic Bird
+    - name: Box
+    - name: Stork
+    - name: Tortoise
+    - name: Jumping Frog
+- title: Origami No. 3
+  models:
+    - name: Three-cornered Hat
+    - name: Table
+    - name: Chair
+    - name: Caterpillar
+    - name: Butterfly
+    - name: Snail
+    - name: Flower
+    - name: Rocket
+    - name: Twin-Boat
+    - name: Yacht
+- title: Origami No. 4
+  models:
+    - name: Rabbit
+    - name: Dog
+    - name: Letter Rack
+    - name: Cup
+    - name: Goldfish
+    - name: Whale
+    - name: Finger-tip Doll of Fox
+    - name: Bellflower
+    - name: Penguin
+- title: Origami No. 5
+  models:
+    - name: Candy Box
+    - name: Mushroom
+    - name: Acorn
+    - name: Caterpillar
+    - name: Gondola
+    - name: Rolling Toy
+    - name: Dog
+    - name: Dragonfly
+    - name: Duck
+- title: Origami No. 6
+  models:
+    - name: Fox
+    - name: Ladybug
+    - name: Pinwheel
+    - name: Crown
+    - name: Panda
+    - name: Seal
+    - name: UFO
+    - name: Star
+- title: Origami No. 7
+  models:
+    - name: Coaster
+    - name: Bird Mobile
+    - name: Witch
+    - name: Seagull
+    - name: Swan
+    - name: Picture Frame
+    - name: Elf
+    - name: Monkey
+- title: Origami No. 8
+  models:
+    - name: Purse
+    - name: Flying Fish
+    - name: Tulip
+    - name: Hat
+    - name: Umbrella-Wheel
+    - name: Rooster
+    - name: Hen
+    - name: Dinosaur
+    - name: Ribbon
 - title: Origami Omnibus
   author: Kunihiko Kasahara
   models:
@@ -5439,6 +6093,53 @@
     - name: Abraham Lincoln
       page: 82
     - name: 'The King: Elvis'
+- title: Origami Wild Animals
+  author: John Montroll
+  models:
+    - name: Snake
+      page: 11
+    - name: Bear
+      page: 13
+    - name: Kangaroo
+      page: 17
+    - name: Giraffe
+      page: 22
+    - name: Fox
+      page: 27
+    - name: Elephant
+      page: 33
+    - name: Antelope
+      page: 38
+    - name: Rhinoceros
+      page: 43
+- title: Origami Zodiac East and West
+  author: Mark Bolitho
+  models:
+    - name: Yin Yang
+    - name: Aries
+    - name: Taurus
+    - name: Gemini
+    - name: Cancer
+    - name: Leo
+    - name: Virgo
+    - name: Libra
+    - name: Scorpio
+    - name: Saggitarius
+    - name: Capricorn
+    - name: Aquarius
+    - name: Pisces
+    - name: Rat
+    - name: Ox
+    - name: Tiger
+    - name: Rabbit
+    - name: Dragon
+    - name: Snake
+    - name: Horse
+    - name: Sheep
+    - name: Monkey
+    - name: Rooster
+    - name: Dog
+    - name: Pig
 - title: Origami Zoo
   authors:
     - Robert J. Lang
@@ -6478,7 +7179,7 @@
     - name: Winged Warrior
     - name: Primitive
     - name: Monkey with a Stick
-    - name: Troll
+    - name: Troll 
 - title: Planet Origami
   authors:
     - Steve Biddle
@@ -6662,6 +7363,189 @@
       page: 60
     - name: Slithering Snake
       page: 62
+- title: Secrets of Origami
+  author: Robert Harbin
+  models:
+    - name: Letter Fold
+      page: 17
+    - name: Carnival Hat
+      page: 18
+    - name: Dish
+      page: 19
+    - name: Ted Heath
+      page: 22
+    - name: Man from Mars
+      page: 23
+    - name: Valentine
+      page: 24
+    - name: Glider
+      page: 25
+    - name: Fotopurse
+      page: 26
+    - name: Ash Tray
+      page: 27
+    - name: Sycamore Seed
+      page: 28
+    - name: Owligami
+      page: 30
+    - name: Owl
+      page: 32
+    - name: Flying Sparrow
+      page: 34
+    - name: Loch Ness Monster
+      page: 36
+    - name: Christmas Ornament
+      page: 37
+    - name: Ball in a Ball
+      page: 38
+    - name: King of Spades
+      page: 40
+    - name: Dracula 1
+      page: 42
+    - name: Dracula 2
+      page: 43
+    - name: Dracula 3
+      page: 44
+    - name: Dog Barking
+      page: 45
+    - name: Swimmer
+      page: 46
+    - name: Rabbit
+      page: 48
+    - name: Penguin
+      page: 50
+    - name: Goose
+      page: 51
+    - name: Three Piece Jumbo
+      page: 52
+    - name: Maple Leaf
+      page: 55
+    - name: Baby Dragon
+      page: 56
+    - name: Ostrich
+      page: 58
+    - name: Mount Fuji
+      page: 61
+    - name: Super Box
+      page: 62
+    - name: Gliding Toy
+      page: 64
+    - name: Sherlock Holmes
+      page: 65
+    - name: Smuggler's Wallet
+      page: 68
+    - name: Walrus
+      page: 70
+    - name: Humming Bird
+      page: 72
+    - name: Swan
+      page: 74
+    - name: Siamese Cat
+      page: 76
+    - name: Elephant
+      page: 77
+    - name: Hat
+      page: 82
+    - name: Baby Grand
+      page: 83
+    - name: Baby Penguin
+      page: 88
+    - name: Matchbox
+      page: 89
+    - name: Olympic Torch
+      page: 92
+    - name: Flapping Bird
+      page: 95
+    - name: Rose
+      page: 96
+    - name: Escher
+      page: 98
+    - name: Baby Chick
+      page: 100
+    - name: Buddah
+      page: 101
+    - name: Turtle
+      page: 104
+    - name: Buddah on a Tortoise
+      page: 106
+    - name: Buddah Seated
+      page: 108
+    - name: Shrine of Buddah
+      page: 110
+    - name: Viking Longship
+      page: 112
+    - name: Tank
+      page: 114
+    - name: Palm Tree
+      page: 116
+    - name: Good Dog
+      page: 118
+    - name: Tri-star
+      page: 120
+    - name: Diamond
+      page: 122
+    - name: Oberon
+      page: 123
+    - name: Let's Dance
+      page: 128
+    - name: Square Owl
+      page: 131
+    - name: Chick Hatchling
+      page: 132
+    - name: Siesta
+      page: 134
+    - name: Decoration
+      page: 136
+    - name: Persian House
+      page: 137
+    - name: Lion Reclining
+      page: 140
+    - name: Helmet
+      page: 142
+    - name: Hell Cat
+      page: 143
+    - name: Polyhedral Box
+      page: 144
+    - name: Post a Letter
+      page: 146
+    - name: Cupid
+      page: 148
+    - name: Blue Whale
+      page: 149
+    - name: Red Indian
+      page: 150
+    - name: Marlin
+      page: 152
+    - name: Buddah Display
+      page: 154
+    - name: Squirrel
+      page: 156
+    - name: Picture Frame
+      page: 158
+    - name: Four Roses
+      page: 159
+    - name: Anchor
+      page: 162
+    - name: Ocean Liner
+      page: 164
+    - name: Leaf
+      page: 166
+    - name: Letter
+      page: 167
+    - name: Angel Fish
+      page: 168
+    - name: Pyramid
+      page: 170
+    - name: Flip-Top
+      page: 171
+    - name: Book
+      page: 174
+    - name: Tipper Truck
+      page: 176
+    - name: Matchbox 2
+      page: 180
+    - name: Lizard
+      page: 182
 - title: Super Nifty Origami Crafts
   authors:
     - Andrea Urton
