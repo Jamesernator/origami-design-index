@@ -2393,7 +2393,7 @@
       page: 51
     - name: Tea-bag Reindeer
       page: 53
-    - name: Connected Cranes, Kotobuki
+    - name: 'Connected Cranes, Kotobuki'
       page: 57
     - name: Gift Box
       page: 60
@@ -2757,46 +2757,6 @@
       page: 332
     - name: Elephant
       page: 335
-- title: Origami Christmas Decorations
-  author: Michael G. LaFosse
-  models:
-    - name: Christmas Tree
-      page: 6
-    - name: Christmas Angel
-      page: 8
-    - name: Christmas Stars
-      page: 10
-    - name: Candle Flame
-      page: 12
-    - name: Christmas Stocking
-      page: 14
-    - name: Candy Cane Wreath
-      page: 16
-    - name: Christmas Gift Bow
-      page: 18
-    - name: Holiday Wreath
-      page: 20
-    - name: Origami Key
-      page: 22
-- title: Origami Puzzles
-  author: Michael G. LaFosse
-  models:
-    - name: Eight-Sided Puzzle
-      page: 6
-    - name: Tulip Puzzle Box
-      page: 8
-    - name: Open Box Puzzle
-      page: 10
-    - name: Celebration Puzzle Box
-      page: 12
-    - name: Fortune Cookie Puzzle Box
-      page: 14
-    - name: Wreath Puzzle Box
-      page: 16
-    - name: Frame Puzzle
-      page: 18
-    - name: Finger Pinwheel Puzzle
-      page: 20
 - title: Modern Origami
   author: James Minoru Sakoda
   models:
@@ -4021,6 +3981,27 @@
       page: 58
     - name: One-Piece Box
       page: 62
+- title: Origami Christmas Decorations
+  author: Michael G. LaFosse
+  models:
+    - name: Christmas Tree
+      page: 6
+    - name: Christmas Angel
+      page: 8
+    - name: Christmas Stars
+      page: 10
+    - name: Candle Flame
+      page: 12
+    - name: Christmas Stocking
+      page: 14
+    - name: Candy Cane Wreath
+      page: 16
+    - name: Christmas Gift Bow
+      page: 18
+    - name: Holiday Wreath
+      page: 20
+    - name: Origami Key
+      page: 22
 - title: Origami Hearts
   page: Francis Ow
   models:
@@ -4752,6 +4733,25 @@
       page: 60
     - name: Monkey
       page: 62
+- title: Origami Puzzles
+  author: Michael G. LaFosse
+  models:
+    - name: Eight-Sided Puzzle
+      page: 6
+    - name: Tulip Puzzle Box
+      page: 8
+    - name: Open Box Puzzle
+      page: 10
+    - name: Celebration Puzzle Box
+      page: 12
+    - name: Fortune Cookie Puzzle Box
+      page: 14
+    - name: Wreath Puzzle Box
+      page: 16
+    - name: Frame Puzzle
+      page: 18
+    - name: Finger Pinwheel Puzzle
+      page: 20
 - title: Origami Safari
   authors:
     - Steve Biddle
