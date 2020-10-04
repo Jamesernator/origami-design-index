@@ -2757,6 +2757,108 @@
       page: 332
     - name: Elephant
       page: 335
+- title: Marvelous Modular Origami
+  author: Meenakshi Mukerji
+  models:
+    - name: Daisy Sonobe
+      page: 6
+    - name: Striped Sonobe
+      page: 8
+    - name: Snow-Capped Sonobe 1
+      page: 10
+    - name: Snow-Capped Sonobe 2
+      page: 12
+    - name: Swan Sonobe
+      page: 14
+    - name: Spiked Pentakis Dodecahedron
+      page: 15
+    - name: Cosmos Ball
+      page: 18
+    - name: Cosmos Ball Variation
+      page: 20
+    - name: Calla Lily Ball
+      page: 21
+    - name: Phlox Ball
+      page: 22
+    - name: FanTastic
+      page: 24
+    - name: Stella
+      page: 27
+    - name: Poinsettia Floral Ball
+      page: 30
+    - name: Passion Flower Ball
+      page: 32
+    - name: Plumeria Floral Ball
+      page: 34
+    - name: Petunia Floral Ball
+      page: 36
+    - name: Primrose Floral Ball
+      page: 37
+    - name: Daisy Dodecahedron 1
+      page: 40
+    - name: Daisy Dodecahedron 2
+      page: 42
+    - name: Daisy Dodecahedron 3
+      page: 43
+    - name: Umbrella Dodecahedron
+      page: 47
+    - name: Whirl Dodecahedron
+      page: 48
+    - name: Jasmine Dodecahedron 1
+      page: 50
+    - name: Jasmine Dodecahedron 2
+      page: 52
+    - name: Jasmine Dodecahedron 3
+      page: 54
+    - name: Swirl Dodecahedron 1
+      page: 55
+    - name: Swirl Dodecahedron 2
+      page: 57
+    - name: Lightning Bolt
+      page: 60
+    - name: Twirl Octahedron
+      page: 62
+    - name: Star Windows
+      page: 64
+- title: Mind-Blowing Modular Origami
+  author: Byriah Loper
+  models:
+    - name: Vortex
+      page: 58
+    - name: Excalibur Kusudama
+      page: 67
+    - name: Excelsior Kusudama
+      page: 80
+    - name: Borealis Kusudama
+      page: 94
+    - name: Curled Sphere
+      page: 113
+    - name: Saturn Cube
+      page: 125
+    - name: 16 Triangles
+      page: 151
+    - name: Cosmos
+      page: 177
+    - name: Nebula
+      page: 210
+    - name: Atmosphere
+      page: 235
+    - name: K5
+      page: 264
+    - name: Galaxy
+      page: 279
+    - name: Interstellar
+      page: 308
+    - name: Dark Matter
+      page: 337
+    - name: Dark Energy
+      page: 374
+    - name: Aurora
+      page: 405
+    - name: Event Horizon
+      page: 433
+    - name: The Alphabet
+      page: 460
 - title: Modern Origami
   author: James Minoru Sakoda
   models:
@@ -2860,6 +2962,320 @@
       page: 130
     - name: Dachshund
       page: 132
+- title: Modular Origami Polyhedra
+  authors:
+    - Lewis Simon
+    - Bennett Arnstein
+    - Rona Gurkewitz
+  models:
+    - name: Basic Sonobe Unit
+      page: 12
+    - name: Sonobe Variation 1
+      page: 14
+    - name: Sonobe Variation 2
+      page: 15
+    - name: Sonobe Variation 3
+      page: 16
+    - name: Sonobe Variation 4
+      page: 17
+    - name: Sonobe Variation 5
+      page: 18
+    - name: Sonobe Variation 6
+      page: 19
+    - name: Sonobe Varition 7
+      page: 20
+    - name: Sonobe Variation 8
+      page: 21
+    - name: Chain of Four Equilateral Triangles Module
+      page: 22
+    - name: Decoration Box
+      page: 24
+    - name: Modular Cube 1
+      page: 25
+    - name: Modular Cube 2
+      page: 26
+    - name: Modular Cube 3
+      page: 27
+    - name: Modular Cube 4
+      page: 28
+    - name: Modular Cube 5
+      page: 29
+    - name: Modular Cube 6
+      page: 30
+    - name: Modular Cube 7
+      page: 31
+    - name: Ninja Star Cube
+      page: 32
+    - name: Ninja Star Cube 2
+      page: 33
+    - name: Modular Decorative Cube
+      page: 34
+    - name: Decorative Cube
+      page: 35
+    - name: Modular Cube 8
+      page: 36
+    - name: Modular Cube 9
+      page: 37
+    - name: Modular Cube 10
+      page: 38
+    - name: Modular Cube 11
+      page: 39
+    - name: Modular Cube 12
+      page: 40
+    - name: Modified Ninja Star Module
+      page: 42
+    - name: 60-Degree Half-Square Plank Module
+      page: 43
+    - name: Exact 60-Degree Half-Square Module
+      page: 44
+    - name: 108-Degree Module
+      page: 45
+    - name: Gyroscope
+      page: 47
+    - name: Sunkated Gyroscope Module
+      page: 48
+    - name: Triangular Gyroscope
+      page: 49
+    - name: Twist Cube
+      page: 52
+    - name: Photo Display Case
+      page: 53
+    - name: Partially Truncated Modular Cube
+      page: 54
+    - name: Magic Cube 1
+      page: 55
+    - name: Magic Cube 2
+      page: 56
+    - name: Magic Cube 3
+      page: 56
+    - name: Magic Cube 4
+      page: 56
+    - name: Magic Cube 5
+      page: 56
+    - name: Magic Cube 6
+      page: 57
+    - name: Magic Cube 7
+      page: 57
+    - name: Magic Cube 8
+      page: 58
+- title: More Origami
+  author: Robert Harbin
+  models:
+    - name: Picture Frame
+      page: 16
+    - name: Dippy Dog
+      page: 18
+    - name: Vase
+      page: 24
+    - name: Party Hat
+      page: 30
+    - name: Tree
+      page: 32
+    - name: Helmet
+      page: 34
+    - name: Ocean Liner
+      page: 36
+    - name: Noshi
+      page: 38
+    - name: Box
+      page: 41
+    - name: Decoration
+      page: 44
+    - name: Ball
+      page: 48
+    - name: Pinwheel
+      page: 50
+    - name: Double Purse
+      page: 54
+    - name: Catch the Fly
+      page: 58
+    - name: Witch
+      page: 62
+    - name: Tropical Bird
+      page: 66
+    - name: XMas Tree
+      page: 68
+    - name: Angel Fish
+      page: 72
+    - name: Frisbee
+      page: 74
+    - name: Dachshund
+      page: 76
+    - name: Neolithic Man
+      page: 80
+    - name: Seated Cat
+      page: 83
+    - name: Crane
+      page: 88
+    - name: White Walrus
+      page: 92
+    - name: Wedding Bells
+      page: 93
+    - name: Boy on a Dolphin
+      page: 96
+    - name: Robin
+      page: 100
+    - name: Super Star
+      page: 105
+    - name: Dagger
+      page: 106
+    - name: Double Dutch
+      page: 108
+    - name: Clerical Hat
+      page: 113
+    - name: Super Salt Cellar
+      page: 114
+    - name: Moth
+      page: 118
+    - name: Shapes
+      page: 120
+    - name: Persian Helmet
+      page: 124
+    - name: Jackstone
+      page: 125
+    - name: Basket
+      page: 134
+    - name: Knight in Armour
+      page: 137
+    - name: Skier
+      page: 144
+    - name: Super Hat
+      page: 147
+    - name: Flower and Leaf
+      page: 148
+    - name: Plumed Helmet
+      page: 150
+    - name: Old Kentucky Horse
+      page: 151
+    - name: Kangaroo
+      page: 164
+    - name: Medieval Hat
+      page: 172
+    - name: Snake Charmer
+      page: 174
+    - name: Hat and Puppet
+      page: 179
+    - name: Otomo No Kuronushi
+      page: 180
+- title: Multidimensional Transformations Unit Origami
+  author: Tomoko Fuse
+  models:
+    - name: Cube - Small Square-Pattern Belt Unit
+      page: 22
+    - name: Cube - Large Square-Pattern Belt Unit
+      page: 24
+    - name: Cube - Triangular-Pattern Belt Unit
+      page: 26
+    - name: Regular Octahedron
+      page: 28
+    - name: Small Icosahedron
+      page: 30
+    - name: Various Pentagonal Umbrellas
+      page: 32
+    - name: Regular Icoasahedron - Pot
+      page: 34
+    - name: Regular Icosahedron - Small Dishes
+      page: 38
+    - name: Regular Isocahedron Made with 2 Small Dishes
+      page: 42
+    - name: Double Wedges
+      page: 43
+    - name: Reverse-Fold Double Wedge
+      page: 46
+    - name: Octagonal Star
+      page: 48
+    - name: Hexagonal Star
+      page: 52
+    - name: Little Turtle
+      page: 56
+    - name: Pyramid
+      page: 58
+    - name: Open Frame I - Bow-tie Motif
+      page: 62
+    - name: Open Frame II - Plain
+      page: 65
+    - name: Snub Cube with Windows
+      page: 68
+    - name: Simple Sonobe 6-unit Cube Plus Alpha
+      page: 72
+    - name: Simple Sonobe 12-unit Cube Plus Alpha
+      page: 80
+    - name: Double-pocket Unit
+      page: 84
+    - name: Double-Pocket 12-unit Cube Plus Alpha
+      page: 85
+    - name: Double-Pocket 24-unit Cube Plus Alpha
+      page: 87
+    - name: Variations on the Double-pocket Unit
+      page: 91
+    - name: Square Units - Square Windows
+      page: 96
+    - name: Equilateral Triangles - Triangular Windows
+      page: 104
+    - name: Propeller Units
+      page: 110
+    - name: Regular Octahedron
+      page: 112
+    - name: Regular Icosahedron
+      page: 114
+    - name: Completed Propeller Unit
+      page: 116
+    - name: Propeller Unit from an Equilateral Triangle
+      page: 124
+    - name: Double-pocket Equilateral Triangles - Triangular Windows
+      page: 126
+    - name: Bird and Pinwheel Tetrahedron
+      page: 134
+    - name: Bird Cube
+      page: 136
+    - name: Bird Tetrahedron
+      page: 138
+    - name: Dual Triangles
+      page: 154
+    - name: Dual Wedges
+      page: 160
+    - name: Windowed Units - Muff Variation I
+      page: 168
+    - name: Windowed Units - Muff Variation II
+      page: 172
+    - name: Large Square Flat Unit
+      page: 176
+    - name: Transformation of Cuboctahedron I -> Cube
+      page: 178
+    - name: Equilateral-triangular Flat Unit
+      page: 180
+    - name: Transformation of Cuboctahedron II -> Regular Octahedron
+      page: 182
+    - name: Transformation of Regular Octahedron I -> Regular Tetrahedron
+      page: 185
+    - name: Transformation of Regular Octahedron II -> Truncated Tetrahedron
+      page: 186
+    - name: Transformation of Truncated Tetrahedron -> Regular Tetrahedron
+      page: 189
+    - name: Transformation of Cuboctahedron III -> Truncated Hexahedron
+      page: 192
+    - name: Transformation of Truncated Hexahedron -> Cube -> Compound Cube and Regular Octahedron
+      page: 196
+    - name: Transformation of Cuboctahedron IV -> Cuboctahedron -> Truncated Octahedron
+      page: 199
+    - name: Transformation of Truncated Octahedron -> Regular Octahedron
+      page: 203
+    - name: Transformation of Regular Octahedron -> Compound Cube and Regular Octahedron
+      page: 206
+    - name: Small Square Flat Unit
+      page: 208
+    - name: Transformation of Rhombicuboctahedron
+      page: 210
+    - name: Transformation of Rhombicuboctahedron -> Truncated Hexahedron
+      page: 212
+    - name: Transform of Truncated Hexahedron -> Cube
+      page: 216
+    - name: Square and Equilateral-triangular Flat Units from Rectangles
+      page: 218
+    - name: Regular-hexagonal Flat Unit
+      page: 222
+    - name: Regular-hexagonal Flat Unit Variation
+      page: 225
 - title: Mythical Creature Origami
   author: Duy Nguyen
   models:
