@@ -1451,6 +1451,45 @@
       page: 189
     - name: Yakko-San
       page: 190
+- title: Creative Origami
+  authors:
+    - Jenny Chan
+    - Paul Frasco
+    - Coco Sato
+    - Stacie Tamaki
+  models:
+    - name: Beautiful Origami Swan
+      page: 28
+    - name: Floral Corner Bookmark
+      page: 32
+    - name: Fox Envelopes
+      page: 38
+    - name: Origami Chain Bracelet
+      page: 44
+    - name: Lucky Origami Stars
+      page: 52
+    - name: Medallions
+      page: 60
+    - name: Blossom Light
+      page: 64
+    - name: Lampshade
+      page: 70
+    - name: Lighted Origami Purse
+      page: 78
+    - name: Fairy Tiara
+      page: 90
+    - name: Miniature Box
+      page: 100
+    - name: Miniature Lily
+      page: 104
+    - name: Miniature Crane
+      page: 108
+    - name: Tree
+      page: 122
+    - name: Owl
+      page: 128
+    - name: Gnome
+      page: 134
 - title: Creepy Crawling Animal Origami
   author: Duy Nguyen
   models:
@@ -2007,6 +2046,43 @@
       page: 186
     - name: Crab
       page: 187
+- title: Exquisite Modular Origami
+  author: Meenakshi Mukerji
+  models:
+    - name: Super Simple Isosceles Triangle Unit
+      page: 36
+    - name: Compound of Five Octahedra
+      page: 41
+    - name: Daffodils
+      page: 44
+    - name: Dimpled Model with Curls
+      page: 47
+    - name: Pinwheel Dodecahedron Variation
+      page: 50
+    - name: Dimpled Model with Curves
+      page: 54
+    - name: Dimpled Model with Color Change
+      page: 56
+    - name: Pinwheel Dodecahedron
+      page: 58
+    - name: Vortex Dodecahedron
+      page: 62
+    - name: Vortex Dodecahedron Variation
+      page: 65
+    - name: Star Flower Variation
+      page: 69
+    - name: Corolla
+      page: 73
+    - name: Flower Star
+      page: 76
+    - name: Flower Star Variation
+      page: 79
+    - name: Corolla Star
+      page: 83
+    - name: Etna Kusadama
+      page: 86
+    - name: Helica Kusadama
+      page: 88
 - title: Extreme Origami
   author: Kunihiko Kasahara
   models:
@@ -2056,6 +2132,103 @@
       page: 69
     - name: Crane Cube
       page: 70
+- title: Fabulous Origami Boxes
+  author: Tomoko Fuse
+  models:
+    - name: Party Plate 1
+      page: 16
+    - name: Party Plate 2
+      page: 18
+    - name: Party Plate 3
+      page: 19
+    - name: Party Plate 4
+      page: 20
+    - name: Triangle Box A
+      page: 22
+    - name: Triangle Box B
+      page: 24
+    - name: Triangle Box C
+      page: 25
+    - name: Triangle Box D
+      page: 25
+    - name: Triangle Box Body
+      page: 26
+    - name: Triangle Box Nesting Boxes
+      page: 26
+    - name: Hexagon Box A
+      page: 28
+    - name: Hexagon Box B
+      page: 30
+    - name: Hexagon Box C
+      page: 31
+    - name: Hexagon Box Body
+      page: 34
+    - name: Hexagon Box Nesting Boxes
+      page: 34
+    - name: Square Boxes from a Rectangle
+      page: 36
+    - name: Square Box from a Rectangle Body
+      page: 40
+    - name: Lamp-Shaped Bowl Standard
+      page: 42
+    - name: Lamp-Shaped Bowl
+      page: 46
+    - name: Square Box Plain
+      page: 48
+    - name: Square Box Crane 1
+      page: 51
+    - name: Square Box Iris
+      page: 54
+    - name: Square Box Bouvardia
+      page: 54
+    - name: Square Box Heart
+      page: 56
+    - name: Square Box with a Tab
+      page: 60
+    - name: Square Box Vortex
+      page: 62
+    - name: Square Box Hydrangea
+      page: 64
+    - name: Square Box Plain 2
+      page: 67
+    - name: Square Box Crane 2
+      page: 67
+    - name: Square Box Lily
+      page: 68
+    - name: Square Box Body 1
+      page: 40
+    - name: Square Box Inside Liner
+      page: 40
+    - name: Square Box Body 2
+      page: 41
+    - name: Square Box Body 3
+      page: 74
+    - name: Square Box Body
+      page: 76
+    - name: Square Box Nesting Boxes
+      page: 76
+    - name: Rectangle Box Invididual Plate
+      page: 78
+    - name: Octagon Box Small Flower A
+      page: 80
+    - name: Variations of Small Flower A
+      page: 82
+    - name: Octagon Box Small Flower B
+      page: 83
+    - name: Variations of Small Flower B
+      page: 84
+    - name: Octagon Box Twin Stars
+      page: 86
+    - name: Variations of Twin Stars
+      page: 88
+    - name: Octagon Box Plain
+      page: 89
+    - name: Variations of Plain Boxes
+      page: 91
+    - name: Octagon Box Body
+      page: 92
+    - name: Nesting Octagon Boxes
+      page: 94
 - title: Fantastic Folds
   author: Sasha Williamson
   models:
@@ -2179,6 +2352,126 @@
       page: 44
     - name: Fancy Box
       page: 46
+- title: Genuine Origami
+  author: Jun Maekawa
+  models:
+    - name: Mouse
+      page: 16
+    - name: Squirrel
+      page: 18
+    - name: Partitioned Box
+      page: 20
+    - name: Conch
+      page: 21
+    - name: Santa Claus
+      page: 22
+    - name: Giraffe
+      page: 23
+    - name: Elephant
+      page: 24
+    - name: Orizuru Transformation
+      page: 26
+    - name: Snake
+      page: 30
+    - name: Airplane
+      page: 32
+    - name: Samurai Helmet
+      page: 34
+    - name: Wild Boar
+      page: 36
+    - name: Dolphin
+      page: 38
+    - name: Human Figure
+      page: 40
+    - name: Japanese Macaque
+      page: 42
+    - name: Tree
+      page: 44
+    - name: Hina Dolls
+      page: 48
+    - name: Fugiyama Module
+      page: 51
+    - name: Tea-bag Reindeer
+      page: 53
+    - name: Connected Cranes, Kotobuki
+      page: 57
+    - name: Gift Box
+      page: 60
+    - name: Squid
+      page: 62
+    - name: Papillon (Dog)
+      page: 64
+    - name: Three-headed Crane
+      page: 66
+    - name: Standing Crane
+      page: 69
+    - name: Cow
+      page: 74
+    - name: Sheep
+      page: 78
+    - name: Western Dragon
+      page: 81
+    - name: Horse
+      page: 85
+    - name: Triceratops
+      page: 88
+    - name: Rabbit
+      page: 92
+    - name: Tiger Mask
+      page: 94
+    - name: Devil Mask
+      page: 96
+    - name: Penguin
+      page: 98
+    - name: Frog
+      page: 101
+    - name: Pyramid
+      page: 104
+    - name: Chick
+      page: 108
+    - name: Peacock
+      page: 111
+    - name: Turkey
+      page: 119
+    - name: Tyrannosaurus
+      page: 124
+    - name: Eastern Dragon
+      page: 129
+    - name: Samurai Helmet Beetle
+      page: 137
+    - name: Devil
+      page: 146
+- title: Geometric Origami
+  author: Michael G. LaFosse
+  models:
+    - name: Compass Star
+      page: 12
+    - name: Aster
+      page: 19
+    - name: Mette Unit Ring One
+      page: 25
+    - name: I-Ching Wheel
+      page: 31
+    - name: Lightning Bolt Octahedron
+      page: 39
+    - name: Alexander Modular Dish
+      page: 44
+    - name: Butterfly Ball
+      page: 50
+    - name: Borloz Ball
+      page: 59
+    - name: Picture Cube
+      page: 67
+    - name: WXYZ
+      page: 76
+    - name: Modular Crane
+      page: 83
+    - name: Hou-San-Chuu (Radiolaria)
+      page: 92
+    - name: Sonobe Module and Cube
+      page: 100
+    - name: Magic Rose Cube
+      page: 108
 - title: Holiday Origami
   author: Jill Smolinski
   models:
@@ -2464,7 +2757,7 @@
       page: 332
     - name: Elephant
       page: 335
-- title: Making Origami Christmas Decorations
+- title: Origami Christmas Decorations
   author: Michael G. LaFosse
   models:
     - name: Christmas Tree
@@ -2485,7 +2778,7 @@
       page: 20
     - name: Origami Key
       page: 22
-- title: Making Origami Puzzles
+- title: Origami Puzzles
   author: Michael G. LaFosse
   models:
     - name: Eight-Sided Puzzle

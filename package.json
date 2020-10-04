@@ -1,0 +1,22 @@
+{
+  "name": "origami-design-index",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jamesernator/origami-design-index.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jamesernator/origami-design-index/issues"
+  },
+  "homepage": "https://github.com/Jamesernator/origami-design-index#readme",
+  "dependencies": {
+    "js-yaml": "^3.14.0"
+  }
+}
