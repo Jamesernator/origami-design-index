@@ -20,5 +20,5 @@ const FILE = new URL('./origami-design-index.yaml', import.meta.url);
 const contents = await fs.readFile(FILE, 'utf8');
 const items = yaml.load(contents);
 items.sort(by(i => i.title));
-const sortedContents = yaml.dump(contents);
+const sortedContents = yaml.dump(items);
 await fs.writeFile(FILE, sortedContents);
