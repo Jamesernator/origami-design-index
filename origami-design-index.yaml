@@ -1,4 +1,3 @@
-
 - title: 30 Origami Designs
   author: Paul Jackson
   models:
@@ -505,119 +504,6 @@
       tags:
         - decoration
         - star
-- title: The Art of Origami
-  author: Samuel Randlett
-  models:
-    - name: Cicada
-      page: 31
-    - name: House
-      page: 33
-    - name: Bunny
-      page: 35
-    - name: Hooded Cobra
-      page: 37
-    - name: Witch
-      page: 39
-    - name: Snapping Wolf
-      page: 43
-    - name: Blue Whale
-      page: 45
-    - name: Reversible Fish
-      page: 47
-    - name: Mouse
-      page: 49
-    - name: Pelican
-      page: 51
-    - name: Duck
-      page: 55
-    - name: Angelfish
-      page: 56
-    - name: Talking Fish
-      page: 57
-    - name: Shorthorn Bull
-      page: 59
-    - name: Longhorn Bull
-      page: 61
-    - name: Rabbit
-      page: 63
-    - name: 'Rabbit Variation I: Cotton Tail'
-      page: 66
-    - name: 'Rabbit Variation II: Head and Ears'
-      page: 67
-    - name: Postman
-      page: 73
-    - name: Rooster
-      page: 75
-    - name: Dachshund
-      page: 77
-    - name: African Mask
-      page: 79
-    - name: Boston Terrier
-      page: 81
-    - name: Dog Variation
-      page: 82
-    - name: Trojan Horse
-      page: 85
-    - name: Flower
-      page: 87
-    - name: Pheasant
-      page: 89
-    - name: Scarlet Carp
-      page: 91
-    - name: Sea Turtle
-      page: 95
-    - name: Fukusuke
-      page: 99
-    - name: Jumping Frog
-      page: 103
-    - name: Red Pepper
-      page: 105
-    - name: Green Pepper
-      page: 107
-    - name: Persimmon
-      page: 109
-    - name: Turtle
-      page: 111
-    - name: Camel
-      page: 115
-    - name: Grasshopper
-      page: 117
-    - name: Waterbomb
-      page: 123
-    - name: Carrier Pigeon
-      page: 125
-    - name: New Flapping Bird
-      page: 127
-    - name: King Tut's Crown
-      page: 129
-    - name: Robin Hood Hat
-      page: 131
-    - name: Moth
-      page: 133
-    - name: Polar Bear Cub
-      page: 135
-    - name: Parrot
-      page: 137
-    - name: Salt Cellar
-      page: 139
-    - name: Lover's Knot
-      page: 141
-    - name: Knot Bat
-      page: 143
-    - name: Vampire Bat
-      page: 147
-    - name: Springer Spaniel
-      page: 151
-    - name: Butterfly
-      page: 153
-    - name: Brontosaurus
-      page: 157
-    - name: Stegosaurus
-      page: 159
-    - name: Christmas Ornaments
-      page: 162
-    - name: Japanese Flapping Bird
-      page: 167
 - title: Beautiful Origami
   author: Zülal Aytüre-Scheele
   models:
@@ -3255,13 +3141,19 @@
       page: 189
     - name: Transformation of Cuboctahedron III -> Truncated Hexahedron
       page: 192
-    - name: Transformation of Truncated Hexahedron -> Cube -> Compound Cube and Regular Octahedron
+    - name: >-
+        Transformation of Truncated Hexahedron -> Cube -> Compound Cube and
+        Regular Octahedron
       page: 196
-    - name: Transformation of Cuboctahedron IV -> Cuboctahedron -> Truncated Octahedron
+    - name: >-
+        Transformation of Cuboctahedron IV -> Cuboctahedron -> Truncated
+        Octahedron
       page: 199
     - name: Transformation of Truncated Octahedron -> Regular Octahedron
       page: 203
-    - name: Transformation of Regular Octahedron -> Compound Cube and Regular Octahedron
+    - name: >-
+        Transformation of Regular Octahedron -> Compound Cube and Regular
+        Octahedron
       page: 206
     - name: Small Square Flat Unit
       page: 208
@@ -4296,27 +4188,6 @@
       page: 53
     - name: Cyclone
       page: 59
-- title: Origami and Papercraft
-  authors:
-    - Paul Jackson
-    - Vivien Frank
-  models:
-    - name: Printer's Hat
-      page: 60
-    - name: Butterfly
-      page: 62
-    - name: Chatterbox
-      page: 64
-    - name: Repeat Pattern
-      page: 66
-    - name: Fish
-      page: 68
-    - name: Fish 2
-      page: 69
-    - name: Japanese Box
-      page: 72
-    - name: Valentine Heart
-      page: 74
 - title: Origami Animals
   author: Hector Rojas
   models:
@@ -4522,7 +4393,7 @@
     - name: Base of a Hexagon Box
       page: 58
 - title: Origami Butterflies
-  authors: 
+  authors:
     - Michael G. LaFosse
     - Richard Alexander
   models:
@@ -5332,7 +5203,7 @@
     - name: Body
       page: 32
 - title: Origami No. 1
-  models: 
+  models:
     - name: House
     - name: Hat
     - name: Organ
@@ -6220,6 +6091,27 @@
       page: 149
     - name: Crab
       page: 156
+- title: Origami and Papercraft
+  authors:
+    - Paul Jackson
+    - Vivien Frank
+  models:
+    - name: Printer's Hat
+      page: 60
+    - name: Butterfly
+      page: 62
+    - name: Chatterbox
+      page: 64
+    - name: Repeat Pattern
+      page: 66
+    - name: Fish
+      page: 68
+    - name: Fish 2
+      page: 69
+    - name: Japanese Box
+      page: 72
+    - name: Valentine Heart
+      page: 74
 - title: Origami and Papercraft
   authors:
     - Paul Jackson
@@ -7180,7 +7072,7 @@
     - name: Winged Warrior
     - name: Primitive
     - name: Monkey with a Stick
-    - name: Troll 
+    - name: Troll
 - title: Planet Origami
   authors:
     - Steve Biddle
@@ -7546,7 +7438,7 @@
     - name: Matchbox 2
       page: 180
     - name: Lizard
-      page: 182 
+      page: 182
 - title: Super Nifty Origami Crafts
   authors:
     - Andrea Urton
@@ -7668,6 +7560,119 @@
       page: 56
     - name: Masks
       page: 60
+- title: The Art of Origami
+  author: Samuel Randlett
+  models:
+    - name: Cicada
+      page: 31
+    - name: House
+      page: 33
+    - name: Bunny
+      page: 35
+    - name: Hooded Cobra
+      page: 37
+    - name: Witch
+      page: 39
+    - name: Snapping Wolf
+      page: 43
+    - name: Blue Whale
+      page: 45
+    - name: Reversible Fish
+      page: 47
+    - name: Mouse
+      page: 49
+    - name: Pelican
+      page: 51
+    - name: Duck
+      page: 55
+    - name: Angelfish
+      page: 56
+    - name: Talking Fish
+      page: 57
+    - name: Shorthorn Bull
+      page: 59
+    - name: Longhorn Bull
+      page: 61
+    - name: Rabbit
+      page: 63
+    - name: 'Rabbit Variation I: Cotton Tail'
+      page: 66
+    - name: 'Rabbit Variation II: Head and Ears'
+      page: 67
+    - name: Postman
+      page: 73
+    - name: Rooster
+      page: 75
+    - name: Dachshund
+      page: 77
+    - name: African Mask
+      page: 79
+    - name: Boston Terrier
+      page: 81
+    - name: Dog Variation
+      page: 82
+    - name: Trojan Horse
+      page: 85
+    - name: Flower
+      page: 87
+    - name: Pheasant
+      page: 89
+    - name: Scarlet Carp
+      page: 91
+    - name: Sea Turtle
+      page: 95
+    - name: Fukusuke
+      page: 99
+    - name: Jumping Frog
+      page: 103
+    - name: Red Pepper
+      page: 105
+    - name: Green Pepper
+      page: 107
+    - name: Persimmon
+      page: 109
+    - name: Turtle
+      page: 111
+    - name: Camel
+      page: 115
+    - name: Grasshopper
+      page: 117
+    - name: Waterbomb
+      page: 123
+    - name: Carrier Pigeon
+      page: 125
+    - name: New Flapping Bird
+      page: 127
+    - name: King Tut's Crown
+      page: 129
+    - name: Robin Hood Hat
+      page: 131
+    - name: Moth
+      page: 133
+    - name: Polar Bear Cub
+      page: 135
+    - name: Parrot
+      page: 137
+    - name: Salt Cellar
+      page: 139
+    - name: Lover's Knot
+      page: 141
+    - name: Knot Bat
+      page: 143
+    - name: Vampire Bat
+      page: 147
+    - name: Springer Spaniel
+      page: 151
+    - name: Butterfly
+      page: 153
+    - name: Brontosaurus
+      page: 157
+    - name: Stegosaurus
+      page: 159
+    - name: Christmas Ornaments
+      page: 162
+    - name: Japanese Flapping Bird
+      page: 167
 - title: The Art of Origami
   author: Rick Beech
   models:
@@ -9186,45 +9191,6 @@
       page: 503
     - name: Spaceship
       page: 507
-- title: Wild Origami
-  author: P.D. Tuyen
-  models:
-    - name: Dragon Boat
-      page: 10
-    - name: Bird
-      page: 11
-    - name: Hedgehog
-      page: 13
-    - name: Sea Horse
-      page: 18
-    - name: Eagle
-      page: 24
-    - name: Bear
-      page: 27
-    - name: Kangaroo
-      page: 30
-    - name: Pig
-      page: 34
-    - name: Dinosaur
-      page: 37
-    - name: Butterfly
-      page: 42
-    - name: Bee
-      page: 45
-    - name: Dachshund
-      page: 50
-    - name: Lion
-      page: 52
-    - name: Frog
-      page: 58
-    - name: Lobster
-      page: 61
-    - name: Snake
-      page: 66
-    - name: Caterpillar
-      page: 69
-    - name: Crab
-      page: 74
 - title: Unit Polyhedron Origami
   author: Tomoko Fuse
   models:
@@ -9358,6 +9324,45 @@
       page: 97
     - name: 60-Unit Structure Variant Cube Star
       page: 98
+- title: Wild Origami
+  author: P.D. Tuyen
+  models:
+    - name: Dragon Boat
+      page: 10
+    - name: Bird
+      page: 11
+    - name: Hedgehog
+      page: 13
+    - name: Sea Horse
+      page: 18
+    - name: Eagle
+      page: 24
+    - name: Bear
+      page: 27
+    - name: Kangaroo
+      page: 30
+    - name: Pig
+      page: 34
+    - name: Dinosaur
+      page: 37
+    - name: Butterfly
+      page: 42
+    - name: Bee
+      page: 45
+    - name: Dachshund
+      page: 50
+    - name: Lion
+      page: 52
+    - name: Frog
+      page: 58
+    - name: Lobster
+      page: 61
+    - name: Snake
+      page: 66
+    - name: Caterpillar
+      page: 69
+    - name: Crab
+      page: 74
 - title: Wings and Things - Origami That Flies
   author: Stephen Weiss
   models:
