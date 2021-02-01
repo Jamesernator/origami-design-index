@@ -1948,6 +1948,19 @@
       page: 66
     - name: Puzzle Coaster
       page: 68
+- title: Cute Origami 4
+  todo: true
+  models:
+    - name: Pagoda
+    - name: Palanquin (Kago)
+    - name: Persimmon
+    - name: Rabbit
+    - name: Shirt
+    - name: Shorts
+    - name: Portable Shrine (Mikoshi)
+    - name: Snail
+    - name: Chinese Vase
+    - name: Yakko-San
 - title: Dinosaur Origami
   author: Duy Nguyen
   models:
@@ -2056,6 +2069,143 @@
       page: 110
     - name: Dragonfly
       page: 114
+- name: Dinosaur Origami
+  author: John Montroll
+  models:
+    - name: Mountain & Volcano
+      page: 12
+    - name: Cracked Dinosaur Egg
+      page: 14
+    - name: Prehistoric Tree
+      page: 16
+    - name: Pterodactylus
+      page: 18
+    - name: Quetzalcoatlus
+      page: 21
+    - name: Pteranodon
+      page: 23
+    - name: Rhamphorynchus
+      page: 27
+    - name: Elasmosaurus
+      page: 33
+    - name: Tanystropheus
+      page: 36
+    - name: Riojasaurus
+      page: 39
+    - name: Apatosaurus
+      page: 42
+    - name: Brachiosaurus
+      page: 45
+    - name: Diplodocus
+      page: 48
+    - name: Dimetrodon
+      page: 51
+    - name: Spinosaurus
+      page: 56
+    - name: Tyrannosaurus
+      page: 59
+    - name: Allosaurus
+      page: 62
+    - name: Parasaurolophus
+      page: 63
+    - name: Coelophysis
+      page: 67
+    - name: Compsognathus
+      page: 70
+    - name: Sphaerotholus
+      page: 73
+    - name: Struthiomimus
+      page: 76
+    - name: Tenontosaurus
+      page: 78
+    - name: Gryposaurus
+      page: 80
+    - name: Hadrosaurus
+      page: 82
+    - name: Iguanodon
+      page: 87
+    - name: Protoceratops
+      page: 94
+    - name: Styracosaurus
+      page: 98
+    - name: Triceratops
+      page: 104
+    - name: Stegosaurus
+      page: 113
+- title: Drawing Origami - Tome 1
+  authors:
+    - Halle
+    - Pere Olivella
+    - Nicolas Terry
+  models:
+    - name: Rolling Fox
+      page: 20
+    - name: En un Lugar de la Mancha
+      page: 22
+    - name: Bat
+      page: 24
+    - name: Pelican
+      page: 26
+    - name: Fluffy Sonobe
+      page: 28
+    - name: Rubin
+      page: 30
+    - name: Joe Cocker
+      page: 32
+    - name: Bear
+      page: 35
+    - name: Swallow
+      page: 38
+    - name: Thief of the Last Geometry
+      page: 42
+    - name: Polar Blues
+      page: 46
+    - name: Solitude
+      page: 50
+    - name: Coyote
+      page: 53
+    - name: Fox
+      page: 63
+    - name: Carto Maltese
+      page: 58
+    - name: Pelican
+      page: 68
+    - name: Beetle Halle
+      page: 74
+    - name: Lion
+      page: 81
+    - name: Climb Peaks
+      page: 86
+    - name: Butterly
+      page: 91
+    - name: Owl
+      page: 96
+    - name: Pteranodon
+      page: 103
+    - name: Jackson's Chameleon
+      page: 108
+    - name: Byll
+      page: 115
+    - name: Crane
+      page: 124
+    - name: Superhero
+      page: 133
+    - name: Sea Turtle
+      page: 142
+    - name: Bambi
+      page: 150
+    - name: Wolf Head
+      page: 160
+    - name: Gran Danes
+      page: 169
+    - name: Mr. Teddy
+      page: 180
+    - name: Horselaugh
+      page: 196
+    - name: Footprint
+      page: 203
+    - name: Napoleon
+      page: 188
 - title: Easter Origami
   author: Ruth Owen
   models:
