@@ -225,6 +225,77 @@
       page: 188
     - name: Swordman
       page: 191
+- title: A Constellation of Origami Polyhedra
+  author: John Montroll
+  models:
+    - name: Fortress
+      page: 12
+    - name: Pyramid
+      page: 15
+    - name: Mountain
+      page: 17
+    - name: Tower
+      page: 19
+    - name: Monument
+      page: 22
+    - name: Needle
+      page: 25
+    - name: Tetrahedron
+      page: 29
+    - name: Triangular Dipyramid
+      page: 31
+    - name: Octahedron
+      page: 33
+    - name: Pentagonal Dipyramid
+      page: 36
+    - name: Dodecadeltahedron
+      page: 38
+    - name: Triaugmented Triangular Prism
+      page: 41
+    - name: Gyroelongated Square Dipyramid
+      page: 44
+    - name: Icosahedron
+      page: 47
+    - name: Square Dipyramid
+      page: 51
+    - name: Pentagonal Dipyramid
+      page: 54
+    - name: Hexagonal Dipyramid
+      page: 56
+    - name: Heptagonal Dipyramid
+      page: 59
+    - name: Octagonal Dipyramid
+      page: 62
+    - name: Wide Triangular Trapezohedron
+      page: 66
+    - name: Medium Triangular Trapezohedron
+      page: 70
+    - name: Thin Triangular Trapezohedron
+      page: 73
+    - name: Square Antiprism
+      page: 76
+    - name: Square Trapezohedron
+      page: 79
+    - name: Square Trapezohedron in a Sphere
+      page: 84
+    - name: Dimpled Truncated Octahedron
+      page: 87
+    - name: Dimpled Great Rhombicuboctahedron
+      page: 90
+    - name: Dimpled Snub Cube
+      page: 94
+    - name: Sunken Cuboctahedron
+      page: 99
+    - name: Stellated Octahedron
+      page: 104
+    - name: Omega Star
+      page: 106
+    - name: Jackstone
+      page: 108
+    - name: Stella Octangula
+      page: 111
+    - name: Gamma Star
+      page: 115
 - title: A Plethora of Polyhedra in Origami
   author: John Montroll
   models:
@@ -343,6 +414,119 @@
       page: 88
     - name: Fireworks
       page: 92
+- title: Adult Origami
+  author: Nick Robinson
+  models:
+    - name: Mons
+      page: 12
+    - name: Schwanstucker
+      page: 16
+    - name: Condomigami
+      page: 20
+    - name: Trademan's Entrance
+      page: 24
+    - name: Erupting Mount Fuji
+      page: 28
+    - name: Bermuda Triangle
+      page: 32
+    - name: A Glimpse of Paradise
+      page: 36
+    - name: Sperm
+      page: 40
+    - name: Boobs
+      page: 46
+    - name: Coupling
+      page: 52
+    - name: Subtle Ploy
+      page: 58
+    - name: Where's the Magic Bean?
+      page: 64
+    - name: Randy Rabbits
+      page: 70
+    - name: Going Down
+      page: 76
+    - name: French Tickler
+      page: 82
+    - name: Memphis Bell
+      page: 88
+- title: Advanced Origami
+  author: Michael G. LaFosse
+  models:
+    - name: North American Cardinal
+      page: 34
+    - name: Origamido Butterfly
+      page: 39
+    - name: Koi
+      page: 43
+    - name: Sea Turtle
+      page: 47
+    - name: Squirrel
+      page: 52
+    - name: Toco Toucan
+      page: 58
+    - name: Frog
+      page: 64
+    - name: Ruby Throated Hummingbird
+      page: 68
+    - name: Goldfish
+      page: 75
+    - name: Horseshoe Crab
+      page: 77
+    - name: Cattleya Orchid
+      page: 81
+    - name: Happy Good-Luck Bat
+      page: 88
+    - name: Big Brown Bat
+      page: 93
+    - name: Praying Mantis
+      page: 101
+    - name: Panther Mask
+      page: 111
+- title: African Animals in Origami
+  author: John Montroll
+  models:
+    - name: Grass
+      page: 10
+    - name: Tree
+      page: 11
+    - name: Sacred Ibis
+      page: 14
+    - name: Crowned Crane
+      page: 16
+    - name: Flamingo
+      page: 19
+    - name: Crocodile
+      page: 22
+    - name: Hippopotamus
+      page: 27
+    - name: Snake
+      page: 34
+    - name: Chameleon
+      page: 37
+    - name: Bee-eater
+      page: 41
+    - name: Hoopoe
+      page: 45
+    - name: Hornbill
+      page: 49
+    - name: Gorilla
+      page: 53
+    - name: Chimpanzee
+      page: 59
+    - name: African Elephant
+      page: 60
+    - name: Ostrich
+      page: 68
+    - name: Vulture
+      page: 71
+    - name: Aardvark
+      page: 73
+    - name: Rhinoceros
+      page: 77
+    - name: Gazelle
+      page: 82
+    - name: Lion
+      page: 87
 - title: Amazing Origami
   author: Kunihiko Kasahara
   models:
@@ -573,6 +757,29 @@
       tags:
         - decoration
         - star
+- title: Awesome Origami
+  author: R Hondow
+  models:
+    - name: Horse
+      page: 2
+    - name: Star Box
+      page: 3
+    - name: Crane
+      page: 5
+    - name: Bunny
+      page: 8
+    - name: Lily
+      page: 9
+    - name: Heart
+      page: 11
+    - name: Blossom
+      page: 12
+    - name: Fortune Teller
+      page: 13
+    - name: Lucky Star
+      page: 14
+    - name: Dragon
+      page: 15
 - title: Beautiful Origami
   author: Zülal Aytüre-Scheele
   models:
@@ -642,6 +849,33 @@
       page: 76
     - name: Peacock with Tail Unfolded
       page: 79
+- title: Best Ever Paper Planes That Really Fly
+  author: Paul Jackson
+  models:
+    - name: Sharpshooter
+      page: 5
+    - name: Delta Wing
+      page: 8
+    - name: Hawk
+      page: 10
+    - name: Hoop-nosed Scooter
+      page: 12
+    - name: Split Wing
+      page: 14
+    - name: Modified Classic Dart
+      page: 16
+    - name: Canard
+      page: 18
+    - name: Sleek Streak
+      page: 20
+    - name: Manta Wing
+      page: 22
+    - name: Classroom Cruiser
+      page: 24
+    - name: Bottle-nosed Bomber
+      page: 26
+    - name: Bullseye Dart
+      page: 28
 - title: Birds in Origami
   author: John Montroll
   models:
@@ -675,6 +909,75 @@
       page: 42
     - name: Parrot
       page: 45
+- title: Bos Spring Convention
+  author: David Petty
+  models:
+    - name: Millenium Bug
+      page: 3
+    - name: CD Case
+      page: Nick Robinson
+    - name: Blue Dragon for 2000
+      page: 6
+    - name: Bird
+      page: 8
+    - name: Balearic Lotus
+      page: 13
+    - name: Magic Flap
+      page: 14
+    - name: Clock Case
+      page: 16
+    - name: Humming Bird
+      page: 18
+    - name: Fawn
+      page: 22
+    - name: Flapping Bird Card Wrapper
+      page: 38
+    - name: Page Marker Base
+      page: 29
+    - name: The Origamist in His Hat
+      page: 30
+    - name: Samurai
+      page: 31
+    - name: Modular Spool
+      page: 32
+    - name: Ballbox
+      page: 33
+    - name: Basic Cubes 1
+      page: 34
+    - name: Basic Cubes 2
+      page: 36
+    - name: Baseball Cap
+      page: 38
+    - name: Magic Wallet
+      page: 39
+    - name: Spinning Top
+      page: 44
+    - name: Hexagonal Candle-stick
+      page: 46
+    - name: Vertical Axis Windmill
+      page: 48
+    - name: Kusadamas
+      page: 49
+    - name: Diesel Train
+      page: 52
+    - name: Octagonal Box
+      page: 54
+    - name: Tipper Lorry
+      page: 56
+    - name: The Frog Prine
+      page: 58
+    - name: Pureland Box
+      page: 60
+    - name: Lid for Pureland Box
+      page: 61
+    - name: Mount Fujiyama
+      page: 63
+    - name: Rocking Horse
+      page: 66
+    - name: Two-tone Module for Ball Ornament
+      page: 76
+    - name: Mobius Doodle Cube
+      page: 78
 - title: Brilliant Origami
   author: David Brill
   models:
@@ -936,6 +1239,32 @@
       page: 110
     - name: Butterfly
       page: 110
+- title: Cartoon Origami
+  author: Halle
+  models:
+    - name: Daffy Duck
+      page: 15
+    - name: Sylvester
+      page: 23
+    - name: Foghorn Leghorn
+      page: 31
+    - name: Roadrunner
+      page: 41
+    - name: Wile E. Coyote
+      page: 51
+    - name: Taz the Tasmanian Devil
+      page: 61
+    - name: Tweety Bird
+      page: 71
+    - name: Yosemite Sam
+      page: 95
+    - name: Speedy Gonzalles
+      page: 83
+    - name: Bugs Bunny
+      page: 107
+- title: Cartoon Origami 2
+  author: Halle
+  todo: true
 - title: Christmas Origami
   author: John Montroll
   models:
@@ -1407,6 +1736,38 @@
       page: 189
     - name: Yakko-San
       page: 190
+- title: Complex Origami Cards
+  models:
+    - name: Card Base
+    - name: Book Card I
+    - name: Book Card II
+    - name: Butterfly Card
+    - name: Crow Card
+    - name: Curious Dog Card
+    - name: Curious Pig Card
+    - name: Dandelion Card
+    - name: Dart Card
+    - name: Dog Bust Card
+    - name: Duck & Flower Card
+    - name: Elephant Card
+    - name: Flapping Bird Card
+    - name: Heart Card
+    - name: Hen Card
+    - name: Indian Bird Card
+    - name: Iris Card
+    - name: Menu Card
+    - name: Orchid Card
+    - name: Palm Tree Card
+    - name: Panda Card
+    - name: Pine Tree Card
+    - name: Santa Card
+    - name: Seagull Card
+    - name: Simple Card 1
+    - name: Simple Card 2
+    - name: Simple Card 3
+    - name: Snake Card
+    - name: Tulip Card
+    - name: Wheel Card
 - title: Creative Origami
   authors:
     - Jenny Chan
@@ -1430,6 +1791,47 @@
       page: 64
     - name: Lampshade
       page: 70
+    - name: Lighted Origami Purse
+      page: 78
+    - name: Fairy Tiara
+      page: 90
+    - name: Miniature Box
+      page: 100
+    - name: Miniature Lily
+      page: 104
+    - name: Miniature Crane
+      page: 108
+    - name: Tree
+      page: 122
+    - name: Owl
+      page: 128
+    - name: Gnome
+      page: 134
+- title: Creative Origami and Beyond
+  authors:
+    - Jenny Chan
+    - Paul Frasco
+    - Coco Sato
+    - Stacie Tamaki
+  models:
+    - name: Beautiful Origami Swan
+      page: 28
+    - name: Floral Corner Bookmark
+      page: 32
+    - name: Fox Envelopes
+      page: 38
+    - name: Origami Chain Bracelet
+      page: 44
+    - name: Mindful Origami
+      page: 52
+    - name: Medallions
+      page: 60
+    - name: Blossom Lights
+      page: 64
+    - name: Lampshade
+      page: 70
+    - name: Introduction to Electro Origami
+      page: 76
     - name: Lighted Origami Purse
       page: 78
     - name: Fairy Tiara
@@ -1475,6 +1877,77 @@
       page: 82
     - name: Tarantula
       page: 88
+- title: Curlicue - Kinetic Origami
+  author: Assia Brill
+  models:
+    - name: The Curlicue
+      page: 8
+    - name: 'Square Curlicue: The Twist Fix'
+      page: 10
+    - name: Curlicue. Mountain Fold method
+      page: 12
+    - name: Let's Twist Again! Playing with Curlicue
+      page: 15
+    - name: Dancing Curlicues
+      page: 17
+    - name: Prism Curlicue
+      page: 19
+    - name: Double Curlicue 1
+      page: 23
+    - name: Double Curlicue 2
+      page: 24
+    - name: Double Curlicue 3
+      page: 25
+    - name: Double Prism Curlicue
+      page: 26
+    - name: Double Prism Curlicue 1
+      page: 27
+    - name: Double Prism Curlicue 2
+      page: 28
+    - name: Double Prism Curlicue 3
+      page: 29
+    - name: Hexagonal Curlicues
+      page: 33
+    - name: Single Strip Hexagonal Curlicues
+      page: 34
+    - name: Prism Hexagonal Curlicue
+      page: 34
+    - name: Hexagonal Curlicue
+      page: 35
+    - name: Double Prism Hexagonal Curlicue
+      page: 37
+    - name: Double Hexagonal Curlicues
+      page: 39
+    - name: Double Hexagonal Curlicue
+      page: 40
+    - name: 'Hexagonal Curlicue: The Twist Fix'
+      page: 42
+    - name: Securing the two strips
+      page: 46
+    - name: Simple Connection Start
+      page: 47
+    - name: Simple Connection Finishes
+      page: 48
+    - name: Single Lock Start
+      page: 50
+    - name: Single Lock Finishes
+      page: 52
+    - name: Double Lock Start
+      page: 54
+    - name: Double Lock Finish
+      page: 55
+    - name: Rectangular Curlicue 45
+      page: 58
+    - name: Prism Rectangular Curlicue 60
+      page: 59
+    - name: Double Rectangular Curlicue 45
+      page: 60
+    - name: Double Prism Rectangular Curlicue 45
+      page: 62
+    - name: Cushioned Coaster
+      page: 66
+    - name: Puzzle Coaster
+      page: 68
 - title: Dinosaur Origami
   author: Duy Nguyen
   models:
@@ -9498,75 +9971,4 @@
     - name: Delta Jet (and Stand)
       page: 109
     - name: Maple Seed
-      page: 115
-- name: A Constellation of Origami Polyhedra
-  author: John Montroll
-  models:
-    - name: Fortress
-      page: 12
-    - name: Pyramid
-      page: 15
-    - name: Mountain
-      page: 17
-    - name: Tower
-      page: 19
-    - name: Monument
-      page: 22
-    - name: Needle
-      page: 25
-    - name: Tetrahedron
-      page: 29
-    - name: Triangular Dipyramid
-      page: 31
-    - name: Octahedron
-      page: 33
-    - name: Pentagonal Dipyramid
-      page: 36
-    - name: Dodecadeltahedron
-      page: 38
-    - name: Triaugmented Triangular Prism
-      page: 41
-    - name: Gyroelongated Square Dipyramid
-      page: 44
-    - name: Icosahedron
-      page: 47
-    - name: Square Dipyramid
-      page: 51
-    - name: Pentagonal Dipyramid
-      page: 54
-    - name: Hexagonal Dipyramid
-      page: 56
-    - name: Heptagonal Dipyramid
-      page: 59
-    - name: Octagonal Dipyramid
-      page: 62
-    - name: Wide Triangular Trapezohedron
-      page: 66
-    - name: Medium Triangular Trapezohedron
-      page: 70
-    - name: Thin Triangular Trapezohedron
-      page: 73
-    - name: Square Antiprism
-      page: 76
-    - name: Square Trapezohedron
-      page: 79
-    - name: Square Trapezohedron in a Sphere
-      page: 84
-    - name: Dimpled Truncated Octahedron
-      page: 87
-    - name: Dimpled Great Rhombicuboctahedron
-      page: 90
-    - name: Dimpled Snub Cube
-      page: 94
-    - name: Sunken Cuboctahedron
-      page: 99
-    - name: Stellated Octahedron
-      page: 104
-    - name: Omega Star
-      page: 106
-    - name: Jackstone
-      page: 108
-    - name: Stella Octangula
-      page: 111
-    - name: Gamma Star
       page: 115
