@@ -10151,3 +10151,116 @@
     - name: Red Fox
       page: 213
       in: CD
+- title: Favorite Animals in Origami
+  author: John Montroll
+  models:
+    - name: Walrus
+      page: 14
+    - name: Squirrel
+      page: 17
+    - name: Mink
+      page: 20
+    - name: Pig
+      page: 24
+    - name: Llama
+      page: 27
+    - name: Deer
+      page: 30
+    - name: Fox
+      page: 34
+    - name: Bull
+      page: 38
+    - name: Lion
+      page: 42
+    - name: Elephant
+      page: 45
+- title: Folding Australia
+  author: Matt Gardiner
+  models:
+    - name: Brick
+      page: 18
+    - name: Lounge Chair
+      page: 22
+    - name: Skunk
+      page: 26
+    - name: Conical Squid
+      page: 44
+    - name: Flower Tower 12-Fold
+      page: 56
+    - name: Rosettes
+      page: 58
+    - name: Whirl Spools
+      page: 62
+    - name: Tea Pot
+      page: 64
+    - name: Tea Cup
+      page: 68
+    - name: Laptop
+      page: 70
+    - name: Twist Box
+      page: 73
+    - name: Swiss Army Knife
+      page: 76
+    - name: Two Colour Bird
+      page: 87
+    - name: Paper Holder
+      page: 90
+    - name: Flowering Dogwood
+      page: 94
+    - name: House Box
+      page: 97
+    - name: Dress
+      page: 102
+    - name: Shirt
+      page: 104
+    - name: Horned Turban
+      page: 106
+    - name: Flat Iron
+      page: 112
+    - name: Blackmoor
+      page: 114
+    - name: Sushi Serving Tray
+      page: 138
+    - name: Tea Bag Folding
+      page: 141
+- title: Friendship Origami
+  author: Katherine A. Gleason
+  models:
+    - name: Fortune Teller
+      page: 4
+    - name: Rose
+      page: 6
+    - name: Eight-petaled Flower
+      page: 8
+    - name: Gift Box
+      page: 10
+    - name: Friendship Ring
+      page: 14
+    - name: Classic Crane
+      page: 18
+    - name: Iris
+      page: 22
+    - name: Star Bracelet
+      page: 26
+    - name: Puffy Heart
+      page: 28
+    - name: Heart in Bloom
+      page: 32
+- title: Geometric Origami
+  author: Faye E. Goldman
+  models:
+    - name: Decoration Unit
+    - name: Icosahedron
+    - name: Tetrahedron
+    - name: Octahedron
+    - name: Cube (Hexahedron)
+    - name: Dodecahedron
+    - name: Truncated Tetrahedron
+    - name: Cuboctahedron
+    - name: Icosidodecahedron
+    - name: Snub Dodecahedron
+    - name: Zonohedron
+    - name: Egg
+    - name: Bracelet
+    - name: Buckyballs
+
