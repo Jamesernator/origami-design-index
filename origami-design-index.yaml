@@ -156,6 +156,75 @@
         - animal
         - mammal
         - seal
+- title: 50 Hours of Origami
+  author: Nicolas Terry
+  models:
+    - name: Miss Vietnam
+      page: 6
+    - name: Penguin
+      page: 16
+    - name: Fox
+      page: 18
+    - name: Wizard
+      page: 20
+    - name: Rabbit
+      page: 21
+    - name: Great Hornbill
+      page: 24
+    - name: Monkey
+      page: 26
+    - name: Cock
+      page: 28
+    - name: Sumo Wrestler
+      page: 31
+    - name: Fighting Cock
+      page: 33
+    - name: Oncidium Dancing Lady
+      page: 37
+    - name: Duck
+      page: 41
+    - name: Mouse
+      page: 43
+    - name: Cat
+      page: 46
+    - nmae: Kitten
+      page: 49
+    - name: Rabbit with a Tie
+      page: 51
+    - name: Horse
+      page: 56
+    - name: Buddha
+      page: 63
+    - name: Spectacled Bear
+      page: 69
+    - name: Eupatorus Gracilicornis
+      page: 74
+    - name: Dragon
+      page: 80
+    - name: Anthurium Andreanum
+      page: 88
+    - name: Larva Vyrm
+      page: 93
+    - name: Owl
+      page: 101
+    - name: Chef Rat
+      page: 105
+    - name: Water Buffalo
+      page: 116
+    - name: African Elephant
+      page: 125
+    - name: Spectacled Bear
+      page: 133
+    - name: Yakushiji Tenzen
+      page: 142
+    - name: Eagle
+      page: 156
+    - name: Werewolf
+      page: 167
+    - name: Lich King
+      page: 188
+    - name: Swordman
+      page: 191
 - title: A Plethora of Polyhedra in Origami
   author: John Montroll
   models:
@@ -9429,4 +9498,75 @@
     - name: Delta Jet (and Stand)
       page: 109
     - name: Maple Seed
+      page: 115
+- name: A Constellation of Origami Polyhedra
+  author: John Montroll
+  models:
+    - name: Fortress
+      page: 12
+    - name: Pyramid
+      page: 15
+    - name: Mountain
+      page: 17
+    - name: Tower
+      page: 19
+    - name: Monument
+      page: 22
+    - name: Needle
+      page: 25
+    - name: Tetrahedron
+      page: 29
+    - name: Triangular Dipyramid
+      page: 31
+    - name: Octahedron
+      page: 33
+    - name: Pentagonal Dipyramid
+      page: 36
+    - name: Dodecadeltahedron
+      page: 38
+    - name: Triaugmented Triangular Prism
+      page: 41
+    - name: Gyroelongated Square Dipyramid
+      page: 44
+    - name: Icosahedron
+      page: 47
+    - name: Square Dipyramid
+      page: 51
+    - name: Pentagonal Dipyramid
+      page: 54
+    - name: Hexagonal Dipyramid
+      page: 56
+    - name: Heptagonal Dipyramid
+      page: 59
+    - name: Octagonal Dipyramid
+      page: 62
+    - name: Wide Triangular Trapezohedron
+      page: 66
+    - name: Medium Triangular Trapezohedron
+      page: 70
+    - name: Thin Triangular Trapezohedron
+      page: 73
+    - name: Square Antiprism
+      page: 76
+    - name: Square Trapezohedron
+      page: 79
+    - name: Square Trapezohedron in a Sphere
+      page: 84
+    - name: Dimpled Truncated Octahedron
+      page: 87
+    - name: Dimpled Great Rhombicuboctahedron
+      page: 90
+    - name: Dimpled Snub Cube
+      page: 94
+    - name: Sunken Cuboctahedron
+      page: 99
+    - name: Stellated Octahedron
+      page: 104
+    - name: Omega Star
+      page: 106
+    - name: Jackstone
+      page: 108
+    - name: Stella Octangula
+      page: 111
+    - name: Gamma Star
       page: 115
