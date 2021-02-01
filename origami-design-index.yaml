@@ -10122,3 +10122,32 @@
       page: 109
     - name: Maple Seed
       page: 115
+- title: Eco Origami
+  author: Bernie Peyton
+  todo: true
+  models:
+    - name: Walrus I, II & III
+      page: 14
+    - name: Water
+      page: 200
+      in: CD
+    - name: Polar Swim
+      page: 32
+    - name: Polar Bear
+      page: 24
+    - name: Bear Paw
+      page: 193
+      in: CD
+    - name: Surfer, Surfboard and Wake
+      page: 77
+    - name: Great White Shark
+      page: 66
+    - name: Sockeye Salmon
+      page: 55
+    - name: Lying Bear
+      page: 41
+    - name: Surfboard With a Bite
+      page: 89
+    - name: Red Fox
+      page: 213
+      in: CD
