@@ -11609,3 +11609,77 @@
       page: 109
     - name: Maple Seed
       page: 115
+- title: Origami Math
+  author: Karen Baicker
+  models:
+    - name: Arty Hearts
+      page: 9
+    - name: Handy Envelope
+      page: 11
+    - name: Expanding Invitation
+      page: 14
+    - name: One-Snip Star
+      page: 17
+    - name: Twirly Copter
+      page: 20
+    - name: Fancy Photo Frame
+      page: 23
+    - name: Math Fortune Teller
+      page: 26
+    - name: Tumbling Toy
+      page: 29
+    - name: Paper Magic
+      page: 32
+    - name: Swimming Swan
+      page: 35
+    - name: Kaleidoscope Pinwheel
+      page: 38
+    - name: Little Box
+      page: 41
+    - name: Incredible, Inflatable Cube
+      page: 44
+- title: Origami Menagerie
+  author: Manuel Sirgo Alvarez
+  models:
+    - name: Swan Swimming
+      page: 19
+    - name: Macaw
+      page: 27
+    - name: Dugong
+      page: 36
+    - name: Narwhal
+      page: 43
+    - name: Sea Lion
+      page: 46
+    - name: Black Widow
+      page: 51
+    - name: Harvestman
+      page: 59
+    - name: Stingray
+      page: 63
+    - name: Crocodile
+      page: 76
+    - name: Star
+      page: 91
+    - name: Swan
+      page: 99
+    - name: Walking Stick
+      page: 120
+    - name: Stick Insect
+      page: 128
+    - name: Leaf Mantis
+      page: 136
+    - name: Black Ant
+      page: 150
+    - name: Crayfish
+      page: 165
+    - name: Pseudoscorpion
+      page: 181
+    - name: Scorpion
+      page: 197
+    - name: Stag Beetle
+      page: 202
+    - name: European Stag Beetle
+      page: 223
+    - name: Rhinoceros Beetle Flying
+      page: 235
