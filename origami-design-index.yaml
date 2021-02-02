@@ -8000,6 +8000,81 @@
       page: 30
     - name: Giant Panda
       page: 31
+- title: Origami Safari
+  author: jassu
+  models:
+    - name: Rabbit
+    - name: Duck
+    - name: Baboon
+    - name: Snake
+    - name: Coiled Snake
+    - name: Vulture
+    - name: Elephant
+    - name: Camel
+    - name: Buffalo
+    - name: Giraffe
+    - name: Lion
+    - name: Gazelle
+    - name: Crocodile
+    - name: Hyena
+    - name: Zebra
+    - name: Cheetah
+    - name: Rhinoceros
+    - name: Boar
+    - name: Meerkat
+    - name: Hippopotamus
+    - name: Flamingo
+- title: Origami Sculptures
+  author: John Montroll
+  models:
+    - name: Swan
+      page: 11
+    - name: Diamond
+      page: 15
+    - name: Tetrahedron
+      page: 18
+    - name: Octahedron
+      page: 20
+    - name: Blue Whale
+      page: 24
+    - name: Narwhal
+      page: 29
+    - name: Walrus
+      page: 33
+    - name: Goose
+      page: 36
+    - name: Rooster
+      page: 40
+    - name: Boxer
+      page: 47
+    - name: Scottish Terrier
+      page: 50
+    - name: Dachshund
+      page: 53
+    - name: Husky
+      page: 57
+    - name: Penguin
+      page: 61
+    - name: Peacock
+      page: 65
+    - name: Horse
+      page: 71
+    - name: Bison
+      page: 73
+    - name: Camel
+      page: 76
+    - name: Dromedary
+      page: 80
+    - name: Rhinoceros
+      page: 84
+    - name: Weevil
+      page: 96
+    - name: Asparagus Beetle
+      page: 100
+    - name: Panda
+      page: 103
+    - name: Elephant
+      page: 110
 - title: Origami Sea Creatures
   author: John Montroll
   models:
@@ -8106,6 +8181,51 @@
       page: 169
     - name: American Lobster
       page: 178
+- title: Origami Sequence
+  author: Quentin Trollip
+  models:
+    - name: Scream
+      page: 15
+    - name: Skulls
+      page: 17
+    - name: Clown
+      page: 21
+    - name: King Tutunkhamen
+      page: 28
+    - name: Teddy Bear
+      page: 34
+    - name: Crucifix
+      page: 42
+    - name: Mermaid
+      page: 48
+    - name: Hippocampus
+      page: 57
+    - name: Bottlenose Dolphin
+      page: 63
+    - name: Great White Shark
+      page: 69
+    - name: Border Collie
+      page: 78
+    - name: Three Wise Monkeys
+      page: 84
+    - name: Orang Utan
+      page: 92
+    - name: Clydesdale Horse
+      page: 102
+    - name: Gray Wolf
+      page: 112
+    - name: Grizzly Bear
+      page: 124
+    - name: Bald Eagle
+      page: 134
+    - name: Springbok
+      page: 146
+    - name: Gemsbok Oryx
+      page: 154
+    - name: African Elephant
+      page: 162
+    - name: White Rhino
+      page: 170
 - title: Origami Tessellations
   author: Eric Gjerde
   models:
