@@ -7679,6 +7679,63 @@
       page: 157
     - name: Six-Sided Brightstar Carousel
       page: 161
+- title: Origami Paper Airplanes
+  author: Didier Boursin
+  models:
+    - name: Delta Wing
+      page: 10
+    - name: Schoolboy
+      page: 12
+    - name: Overflight
+      page: 14
+    - name: Duck Plane
+      page: 16
+    - name: Dart
+      page: 18
+    - name: Glider
+      page: 20
+    - name: Ready to Land
+      page: 22
+    - name: Windblown
+      page: 24
+    - name: Uranus Arc II
+      page: 26
+    - name: Nonstop
+      page: 28
+    - name: Ready for Takeoff
+      page: 30
+    - name: Looping
+      page: 32
+    - name: Gliding Flight
+      page: 34
+    - name: Imaginary Voyage
+      page: 36
+    - name: Stealth
+      page: 38
+    - name: Windflight
+      page: 40
+    - name: Tube
+      page: 42
+    - name: Paper Twirler
+      page: 42
+    - name: Rotor
+      page: 44
+    - name: Propeller
+      page: 46
+    - name: Frisbee
+      page: 48
+    - name: Silent Spinner
+      page: 50
+    - name: Windmill
+      page: 52
+    - name: Chopper
+      page: 54
+    - name: Connecting Flight
+      page: 56
+    - name: Squadron
+      page: 58
+    - name: Sound Barrier
+      page: 60
 - title: Origami Paper Animals
   author: Didier Boursin
   models:
@@ -7738,6 +7795,149 @@
       page: 60
     - name: Monkey
       page: 62
+- title: Origami Polyhedra Design
+  author: John Montroll
+  models:
+    - name: Equilateral Triangle
+      page: 46
+    - name: Pentagon
+      page: 48
+    - name: Hexagon
+      page: 52
+    - name: Heptagon
+      page: 54
+    - name: Octagon
+      page: 56
+    - name: Silver Rectangle
+      page: 57
+    - name: Bronze Rectangle
+      page: 58
+    - name: Golden Rectangle
+      page: 59
+    - name: Tetrahedron
+      page: 65
+    - name: Duo-Colored Tetrahedron
+      page: 67
+    - name: Striped Tetrahedron
+      page: 69
+    - name: Tetrahedron of Triangles
+      page: 72
+    - name: Stellated Tetrahedron
+      page: 76
+    - name: Dimpled Truncated Tetrahedron
+      page: 79
+    - name: Cube
+      page: 87
+    - name: Striped Cube
+      page: 89
+    - name: Triangles on Cube
+      page: 92
+    - name: Cube with Squares
+      page: 95
+    - name: Stellated Octahedron
+      page: 98
+    - name: Cubehemioctahedron
+      page: 100
+    - name: Dimpled Rhombicuboctahedron
+      page: 104
+    - name: Stacked Cubes
+      page: 108
+    - name: Octahedron
+      page: 115
+    - name: Striped Octahedron
+      page: 118
+    - name: Duo-Colored Octahedron
+      page: 121
+    - name: Stellated Cube
+      page: 124
+    - name: Octahemioctahedron
+      page: 127
+    - name: Dimpled Truncated Octahedron
+      page: 131
+    - name: Icosahedron
+      page: 137
+    - name: Dodecahedron
+      page: 140
+    - name: Sunken Octahedron
+      page: 150
+    - name: Sunken Tetrahedron
+      page: 153
+    - name: Sunken Cube
+      page: 157
+    - name: Sunken Dodecahedron
+      page: 161
+    - name: Sunken Icosahedron
+      page: 166
+    - name: Triangular Dipyramid 90°
+      page: 178
+    - name: Triangular Dipyramid
+      page: 180
+    - name: Triangular Dipyramid in a Sphere
+      page: 183
+    - name: Tall Triangular Dipyramid
+      page: 186
+    - name: Tall Square Dipyramid
+      page: 189
+    - name: Silver Square Dipyramid
+      page: 192
+    - name: Squat Silver Square Dipyramid
+      page: 194
+    - name: Pentagonal Dipyramid
+      page: 197
+    - name: Pentagonal Dipyramid 45°
+      page: 201
+    - name: Pentagonal Dipyramid in a Sphere
+      page: 203
+    - name: Golden Pentagonal Dipyramid
+      page: 206
+    - name: Squat Golden Pentagonal Dipyramid
+      page: 208
+    - name: Hexagonal Dipyramid
+      page: 210
+    - name: Silver Hexagonal Dipyramid
+      page: 213
+    - name: Hexagonal Dipyramid 36°
+      page: 214
+    - name: Hexagonal Dipyramid in a Sphere
+      page: 215
+    - name: Squat Silver Hexagonal Dipyramid
+      page: 218
+    - name: Heptagonal Dipyramid
+      page: 219
+    - name: Heptagonal Dipyramid 30°
+      page: 223
+    - name: Heptagonal Dipyramid in a Sphere
+      page: 225
+    - name: Octagonal Dipyramid
+      page: 229
+    - name: Octagonal Dipyramid 26°
+      page: 232
+    - name: Octagonal Dipyramid in a Sphere
+      page: 234
+    - name: Nonagonal Dipyramid
+      page: 237
+    - name: Decagonal Dipyramid
+      page: 240
+    - name: Tall Dimpled Square Dipyramid
+      page: 247
+    - name: Dimpled Silver Square Dipyramid
+      page: 250
+    - name: Heptahedron
+      page: 254
+    - name: Dimpled Squat Square Dipyramid
+      page: 258
+    - name: Tall Dimpled Hexagonal Dipyramid
+      page: 262
+    - name: Dimpled Silver Hexagonal Dipyramid
+      page: 267
+    - name: Dimpled Hexagonal Dipyramid
+      page: 270
+    - name: Dimpled Hexagonal Dipyramid in a Sphere
+      page: 283
+    - name: Dimpled Octagonal Dipyramid
+      page: 287
+    - name: Dimpled Silver Octagonal Dipyramid
+      page: 288
 - title: Origami Puzzles
   author: Michael G. LaFosse
   models:
@@ -9079,6 +9279,41 @@
       page: 159
     - name: The Fairy King Oberon
       page: 160
+- title: Origami on the Edge
+  author: Xander Arena
+  models:
+    - name: Sword
+      page: 5
+    - name: Vampire Bat
+      page: 18
+    - name: Hammerhead Shark
+      page: 9
+    - name: Tank
+      page: 23
+    - name: Crocodile
+      page: 28
+    - name: Ghost Bride
+      page: 41
+    - name: Rabbit
+      page: 37
+    - name: Chameleon
+      page: 47
+    - name: Hemp
+      page: 53
+    - name: Brahma Bull
+      page: 61
+    - name: Polar Bear
+      page: 69
+    - name: Komodo Dragon
+      page: 74
+    - name: Gila Monster
+      page: 80
+    - name: Demon
+      page: 87
+    - name: Dragon
+      page: 94
+    - name: Motorcycle
+      page: 107
 - title: Origami to Astonish and Amuse
   author: Jeremy Shafer
   models:
