@@ -8571,6 +8571,77 @@
       page: 38
     - name: Rhinoceros
       page: 43
+- title: Origami Worldwide
+  authors:
+    - John Montroll
+    - Brian K. Webb
+  models:
+    - name: 'Ali''s Dish #2'
+      page: 10
+    - name: Frog
+      page: 12
+    - name: Ocean Liner
+      page: 14
+    - name: Easel
+      page: 17
+    - name: Penguin
+      page: 20
+    - name: Eagle
+      page: 21
+    - name: Shark
+      page: 24
+    - name: Cat
+      page: 28
+    - name: Mr. Moustache
+      page: 32
+    - name: Koi
+      page: 35
+    - name: Elephant
+      page: 39
+    - name: Solicino
+      page: 41
+    - name: Gannet
+      page: 44
+    - name: Snail
+      page: 48
+    - name: Heart in Heart
+      page: 54
+    - name: Diver Down Flag
+      page: 57
+    - name: Santa
+      page: 59
+    - name: Rhinoceros
+      page: 62
+    - name: Hot Air Balloon
+      page: 65
+    - name: Tropical Morpho Butterfly
+      page: 69
+    - name: Toucan
+      page: 73
+    - name: Crocodile
+      page: 76
+    - name: Smiling Frog
+      page: 81
+    - name: Reef Fish
+      page: 83
+    - name: Rooster
+      page: 86
+    - name: Kangaroo
+      page: 89
+    - name: Coconut Tree
+      page: 93
+    - name: Polar Bear
+      page: 98
+    - name: Ganesha
+      page: 104
+    - name: Boat
+      page: 107
+    - name: Fox
+      page: 108
+    - name: Pig
+      page: 110
+    - name: Fiery Dragon
+      page: 113
 - title: Origami Zodiac East and West
   author: Mark Bolitho
   models:
@@ -10115,6 +10186,10 @@
       page: 36
     - name: Duck
       page: 42
+- title: Paper Crystals
+  author: David Mitchell
+  todo: true
+  models: []
 - title: Papercrafts and Origami
   aliasOf: 'Making Great Papercrafts, Origami, Stationery and Gift Wraps'
 - title: Passion Origami
@@ -10179,6 +10254,125 @@
       page: 25
     - name: Astronaut
       page: 28
+- title: Polyhedron Origami for Beginners
+  author: Miyuki Kawamura
+  models:
+    - name: Square Tile 1
+      page: 92
+    - name: Right Triangular Tile
+      page: 93
+    - name: Isosceles Triangular unit
+      page: 93
+    - name: Rectangular Tile 1
+      page: 92
+    - name: Equilateral Triangular Tile
+      page: 96
+    - name: Square Tile 2
+      page: 94
+    - name: Regular Pentagonal Tile
+      page: 98
+    - name: Regular Hexagonal Tile
+      page: 97
+    - name: Rhombic Tile
+      page: 96
+    - name: Rectangular Tile 2
+      page: 94
+    - name: Regular Octagonal Tile
+      page: 95
+    - name: Brick
+      page: 10
+    - name: Right Corner 1
+      page: 13
+    - name: Right Corner 2
+      page: 14
+    - name: Right Corner 3
+      page: 14
+    - name: Triangular Prism
+      page: 17
+    - name: Square Prism
+      page: 18
+    - name: Pentagonal Prism
+      page: 18
+    - name: Hexagonal Prism
+      page: 18
+    - name: Triangular Antiprism
+      page: 21
+    - name: Square Antiprism
+      page: 22
+    - name: Pentagonal Antiprism
+      page: 22
+    - name: Hexagonal Antiprism
+      page: 22
+    - name: Triangular Pyramid
+      page: 25
+    - name: Square Pyramid
+      page: 26
+    - name: Pentagonal Pyramid
+      page: 26
+    - name: Dipyramids
+      page: 27
+    - name: Cube
+      page: 34
+    - name: Dodecahedron
+      page: 38
+    - name: Tetrahedron
+      page: 32
+    - name: Icosahedron
+      page: 40
+    - name: Octahedron
+      page: 36
+    - name: Paper Balloon
+      page: 43
+    - name: Icosahedral Skeleton
+      page: 54
+    - name: Octahedral Skeleton
+      page: 50
+    - name: Dodecahedral Skeleton
+      page: 52
+    - name: Cube Skeleton
+      page: 48
+    - name: Tetrahedral Skeleton
+      page: 46
+    - name: Truncated Tetrahedral Frame
+      page: 56
+    - name: Octahedral Frame
+      page: 58
+    - name: Octahedron
+      page: 66
+    - name: Icosahedron
+      page: 70
+    - name: Cube
+      page: 63
+    - name: Dodecahedron
+      page: 68
+    - name: Tetrahedron
+      page: 64
+    - name: Truncated Icosahedral Star
+      page: 87
+    - name: Icosahedral Star
+      page: 80
+    - name: Truncated Octahedral Star
+      page: 85
+    - name: Tetrahedral Star
+      page: 76
+    - name: Truncated Tetrahedral Star
+      page: 83
+    - name: Truncated Cube Star
+      page: 84
+    - name: Dodecahedral Star
+      page: 79
+    - name: Icosidodecahedral Star
+      page: 82
+    - name: Cube Star
+      page: 77
+    - name: Cuboctahedral Star
+      page: 81
+    - name: Octahedral Star
+      page: 78
+    - name: Flutter Wheels
+      page: 88
+    - name: Windmill
+      page: 91
 - title: Russian Origami
   authors:
     - Sergei Afonkin
