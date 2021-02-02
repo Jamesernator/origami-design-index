@@ -10422,3 +10422,73 @@
       page: 46
     - name: Butterfly
       page: 48
+- title: Monster Origami
+  author: Duy Nguyen
+  models:
+    - name: Vampire Bat
+      page: 16
+    - name: Reptilia
+      page: 22
+    - name: Frankenstein's Monster
+      page: 30
+    - name: Creature from the Black Lagoon
+      page: 38
+    - name: Demon
+      page: 46
+    - name: Werewolf
+      page: 54
+    - name: Wolfman
+      page: 62
+    - name: King Ghidora
+      page: 70
+    - name: Count Dracula
+      page: 78
+    - name: Alien
+      page: 88
+- title: Mythological Creatures and the Chinese Zodiac Origami
+  author: John Montroll
+  models:
+    - name: Rat
+      page: 22
+    - name: Ox
+      page: 25
+    - name: Tiger
+      page: 30
+    - name: Bear
+      page: 64
+    - name: Rabbit
+      page: 33
+    - name: Dog
+      page: 61
+    - name: Chinese Dragon
+      page: 36
+    - name: Rooster
+      page: 57
+    - name: Snake
+      page: 41
+    - name: Monkey
+      page: 52
+    - name: Ram
+      page: 49
+    - name: Horse
+      page: 44
+    - name: Sea Serpent
+      page: 70
+    - name: Unicorn
+      page: 74
+    - name: Centaur
+      page: 77
+    - name: Wyvern
+      page: 93
+    - name: Griffin
+      page: 81
+    - name: Three-Headed Dragon
+      page: 111
+    - name: Western Dragon
+      page: 95
+    - name: Pegasus
+      page: 85
+    - name: Chimera
+      page: 104
+    - name: Ceberus
+      page: 89
