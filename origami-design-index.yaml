@@ -10263,4 +10263,91 @@
     - name: Egg
     - name: Bracelet
     - name: Buckyballs
-
+- title: Horses in Origami
+  author: John Montroll
+  models:
+    - name: Stick Horse
+      page: 14
+    - name: Pop-Up Horse Card
+      page: 17
+    - name: Rocking Horse
+      page: 20
+    - name: Colorful Horse & Bookmark
+      page: 24
+    - name: Simple Pony
+      page: 27
+    - name: Classic Horse
+      page: 30
+    - name: Foal
+      page: 35
+    - name: Dollar Bill Horse
+      page: 39
+    - name: Horseback Riding
+      page: 42
+    - name: Ponytail Pony
+      page: 47
+    - name: Horse
+      page: 50
+    - name: Horse
+      page: 54
+    - name: Horse
+      page: 58
+    - name: Horse
+      page: 62
+    - name: Horse
+      page: 67
+    - name: Pegasus
+      page: 74
+    - name: Pegasus
+      page: 77
+    - name: Unicorn
+      page: 81
+    - name: Centaur
+      page: 87
+    - name: Quarter Horse
+      page: 94
+    - name: Clydesdale
+      page: 98
+    - name: Thoroughbred
+      page: 104
+    - name: Mustang
+      page: 109
+    - name: Arabian
+      page: 114
+    - name: Lipizzan
+      page: 117
+    - name: Paint
+      page: 121
+- title: How to Make Origami Airplanes That Fly
+  author: Gery Hsu
+  models:
+    - name: Jet Tail
+      page: 7
+    - name: Jet Tail - Type A
+      page: 10
+    - name: Jet Tail - Type B
+      page: 11
+    - name: Space Shuttle
+      page: 12
+    - name: Futuristic Shuffle
+      page: 16
+    - name: Flying Wing
+      page: 21
+    - name: Interceptor
+      page: 27
+    - name: Jet I
+      page: 36
+    - name: Delta Wing Jet
+      page: 47
+    - name: Jet II
+      page: 50
+    - name: Double Tail Fighter
+      page: 53
+    - name: Fighter
+      page: 60
+    - name: Dart Plane
+      page: 64
+    - name: Fighter With Engines
+      page: 72
+    - name: Futuristic Fighter
+      page: 79
