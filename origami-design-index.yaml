@@ -10492,3 +10492,56 @@
       page: 104
     - name: Ceberus
       page: 89
+- title: North American Animals in Origami
+  author: John Montroll
+  models:
+    - name: Duck
+      page: 10
+    - name: Swan
+      page: 12
+    - name: Heron
+      page: 14
+    - name: Roadrunner
+      page: 18
+    - name: Saguaro Cactus
+      page: 20
+    - name: Prickly-Pear Cactus
+      page: 23
+    - name: Jack Rabbit
+      page: 27
+    - name: Mouse
+      page: 30
+    - name: Armadillo
+      page: 33
+    - name: Bald Eagle
+      page: 38
+    - name: Bighorn Sheep
+      page: 41
+    - name: Bobcat
+      page: 46
+    - name: Great Horned Owl
+      page: 54
+    - name: Quail
+      page: 57
+    - name: Pheasant
+      page: 60
+    - name: Squirrel
+      page: 64
+    - name: Beaver
+      page: 67
+    - name: Black Bear
+      page: 70
+    - name: Coyote
+      page: 74
+    - name: Bison
+      page: 77
+    - name: Raccoon
+      page: 81
+    - name: Deer
+      page: 90
+    - name: Snowy Owl
+      page: 100
+    - name: Musk Ox
+      page: 102
+    - name: Moose
+      page: 109
