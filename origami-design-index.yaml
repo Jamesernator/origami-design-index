@@ -10922,6 +10922,97 @@
       page: 56
     - name: Masks
       page: 60
+- title: Teach Yourself Origami
+  author: John Montroll
+  models:
+    - name: Cup
+      page: 12
+    - name: Hat
+      page: 13
+    - name: House
+      page: 14
+    - name: Pin Wheel
+      page: 15
+    - name: House
+      page: 17
+    - name: Piano
+      page: 17
+    - name: Sailboat
+      page: 19
+    - name: Candy Dish
+      page: 20
+    - name: Waterbomb
+      page: 21
+    - name: Fortune Teller
+      page: 23
+    - name: Table
+      page: 25
+    - name: Box
+      page: 27
+    - name: Peacock
+      page: 29
+    - name: Flapping Bird
+      page: 30
+    - name: Crane
+      page: 31
+    - name: Lily
+      page: 33
+    - name: Frog
+      page: 34
+    - name: Duck
+      page: 35
+    - name: Swan
+      page: 36
+    - name: Penguin
+      page: 36
+    - name: Fish
+      page: 37
+    - name: Face
+      page: 38
+    - name: Star
+      page: 42
+    - name: Car
+      page: 46
+    - name: Fish
+      page: 48
+    - name: Moat Monster
+      page: 50
+    - name: Goose
+      page: 51
+    - name: Swan
+      page: 54
+    - name: Toucan
+      page: 57
+    - name: Anhinga
+      page: 60
+    - name: Lily
+      page: 63
+    - name: Crane
+      page: 66
+    - name: Canary
+      page: 69
+    - name: Dragon
+      page: 72
+    - name: Pig
+      page: 75
+    - name: Cat
+      page: 78
+    - name: Boar
+      page: 81
+    - name: Lion
+      page: 85
+    - name: Camel
+      page: 89
+    - name: Fred Rohm's Impossible Vase
+      page: 96
+    - name: Fred Rohm's Water Wheel
+      page: 100
+    - name: Deer
+      page: 105
+    - name: Elephant
+      page: 109
+    - name: Bee
+      page: 116
 - title: The Art of Origami
   author: Samuel Randlett
   models:
@@ -12792,96 +12883,5 @@
       page: 109
     - name: Maple Seed
       page: 115
-- title: Teach Yourself Origami
-  author: John Montroll
-  models:
-    - name: Cup
-      page: 12
-    - name: Hat
-      page: 13
-    - name: House
-      page: 14
-    - name: Pin Wheel
-      page: 15
-    - name: House
-      page: 17
-    - name: Piano
-      page: 17
-    - name: Sailboat
-      page: 19
-    - name: Candy Dish
-      page: 20
-    - name: Waterbomb
-      page: 21
-    - name: Fortune Teller
-      page: 23
-    - name: Table
-      page: 25
-    - name: Box
-      page: 27
-    - name: Peacock
-      page: 29
-    - name: Flapping Bird
-      page: 30
-    - name: Crane
-      page: 31
-    - name: Lily
-      page: 33
-    - name: Frog
-      page: 34
-    - name: Duck
-      page: 35
-    - name: Swan
-      page: 36
-    - name: Penguin
-      page: 36
-    - name: Fish
-      page: 37
-    - name: Face
-      page: 38
-    - name: Star
-      page: 42
-    - name: Car
-      page: 46
-    - name: Fish
-      page: 48
-    - name: Moat Monster
-      page: 50
-    - name: Goose
-      page: 51
-    - name: Swan
-      page: 54
-    - name: Toucan
-      page: 57
-    - name: Anhinga
-      page: 60
-    - name: Lily
-      page: 63
-    - name: Crane
-      page: 66
-    - name: Canary
-      page: 69
-    - name: Dragon
-      page: 72
-    - name: Pig
-      page: 75
-    - name: Cat
-      page: 78
-    - name: Boar
-      page: 81
-    - name: Lion
-      page: 85
-    - name: Camel
-      page: 89
-    - name: Fred Rohm's Impossible Vase
-      page: 96
-    - name: Fred Rohm's Water Wheel
-      page: 100
-    - name: Deer
-      page: 105
-    - name: Elephant
-      page: 109
-    - name: Bee
-      page: 116
 - title: Zing Origami
   aliasOf: Origami Animal Sculpture
