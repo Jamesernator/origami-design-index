@@ -6479,6 +6479,36 @@
       page: 73
     - name: Accordion Pleated Leaf
       page: 73
+- title: Origami Flowers
+  models:
+    - name: Rose 3
+      page: 40
+    - name: Hyacinth
+      page: 42
+    - name: Narcissus
+      page: 54
+    - name: Cineraria
+      page: 60
+    - name: Sunflower
+      page: 62
+    - name: Gerbera 1
+      page: 72
+    - name: Gerbera 2
+      page: 72
+    - name: Cosmos
+      page: 74
+    - name: Dahlia
+      page: 76
+    - name: Hollyhock
+      page: 78
+    - name: Blue Star
+      page: 100
+    - name: Clematis
+      page: 101
+    - name: Cornflower
+      page: 104
+    - name: Balloon Flower
+      page: 106
 - title: Origami Hearts
   author: Francis Ow
   models:
@@ -8700,6 +8730,119 @@
       page: 149
     - name: Spring Into Action
       page: 152
+- title: Origami in King Arthur's Court
+  author: Lew Rozelle
+  models:
+    - name: Building Block
+      page: 11
+    - name: Sleeve
+      page: 12
+    - name: Roof
+      page: 14
+    - name: Drawbridge
+      page: 15
+    - name: Eight-Sided Cone
+      page: 16
+    - name: Tower Top
+      page: 17
+    - name: Support Block
+      page: 18
+    - name: Connector
+      page: 20
+    - name: Rampart
+      page: 22
+    - name: Arched Block
+      page: 24
+    - name: Tower
+      page: 28
+    - name: Wall
+      page: 29
+    - name: Drawbridge
+      page: 30
+    - name: Back
+      page: 31
+    - name: Side
+      page: 32
+    - name: Front
+      page: 33
+    - name: Turret
+      page: 34
+    - name: Knight
+      page: 38
+    - name: Sword
+      page: 41
+    - name: Shield
+      page: 42
+    - name: Lance & Standard
+      page: 43
+    - name: The Knight's Hands
+      page: 44
+    - name: Horse
+      page: 47
+    - name: Jousting Bridle
+      page: 51
+    - name: Jousting Saddle
+      page: 52
+    - name: The Mounted Knight
+      page: 53
+    - name: 'Caparisons: Shaffron, Peytral, and Cruppers'
+      page: 54
+    - name: Knight's Attendants
+      page: 59
+    - name: Maiden Fair
+      page: 60
+    - name: Campaign Tent
+      page: 62
+    - name: Joust Barricade
+      page: 65
+    - name: The Joust
+      page: 66
+    - name: Merlin the Sorcerer
+      page: 69
+    - name: Vivian the Sorceress
+      page: 73
+    - name: Merlin's Dragon
+      page: 79
+    - name: Merlin's Tower
+      page: 86
+    - name: Camelot
+      page: 95
+    - name: King Arthur Pendragon
+      page: 105
+    - name: Queen Guinevere
+      page: 113
+    - name: Court Jester
+      page: 117
+    - name: The Sword in the Stone
+      page: 120
+    - name: The Round Table
+      page: 121
+    - name: Chair
+      page: 125
+    - name: Throne
+      page: 128
+    - name: King's Falcon
+      page: 133
+    - name: White Hart
+      page: 135
+    - name: King's Hound
+      page: 140
+    - name: Longbow
+      page: 146
+    - name: Crossbow
+      page: 147
+    - name: Handcart
+      page: 149
+    - name: The Enchanted Castle
+      page: 156
+    - name: Sir Lancelot
+      page: 157
+    - name: Gargantua and the Elves
+      page: 158
+    - name: Merlin's Magical Flying Horse
+      page: 159
+    - name: The Fairy King Oberon
+      page: 160
 - title: Origami to Astonish and Amuse
   author: Jeremy Shafer
   models:
