@@ -5075,6 +5075,73 @@
       page: 90
     - name: Spider
       page: 92
+- title: Origami - Step by Step
+  author: Robert Harbin
+  models:
+    - name: Flower
+      page: 8
+    - name: Japanese Box
+      page: 11
+    - name: Church
+      page: 13
+    - name: Fancy Box
+      page: 13
+    - name: Salt Cellar
+      page: 14
+    - name: Lover's Knot
+      page: 14
+    - name: Anvil
+      page: 15
+    - name: Super-Box
+      page: 15
+    - name: Guillemot
+      page: 16
+    - name: Tetrahedron
+      page: 18
+    - name: Decoration
+      page: 20
+    - name: Yacht
+      page: 21
+    - name: Speedboat
+      page: 22
+    - name: Dart
+      page: 23
+    - name: Lakotoi
+      page: 24
+    - name: '"No Walk Today"'
+      page: 25
+    - name: Two Nuns
+      page: 26
+    - name: Film Star
+      page: 27
+    - name: Octahedron
+      page: 28
+    - name: Bellows
+      page: 29
+    - name: Stalking Cat
+      page: 30
+    - name: Birdbath
+      page: 32
+    - name: Squirrel on a Log
+      page: 35
+    - name: Birds in a Nest
+      page: 39
+    - name: Mermaid
+      page: 42
+    - name: Christ on the Mount of Olives
+      page: 45
+    - name: Swan
+      page: 47
+    - name: Unicorn
+      page: 49
+    - name: Kangaroo
+      page: 52
+    - name: Scorpion
+      page: 55
+    - name: Full-rigged Ship
+      page: 58
+    - name: Stand for Ship
+      page: 60
 - title: Origami - The Complete Guide to the Art of Paperfolding
   author: Rick Beech
   models:
@@ -8322,6 +8389,143 @@
       page: 58
     - name: Magic Wand
       page: 60
+- title: Origami Treasure Chest
+  author: Keiji Kitamura
+  models:
+    - name: Dog
+      page: 4
+    - name: Elephant
+      page: 5
+    - name: Cat & Mouse
+      page: 6
+    - name: Panda
+      page: 8
+    - name: Reindeer
+      page: 9
+    - name: Short-Tailed Dog
+      page: 10
+    - name: Long-Tailed Dog
+      page: 10
+    - name: Tall Dog
+      page: 10
+    - name: Tall Bear
+      page: 13
+    - name: Short Bear
+      page: 13
+    - name: Tall Cat
+      page: 14
+    - name: Standing Cat
+      page: 14
+    - name: Short Cat
+      page: 14
+    - name: Fox
+      page: 16
+    - name: Rabbit
+      page: 18
+    - name: Koala
+      page: 19
+    - name: Sea Otter
+      page: 20
+    - name: Monkey
+      page: 21
+    - name: Elephant
+      page: 22
+    - name: Snake
+      page: 24
+    - name: Little Birds
+      page: 28
+    - name: Swans
+      page: 30
+    - name: Duck
+      page: 32
+    - name: Sparrow
+      page: 33
+    - name: Peacock
+      page: 34
+    - name: Walking Spot-billed Duck
+      page: 36
+    - name: Swimming Spot-billed Duck
+      page: 37
+    - name: Penguin
+      page: 38
+    - name: Goldfish
+      page: 40
+    - name: Mobile Frame
+      page: 41
+    - name: Frog
+      page: 42
+    - name: Butterfly
+      page: 44
+    - name: Catamaran
+      page: 45
+    - name: Sail
+      page: 45
+    - name: Windmill
+      page: 45
+    - name: Tulip
+      page: 46
+    - name: Leaf
+      page: 46
+    - name: Flower Stand
+      page: 46
+    - name: Carnation
+      page: 48
+    - name: Iris
+      page: 50
+    - name: Basic Box
+      page: 52
+    - name: Box with Flaps
+      page: 54
+    - name: Box with Handles
+      page: 56
+    - name: Tall Box
+      page: 58
+    - name: Flower Pot
+      page: 58
+    - name: Folding Paper-Case
+      page: 59
+    - name: Rabbit Envelope
+      page: 60
+    - name: Envelope
+      page: 62
+    - name: Ogre
+      page: 64
+    - name: Hina Dolls
+      page: 66
+    - name: Standing Hina Dolls
+      page: 68
+    - name: Carp
+      page: 70
+    - name: Streamer
+      page: 70
+    - name: Wheel
+      page: 70
+    - name: Pole
+      page: 70
+    - name: Roof
+      page: 70
+    - name: Tree
+      page: 70
+    - name: Helmet
+      page: 72
+    - name: Christmas Tree
+      page: 73
+    - name: Santa Claus
+      page: 74
+    - name: Boys & Girls
+      page: 76
+    - name: Heart
+      page: 76
+    - name: Pentagon
+      page: 78
+    - name: Star
+      page: 79
+    - name: Christmas Decoration
+      page: 80
+    - name: Star Festival Decoration
+      page: 80
+    - name: Birthdary Decoration
+      page: 80
 - title: Origami USA
   author: Duy Nguyen
   models:
@@ -9615,6 +9819,238 @@
       page: 245
     - name: Running Car
       page: 246
+- title: OrigamiUSA Annual Collection '98
+  author: OrigamiUSA
+  models:
+    - name: Pigeon
+      page: 14
+    - name: Goose
+      page: 24
+    - name: Cincogina
+      page: 63
+    - name: Butterfly
+      page: 101
+    - name: Four Birds Drinking
+      page: 214
+    - name: Stand Up Crane
+      page: 222
+    - name: Swan
+      page: 69
+    - name: Lord Vader's Ship
+      page: 50
+    - name: Airplane
+      page: 57
+    - name: Swan
+      page: 147
+    - name: Butterfly
+      page: 221
+    - name: Turkey Vulture
+      page: 245
+    - name: Pajarita Voladora
+      page: 263
+    - name: Flying Squirrel
+      page: 108
+    - name: Fox
+      page: 19
+    - name: Tropical Fish
+      page: 16
+    - name: Grasshopper
+      page: 111
+    - name: Seated Fox
+      page: 22
+    - name: Cat
+      page: 132
+    - name: Snake in a Box
+      page: 45
+    - name: Business Card Ram
+      page: 46
+    - name: Snail Pin
+      page: 91
+    - name: Crab
+      page: 59
+    - name: Ostrich
+      page: 88
+    - name: Snail Bookmark
+      page: 121
+    - name: Resting Pet
+      page: 256
+    - name: Sardine
+      page: 80
+    - name: Puppy
+      page: 60
+    - name: Turtle
+      page: 295
+    - name: Rooster
+      page: 62
+    - name: Turtle
+      page: 103
+    - name: Elephant
+      page: 116
+    - name: A Simple Unicorn
+      page: 26
+    - name: Relatively Easy Elephant
+      page: 293
+    - name: Caballo
+      page: 216
+    - name: Crab
+      page: 272
+    - name: Sea Lions
+      page: 39
+    - name: Lion Cub
+      lage: 1
+    - name: Jooz-Pup
+      page: 225
+    - name: Goliath Beetle
+      page: 200
+    - name: Pureland Money Limo
+      page: 27
+      paper: bank-note
+    - name: Money Pig
+      page: 105
+      paper: bank-note
+    - name: Money Jumping Frog
+      page: 195
+      paper: bank-note
+    - name: Money Peace Dove
+      page: 284
+      paper: bank-note
+    - name: Money Face of a Centaur
+      page: 31
+      paper: bank-note
+    - name: Money Flapping Butterfly
+      page: 33
+      paper: bank-note
+    - name: Money Terrier
+      page: 82
+      paper: bank-note
+    - name: Money Mug
+      page: 76
+      paper: bank-note
+    - name: Money Spork
+      page: 106
+      paper: bank-note
+    - name: Stegosaurus
+      page: 171
+    - name: Dinosaur
+      page: 289
+    - name: 7 Step Labyrinthond
+      page: 285
+    - name: Stegosaurtaus
+      page: 270
+    - name: Velociraptor
+      page: 130
+    - name: T-Rex
+      page: 149
+    - name: Dinosaur
+      page: 78
+    - name: Five Minute Bronto
+      page: 143
+    - name: Envelope Butterfly
+      page: 265
+    - name: Triangular Letterfold
+      page: 294
+    - name: Star Letter Fold
+      page: 136
+    - name: Seal with a Kiss
+      page: 74
+    - name: Hexagonal Letter Fold
+      page: 291
+    - name: Pop Up Love Card
+      page: 72
+    - name: Bench for Lovers
+      page: 144
+    - name: Sledge
+      page: 145
+    - name: The Last Waltz
+      page: 113
+    - name: Sorceror
+      page: 5
+    - name: Dancing Couple
+      page: 151
+    - name: Lord Vader
+      page: 138
+    - name: Simple Sorcessor
+      page: 29
+    - name: Troll
+      page: 219
+    - name: Santa
+      page: 36
+    - name: Box with Side Opening
+      page: 236
+    - name: Tall Basket
+      page: 79
+    - name: Sardine Can
+      page: 81
+    - name: Travelers Box
+      page: 197
+    - name: Quick and Easy Box
+      page: 196
+    - name: Nativity Star
+      page: 135
+    - name: Triangular Star
+      page: 123
+    - name: Angel
+      page: 117
+    - name: Star
+      page: 48
+    - name: Stellated Octahedron
+      page: 34
+    - name: Five Petal Flower
+      page: 18
+    - name: Narsisses
+      page: 65
+    - name: Hartham Flower Ring
+      page: 223
+    - name: 3-D Christmas Wreath
+      page: 286
+    - name: Spikey O
+      page: 230
+    - name: Celtic Motif 3
+      page: 268
+    - name: Flight of Fancy
+      page: 269
+    - name: Bow Tie
+      page: 56
+    - name: Daisy
+      page: 232
+    - name: Modular Crown
+      page: 198
+    - name: Liberty Crown
+      page: 290
+    - name: Module Chain
+      page: 199
+    - name: Rocking Horse
+      page: 161
+    - name: Unfortunate Suitor
+      page: 277
+    - name: While Folding
+      page: 95
+    - name: Musical Note
+      page: 119
+    - name: Gramophone
+      page: 83
+    - name: Purse
+      page: 67
+    - name: Pirendola
+      page: 260
+    - name: Table with 3 Legs
+      page: 266
+    - name: Men's Suit
+      page: 276
+    - name: Jooz-Purse
+      page: 228
+    - name: Magic Pyramid
+      page: 259
+    - name: Tangram Set
+      page: 125
+    - name: Folder
+      page: 54
+    - name: Cornet with Ice Cream
+      page: 43
+    - name: House and Tent
+      page: 71
+    - name: Sugar Cane
+      page: 258
 - title: Ornamental Origami
   author: Meenakshi Mukerji
   models:
