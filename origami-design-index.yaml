@@ -10396,3 +10396,29 @@
       page: 98
     - name: Bouquet of Lily
       page: 92
+- title: Learn of Fold Origami Animals
+  models:
+    - name: Fish
+      page: 4
+    - name: Hopping Frog
+      page: 9
+    - name: Snake
+      page: 12
+    - name: Tiger
+      page: 14
+    - name: Frog
+      page: 18
+    - name: Flapping Bird
+      page: 25
+    - name: Elephant
+      page: 28
+    - name: Dog
+      page: 36
+    - name: Crane
+      page: 38
+    - name: Cow
+      page: 40
+    - name: Cat
+      page: 46
+    - name: Butterfly
+      page: 48
