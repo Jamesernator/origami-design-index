@@ -10373,6 +10373,101 @@
       page: 88
     - name: Windmill
       page: 91
+- title: Practical & Decorative Origami
+  author: Jay Ansill
+  models:
+    - name: Napkin Ring 1
+      page: 22
+      paper: napkin
+    - name: Napkin Ring 2
+      page: 23
+      paper: napkin
+    - name: Napkin Ring 3
+      page: 24
+      paper: napkin
+    - name: Shawl
+      page: 26
+      paper: napkin
+    - name: Bird of Paradise
+      page: 27
+      paper: napkin
+    - name: Pajarita
+      page: 29
+    - name: Ingenious Letter-Fold
+      page: 33
+    - name: Star
+      page: 35
+    - name: Crane
+      page: 39
+    - name: Fancy Dish
+      page: 41
+    - name: Picture Frame
+      page: 44
+    - name: Renaissance Shopping Bag
+      page: 47
+    - name: Swallow
+      page: 51
+    - name: Flapping Dove
+      page: 54
+    - name: Parrot
+      page: 56
+    - name: Long-stemmed Flower
+      page: 59
+    - name: Short-stemmed Flower
+      page: 61
+    - name: Chalice
+      page: 62
+    - name: Heart Gift Box
+      page: 67
+    - name: Bowl
+      page: 72
+    - name: Penultimate System Unit 1
+      page: 80
+    - name: Penultimate System Unit 2
+      page: 83
+    - name: Penultimate System Unit 3
+      page: 85
+    - name: Star System
+      page: 87
+- title: Prehistoric Origami - Dinosaurs and Other Creatures
+  aliasOf: Dinosaur Origami
+- title: Romantic Origami
+  authors:
+    - Katrin Shumakov
+    - Yuri Shumakov
+  models:
+    - name: Heart
+      page: 4
+    - name: Clip-Heart
+      page: 5
+    - name: Clip-Heart Binding
+      page: 8
+    - name: Clip-Heart Bookmark
+      page: 10
+    - name: Clip-Heart Valentines
+      page: 11
+    - name: Two-Heart Valentine
+      page: 14
+    - name: Winged Clip-Heart
+      page: 15
+    - name: Heart Card
+      page: 18
+    - name: Two-Heart Card
+      page: 22
+    - name: Flying Heart Card
+      page: 23
+    - name: Flying Two-Heart Card
+      page: 24
+    - name: Double Heart
+      page: 25
+    - name: Double Heart Garland
+      page: 27
+    - name: Double Heart Card
+      page: 28
+    - name: Flying Heart
+      page: 29
+    - name: Valentine
+      page: 32
 - title: Russian Origami
   authors:
     - Sergei Afonkin
