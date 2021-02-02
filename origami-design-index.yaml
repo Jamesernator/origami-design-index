@@ -6662,6 +6662,102 @@
       page: 40
     - name: Santa's Sleigh
       page: 44
+- title: Origami Insects and Their Kin
+  author: Robert J. Lang
+  models:
+    - name: Treehopper
+      page: 10
+    - name: Spotted Ladybug
+      page: 14
+    - name: Orb Weaver
+      page: 19
+    - name: Tarantula
+      page: 24
+    - name: Tick
+      page: 29
+    - name: Ant
+      page: 34
+    - name: Butterfly
+      page: 40
+    - name: Scarab Beetle
+      page: 46
+    - name: Cicada
+      page: 52
+    - name: Grasshopper
+      page: 59
+    - name: Black Pine Sawyer
+      page: 66
+    - name: Dragonfly
+      page: 74
+    - name: Hercules Beetle
+      page: 82
+    - name: Long-Necked Seed Bug
+      page: 90
+    - name: Pill Bug
+      page: 98
+    - name: Praying Mantis
+      page: 106
+    - name: Stag Beetle
+      page: 114
+    - name: Paper Wasp
+      page: 122
+    - name: Samurai Helmet Beetle
+      page: 132
+    - name: Scorpion
+      page: 143
+- title: Origami Inside-Out
+  author: John Montroll
+  models:
+    - name: Ghost
+      page: 9
+    - name: Snowman
+      page: 11
+    - name: Martian
+      page: 15
+    - name: Tetrahedron
+      page: 20
+    - name: Diamond of Triangles
+      page: 22
+    - name: Diamond of Many Triangles
+      page: 25
+    - name: Cube of Triangles
+      page: 28
+    - name: Cube of Squares
+      page: 31
+    - name: Octahedron
+      page: 34
+    - name: Penguin
+      page: 38
+    - name: Canada Goose
+      page: 41
+    - name: Blue Jay
+      page: 47
+    - name: Skunk
+      page: 53
+    - name: Anteater
+      page: 58
+    - name: Raccoon
+      page: 64
+    - name: Tiger
+      page: 70
+    - name: Elephant
+      page: 75
+    - name: Holstein Cow
+      page: 83
+    - name: Pawn
+      page: 96
+    - name: Knight
+      page: 96
+    - name: Bishop
+      page: 98
+    - name: Rook
+      page: 101
+    - name: Queen
+      page: 103
+    - name: King
+      page: 106
+    - name: Chess Board & Chess Table
+      page: 110
 - title: Origami Inspirations
   author: Meenakshi Mukerji
   models:
@@ -6909,6 +7005,19 @@
     - name: Clasps
     - name: Pin Backs
     - name: Ear Wires
+- title: Origami Kaiju - Monster Origami
+  author: MKH
+  models:
+    - name: Baragon
+    - name: Gamera v1
+    - name: Gamera v2
+    - name: Gigan
+    - name: Godzilla
+    - name: Guilon
+    - name: Gyaos
+    - name: King Kong
+    - name: Mothra
+    - name: Rodan
 - title: Origami Magic
   author: Florence Temko
   models:
@@ -6974,6 +7083,30 @@
       page: 60
     - name: Flapping Bird
       page: 63
+- title: Origami Master Class Flowers
+  models:
+    - name: Sweet Pea
+      page: 28
+    - name: Bougainvillea
+      page: 36
+    - name: Narcissus
+      page: 52
+    - name: Lily with Six Petals
+      page: 64
+    - name: Hibiscus
+      page: 72
+    - name: Kawasaki Rose
+      page: 90
+    - name: Orchid
+      page: 112
+    - name: Zinnia
+      page: 140
+    - name: Bleeding Heart
+      page: 148
+    - name: A Miura-ken Beauty Rose Opus 482
+      page: 162
+    - name: Stemless Leaves
+      page: 188
 - title: Origami Monsters
   author: Isamu Asahi
   models:
