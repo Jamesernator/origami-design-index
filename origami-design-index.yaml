@@ -6310,6 +6310,75 @@
       page: 697
     - name: African Elephant
       page: 718
+- title: Origami Essence
+  author: Roman Diaz
+  models:
+    - name: Ring-tailed Lemur
+      page: 109
+    - name: Cardinal
+      page: 48
+    - name: Bunny
+      page: 81
+    - name: Inflatable Piggy
+      page: 90
+    - name: Owl
+      page: 99
+    - name: Panda
+      page: 17
+    - name: Pyramid
+      page: 60
+    - name: T Rex
+      page: 71
+    - name: Mythological Eagle
+      page: 134
+    - name: Wild Boar
+      page: 41
+    - name: Inflatable Swan
+      page: 75
+    - name: Traditional Chinese Frog
+      page: 148
+    - name: Little Frog
+      page: 151
+    - name: Little Toad
+      page: 153
+    - name: Bullfrog
+      page: 154
+    - name: Unicorn
+      page: 121
+    - name: Kingfisher
+      page: 31
+    - name: Long-tailed Bird
+      page: 93
+    - name: Donkey
+      page: 95
+    - name: Geometric Bird
+      page: 66
+    - name: Mocking Bird
+      page: 114
+    - name: Hereford Steer
+      page: 128
+    - name: Salmon
+      page: 22
+    - name: Dove in Love
+      page: 78
+    - name: Singing Cardinal
+      page: 103
+    - name: Owl
+      page: 15
+    - name: Acrobatic Elephant
+      page: 36
+    - name: Wren
+      page: 19
+    - name: Penguin
+      page: 26
+    - name: Vixen
+      page: 52
+    - name: Inflatable Fish
+      page: 86
+    - name: Geometric Hens
+      page: 62
+    - name: Goldfish
+      page: 84
 - title: Origami Fish and Other Sea Creatures
   author: Nick Robinson
   models:
